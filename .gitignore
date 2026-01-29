@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow these specific files
+!.gitignore
+!chem_pyqs.mmd
+!chem_pyqs.json
+!codes.txt
+
+# Allow chapter directories and specific files within them
+!chapters/
+!chapters/*/
+!chapters/*/ncert.md
+!chapters/*/flashcards.md
+!chapters/*/theory.txt
