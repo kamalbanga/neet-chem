@@ -1,0 +1,848 @@
+[PERIOD_T_001] Big Picture of Periodicity
+
+Three elements: lithium, sodium, potassium. All soft enough to cut with a knife. Drop any one in water — it reacts violently.
+
+Why do these three behave like family?
+
+@continue
+
+group-pattern.chem.svg
+
+@continue
+
+Count the outermost electrons. Li has one. Na has one. K has one. Different sizes — two shells, three, four — but always that single outer electron.
+
+It's the outer electrons that react. Same outer count, same chemistry.
+
+@continue
+
+Three more: fluorine, chlorine, bromine. All aggressively grab electrons from anything nearby. Outer electron count? Seven, seven, seven.
+
+This repeating pattern is what **periodic law** states: properties of elements repeat when elements are arranged by increasing atomic number. The whole system built on this pattern is **periodic classification**.
+
+@continue
+
+Now a surprise. Fluorine has three times more protons than lithium. You'd expect a bigger atom. It's actually less than half lithium's size.
+
+Both sit in the same row — their outer electrons fill the same shell. But fluorine has 9 protons pulling that shell inward; lithium has only 3. More pull, same shell — the atom shrinks.
+
+@continue
+
+Down a column, the opposite. Li to Na to K — each step adds a new shell. The outer electron sits farther out, shielded by more inner layers. The atom grows.
+
+Shrink across, expand down. Every trend in this chapter — how easily atoms lose electrons, how eagerly they grab extras, how strongly they pull on shared pairs — traces back to this tug-of-war between nuclear charge and distance.
+
+
+[PERIOD_T_002] Early Attempts at Classification
+
+Lithium: atomic weight 7. Potassium: atomic weight 39. Average those two — (7 + 39) ÷ 2 = 23.
+
+Sodium's atomic weight? Exactly 23. The middle element's weight is the average of the two extremes.
+
+@continue
+
+Johann Dobereiner spotted this pattern in the early 1800s. He called these sets of three `Dobereiner's Triads`. The **Law of Triads** worked for several groups: Ca–Sr–Ba, Cl–Br–I.
+
+But most elements didn't fit into neat trios. The pattern was real but too narrow.
+
+@continue
+
+John Newlands tried something broader. Line up all known elements by increasing atomic weight, and every eighth element shows similar properties — like musical notes repeating every octave. He called this the **Law of Octaves**.
+
+It worked up to calcium. After that, the pattern collapsed. Newlands had assumed every row has the same length. They don't — later rows hold 18 or even 32 elements, not 8.
+
+@continue
+
+Both attempts caught a real pattern. Neither could handle the full set of elements. A more flexible system was needed.
+
+
+[PERIOD_T_003] Mendeleev's Periodic Table
+
+In 1871, Mendeleev predicted an undiscovered element below aluminium. Its density should be about 5.9 g/cm³, he said.
+
+Gallium was discovered four years later. Density: 5.94. Almost exact.
+
+@continue
+
+He made another prediction — an element below silicon, which he called **Eka-silicon**. Germanium, discovered in 1886, matched his predictions perfectly.
+
+How could he predict properties of elements nobody had found?
+
+@continue
+
+Mendeleev and **Lothar Meyer** independently discovered: arrange elements by increasing atomic weight, and similar properties repeat at regular intervals. **Mendeleev's Periodic Law** states this — properties of elements are a periodic function of their atomic weights.
+
+@continue
+
+He laid elements in rows and columns so that similar ones fell in the same column. Where the pattern demanded an element but none was known, he left a gap — and used the surrounding elements to predict what should fill it.
+
+The gap below aluminium he called **Eka-aluminium**. The gap below silicon, **Eka-silicon**.
+
+@continue
+
+eka-predictions.chem.svg
+
+@continue
+
+Both predictions came true because the pattern was real.
+
+But the table had a problem. Some elements had to sit out of atomic-weight order to keep their chemistry in the right column.
+
+@continue
+
+Tellurium (atomic weight 128) came before iodine (127) — heavier before lighter. Mendeleev assumed the atomic weights were wrong. They weren't.
+
+The real fix would come from a different property entirely.
+
+
+[PERIOD_T_004] Modern Periodic Law
+
+Mendeleev sorted elements by atomic weight. But tellurium (128) had to come before iodine (127) — heavier before lighter — just to keep their chemistry in the right columns.
+
+Isotopes made it worse. Chlorine exists as Cl-35 and Cl-37 — same element, different masses. If atomic weight defines position, which mass do you pick?
+
+@continue
+
+The answer: stop sorting by mass entirely.
+
+**Henry Moseley** found this in 1913. He measured the characteristic X-rays each element emits and plotted √ν against the number of protons in the nucleus — the **atomic number**.
+
+@continue
+
+moseley-plot.chem.svg
+
+@continue
+
+Every element fell on a clean straight line. Plot √ν against atomic weight instead — the points scatter, and some even swap order (argon and potassium cross over). Atomic number gives the clean pattern.
+
+The **Modern Periodic Law**: physical and chemical properties of elements are periodic functions of their atomic numbers.
+
+@continue
+
+Tellurium (Z = 52) now naturally sits before iodine (Z = 53). No exceptions needed.
+
+Why does atomic number work where weight failed? Because atomic number fixes the electron count. And it's the electrons — specifically the outer ones — that decide chemistry.
+
+
+[PERIOD_T_005] Structure of the Modern Periodic Table
+
+Period 1 has 2 elements. Period 2 has 8. Period 3 has 8. Period 4 jumps to 18. Period 5 also has 18. Period 6 stretches to 32.
+
+Why 2, 8, 8, 18, 18, 32 — and not some regular number?
+
+@continue
+
+Each period fills one more set of subshells. Period 1 fills only 1s — room for 2 electrons, so 2 elements. Periods 2 and 3 fill s and p orbitals (8 each).
+
+Periods 4 and 5 add d orbitals (18 each). Period 6 adds f orbitals too (32 elements).
+
+@continue
+
+period-subshells.chem.svg
+
+@continue
+
+The rule: number of elements in a period = twice the number of orbitals filled in that period. The period lengths aren't arbitrary — they're set by quantum mechanics.
+
+The 7 horizontal rows are called **periods**. The 18 vertical columns are called **groups**. IUPAC numbers groups 1 through 18, left to right.
+
+@continue
+
+The **principal quantum number** of the outermost shell equals the period number. All Period 3 elements have n = 3 as their highest shell.
+
+The 14 elements filling 4f orbitals (Ce to Lu) and the 14 filling 5f (Th to Lr) are pulled out below the main table to keep it compact.
+
+@continue
+
+IUPAC gives unnamed elements temporary names from digit roots: 0 = nil, 1 = un, 2 = bi, 3 = tri, 4 = quad, ending in "-ium."
+
+Element 104 = un-nil-quad-ium = Unnilquadium. Once confirmed, a permanent name replaces it — 104 is now Rutherfordium. This is the **IUPAC nomenclature** system.
+
+
+[PERIOD_T_006] Electronic Configuration and the Periodic Table
+
+Sodium's **electronic configuration** is [Ne] 3s¹. That single line tells you exactly where Na sits in the periodic table.
+
+The "3" in 3s¹ is the highest principal quantum number — Period 3. The "s¹" means one **valence shell** electron — Group 1.
+
+@continue
+
+Try chlorine: [Ne] 3s² 3p⁵. Highest n is still 3 — Period 3. It's in the p-block, so group = 12 + number of p electrons = 12 + 5 = Group 17.
+
+The table *is* the configuration, laid out as a grid. Every element in Group 1 ends in s¹. Every element in Group 17 ends in s² p⁵. Same group, same valence pattern — that's why they behave alike.
+
+@continue
+
+The **aufbau principle** governs filling order: electrons enter the lowest available orbital first. Each time a new shell starts filling, a new period begins.
+
+@continue
+
+Now a trickier one — iron: [Ar] 3d⁶ 4s². Highest n is 4 — Period 4. But the last electrons entered the 3d subshell. That puts iron in the d-block.
+
+Its group? For d-block, add d and s electrons: 6 + 2 = 8. Group 8.
+
+@continue
+
+config-decoder.chem.svg
+
+@continue
+
+Three blocks, three group-number rules. s-block: group = valence electrons. d-block: group = d + s electrons. p-block: group = 12 + p electrons.
+
+Configuration tells you the period (highest n), the block (which subshell fills last), and the group.
+
+
+[PERIOD_T_007] s-Block and p-Block Elements
+
+Why do all Group 1 elements — lithium, sodium, potassium, rubidium, caesium, francium — behave the same way? Soft metals, violent reactions with water, always forming +1 ions.
+
+Check their configurations. Every one ends in ns¹. One loosely held outer electron. That single electron is easy to lose — and losing it is exactly what they all do.
+
+Same valence configuration, same chemistry.
+
+@continue
+
+pt-blocks.chem.svg
+
+@continue
+
+Where the last electron enters — s, p, d, or f — defines the block. Groups 1 and 2 form the **s-block**: last electron enters an s orbital.
+
+Group 1 elements are the **alkali metals** (ns¹). Group 2 — Be, Mg, Ca, Sr, Ba, Ra — are the **alkaline earth metals** (ns²). They lose one or two electrons to form +1 or +2 ions.
+
+Their compounds are mostly ionic (except Li and Be, which show more covalent character).
+
+@continue
+
+Hydrogen is the oddball. It has ns¹ like alkali metals, but it's a nonmetal. It can also *gain* an electron like halogens. So it sits alone at the top — not firmly in any group.
+
+Helium (1s²) is technically s-block by filling order, but its valence shell is full. It behaves like a noble gas, so it's placed with Group 18.
+
+@continue
+
+Groups 13 to 18 form the **p-block** — last electron enters a p orbital. This block holds enormous variety: metals, nonmetals, and metalloids all live here.
+
+The pattern holds: same group, same outer configuration, same chemistry. Every Group 17 element ends in ns² np⁵ — one electron short of a full shell. That's why they all aggressively grab electrons. These are the **halogens** — "salt producers."
+
+@continue
+
+Group 16 (O, S, Se, Te) are the `chalcogens` — "ore formers." Two electrons short of a full shell.
+
+Group 18 (He, Ne, Ar, Kr, Xe) are the **noble gases** — full outer shells, near-zero reactivity.
+
+s-block and p-block together are called `representative elements` (or main group elements). Their valence electron count follows a predictable pattern from the group number.
+
+
+[PERIOD_T_008] d-Block and f-Block Elements
+
+Iron rusts. Copper turns green. Gold stays untarnished. All three are metals — but they behave very differently from sodium or calcium.
+
+Sodium has one option: lose its lone outer electron. Na⁺, always. But iron can be Fe²⁺ *or* Fe³⁺. Manganese ranges from +2 all the way to +7. Where does this flexibility come from?
+
+@continue
+
+These elements sit in the middle of the table, Groups 3 to 12. They're the **d-block** elements, with general outer configuration (n−1)d¹⁻¹⁰ ns⁰⁻².
+
+The key is energy spacing. In sodium, there's a big energy gap between the outer 3s electron and the 2p core below. Only one electron can participate.
+
+But in iron, 3d and 4s electrons are nearly equal in energy. Remove two (4s electrons) — Fe²⁺. Remove three — Fe³⁺. The close spacing gives transition metals their variable oxidation states.
+
+@continue
+
+Most d-block elements are called **transition elements**. The distinction matters: a transition element must have a partially filled d subshell in the element or its common ions.
+
+@continue
+
+d-transition-test.chem.svg
+
+@continue
+
+Partly filled d orbitals also explain coloured ions. When light hits Cu²⁺ in solution, it has just the right energy to bump a d electron from one orbital to another. The light absorbed is in the visible range — and the colour you see is whatever's left over. Cu²⁺ absorbs red/orange, so the solution looks blue.
+
+Fully filled or completely empty d orbitals can't do this — no electron jump is possible within the subshell.
+
+@continue
+
+Many transition metals work as catalysts too. Their variable oxidation states let them shuttle electrons between reactants — accepting from one, donating to another.
+
+@continue
+
+Zn, Cd, and Hg sit in the d-block but break every rule. d¹⁰ configurations — all d orbitals full. No variable valence, no colour, no typical transition behaviour.
+
+@continue
+
+Below the main table sit two rows of 14 elements each. These are the **f-block** elements — last electron enters an f orbital.
+
+The first row (Ce to Lu, Z = 58–71) fills 4f orbitals. These are the **lanthanoids**.
+
+@continue
+
+Their chemistry is remarkable for its *sameness*. Almost all show the +3 oxidation state. Why so uniform?
+
+The 4f orbitals sit deep inside the atom — buried beneath the 5s, 5p, and 5d shells. They're too far from the bonding zone to affect chemistry.
+
+It's as if the 4f electrons are locked in a back room while the outer electrons do all the work.
+
+@continue
+
+The second row (Th to Lr, Z = 90–103) fills 5f orbitals. These are the **actinoids**. All are radioactive. Elements beyond uranium (Z > 92) are called **transuranium elements** — most are synthetic.
+
+Lanthanoids and actinoids together are called **inner-transition elements**.
+
+
+[PERIOD_T_009] Metals, Non-metals, and Metalloids
+
+Iron is hammered into sheets. Copper is drawn into wires. Both conduct electricity. These are typical **metals** — they lose electrons easily, form cations.
+
+They make up over 78% of all known elements.
+
+@continue
+
+Most metals are solid, but mercury is liquid at room temperature. Gallium and caesium melt just above room temperature (~302–303 K) — you could melt them in your hand.
+
+@continue
+
+**Non-metals** are the opposite. Sulfur is brittle. Oxygen is a gas. Neither conducts electricity well.
+
+Non-metals tend to *gain* electrons and form anions. They cluster at the top-right of the periodic table.
+
+@continue
+
+Between them runs a zig-zag staircase line — from boron down through silicon, germanium, arsenic, antimony, and tellurium.
+
+@continue
+
+staircase.chem.svg
+
+@continue
+
+Elements along this boundary share properties of *both* sides.
+
+Silicon looks metallic but conducts electricity poorly — unless you dope it with impurities. These borderline elements are **metalloids** (also called **semi-metals**).
+
+@continue
+
+The trend across a period is clear. Start at sodium (far left) — a highly reactive metal. Move right through magnesium, aluminium... metallic character fades.
+
+By silicon you're at the boundary. Continue to chlorine and argon — fully non-metallic.
+
+@continue
+
+Down a group, metallic character *increases*. Carbon is a nonmetal. Silicon is a metalloid. Tin and lead are metals.
+
+More shells mean the outer electrons are farther from the nucleus — easier to lose.
+
+So metallic character increases down a group and decreases across a period. Non-metallic character follows the reverse.
+
+
+[PERIOD_T_010] Effective Nuclear Charge and Shielding
+
+Lithium has 3 protons. But its outer electron doesn't feel +3. Two inner electrons sit between it and the nucleus, pushing outward, partially cancelling the pull.
+
+The outer electron feels roughly +1. That net pull is the `effective nuclear charge` (Zeff) — nuclear charge minus the cancelling effect of inner electrons.
+
+@continue
+
+Those inner electrons act as a shield. **Shielding** (also called **screening**) is why outer electrons are so much easier to remove than inner ones. More inner shells, stronger shield.
+
+Now the critical question: what changes across a period?
+
+@continue
+
+Go from Li to Be. Same inner shell — two 1s electrons. But Be has 4 protons, not 3. Same shield, stronger pull. Zeff rises.
+
+Continue to B, C, N, O, F. Each step adds one proton and one electron.
+
+But the new electron enters the same outer shell — it sits *beside* the existing outer electrons, not *between* them and the nucleus.
+
+@continue
+
+That's the key. Same-shell electrons shield each other poorly. They're at roughly equal distance from the nucleus. Neither blocks the other's line to the positive charge.
+
+@continue
+
+zeff-shielding.chem.svg
+
+@continue
+
+So protons accumulate, shielding barely grows, and **effective nuclear charge** climbs steadily left to right. That's the engine behind every "across a period" trend — shrinking atoms, rising ionization enthalpy, increasing electronegativity.
+
+@continue
+
+Down a group, the reverse. Na has 10 inner electrons shielding. K has 18. Each new period inserts a whole shell between the outer electron and the nucleus.
+
+Shielding grows faster than nuclear charge. Outer electrons feel a weaker Zeff.
+
+Two directions, opposite effects. Across: Zeff rises. Down: Zeff falls. Every trend in this chapter traces back to this pattern.
+
+
+[PERIOD_T_011] Atomic Radius
+
+Lithium has 3 electrons. Fluorine has 9. Both sit in Period 2 — their outermost electrons fill the same shell.
+
+More electrons usually means a bigger cloud. So which atom is bigger?
+
+@continue
+
+Walk across Period 2 and watch.
+
+Li: 152 pm. Be: 111 pm. Already shrinking — even though Be has *more* electrons. B: 88 pm. C: 77 pm. N: 74 pm. O: 66 pm. F: 64 pm.
+
+Every step adds one proton and one electron to the same shell. Yet the atom shrinks every time. Fluorine — with six more electrons than lithium — is less than half its size.
+
+@continue
+
+atomic-radius-trend.chem.svg
+
+@continue
+
+The electrons didn't expand the cloud. The protons won.
+
+Each new electron enters the same outer shell — it sits *beside* existing outer electrons, not between them and the nucleus. It barely adds any shielding. But each new proton adds full pull. Zeff climbs, the shell is squeezed inward.
+
+@continue
+
+Down a group, the opposite. Li: 152 pm. Na: 186 pm. K: 231 pm. Each step adds a whole new shell.
+
+The outer electron sits farther from the nucleus, shielded by an entire new layer of inner electrons. The atom *grows*.
+
+@continue
+
+How is **atomic radius** actually measured? You can't measure a single atom's edge — the electron cloud has no sharp boundary.
+
+For nonmetals, we measure the distance between two bonded atoms and halve it. Cl₂ has a bond length of 198 pm, so chlorine's `covalent radius` is 99 pm.
+
+@continue
+
+For metals, we halve the distance between adjacent atoms in a crystal. Copper atoms sit 256 pm apart, giving a `metallic radius` of 128 pm.
+
+Noble gases don't bond with themselves under normal conditions. Their radii are estimated from how close two unbound atoms sit near each other — the `van der Waals radius`. These are much larger than covalent radii.
+
+@continue
+
+One surprise: gallium (Group 13, Period 4) is *smaller* than aluminium above it. Going down a group should make atoms bigger. What went wrong?
+
+The 3d electrons that fill before gallium sit in spread-out orbitals. They don't effectively block the nuclear charge from reaching the outer electrons. So Ga's outer electrons get pulled in tighter than expected.
+
+
+[PERIOD_T_012] Ionic Radius
+
+Sodium has three electron shells: [2, 8, 1]. Remove that one outer electron to make Na⁺, and you're left with [2, 8] — the entire third shell is gone.
+
+That's why the **ionic radius** drops from 186 pm to 95 pm. You haven't just squeezed the same cloud tighter. You've stripped away a whole shell. What remains is the compact neon core.
+
+@continue
+
+This is what happens with most metal **cations**. K⁺ loses its 4th shell. Mg²⁺ loses all of shell 3. Each time, the ion shrinks down to the noble gas core underneath.
+
+Cations are always *smaller* than their parent atoms. And the more electrons removed, the greater the shrinkage.
+
+@continue
+
+Mg²⁺ is even smaller than Na⁺ — it lost the same shell and has one more proton pulling the remaining electrons inward.
+
+@continue
+
+**Anions** work the opposite way. Fluorine has 9 protons and 9 electrons. Add one to make F⁻: still 9 protons, now 10 electrons.
+
+The extra electron doesn't add a new shell. It joins the existing outer shell. But with 10 electrons sharing the pull of only 9 protons, each one feels weaker Zeff.
+
+The cloud loosens — F⁻ balloons from 64 pm to 136 pm.
+
+@continue
+
+ionic-radius.chem.svg
+
+@continue
+
+Anions are always *larger* than their parent atoms.
+
+Ionic radii follow the same periodic trends as atomic radii. Across a period, cations shrink (rising nuclear charge on similar cores).
+
+Down a group, both cations and anions grow — more shells mean more distance.
+
+
+[PERIOD_T_013] Isoelectronic Species
+
+O²⁻ has 10 electrons. F⁻ has 10 electrons. Na⁺ has 10. Mg²⁺ has 10. Four different species, four different elements — but the same electron count.
+
+Species with the same number of electrons are called **isoelectronic species**.
+
+@continue
+
+Same electrons, but their sizes are very different. O²⁻ is the largest. Mg²⁺ is the smallest. Why?
+
+O²⁻ has only 8 protons holding those 10 electrons. F⁻ has 9. Na⁺ has 11. Mg²⁺ has 12. More protons pulling on the same number of electrons means a tighter, smaller cloud.
+
+@continue
+
+The rule is simple: among isoelectronic species, the one with the *most* protons (highest nuclear charge) is the smallest.
+
+So the size order is: O²⁻ > F⁻ > Na⁺ > Mg²⁺.
+
+@continue
+
+isoelectronic.chem.svg
+
+@continue
+
+This works for any isoelectronic set. N³⁻, O²⁻, F⁻, Ne, Na⁺, Mg²⁺, Al³⁺ — all have 10 electrons.
+
+Line them up by nuclear charge and the sizes fall into place: most negative ion is largest, most positive ion is smallest.
+
+
+[PERIOD_T_014] Ionization Enthalpy
+
+Removing an electron from Na costs 496 kJ/mol. From F, it costs 1681 kJ/mol — over three times more. Same period, vastly different grip.
+
+The energy needed to remove the outermost electron from an isolated gaseous atom is its **first ionization enthalpy**:
+
+X(g) → X⁺(g) + e⁻
+
+@continue
+
+The trend should track Zeff. Across a period, Zeff rises, the atom grips tighter. So **ionization enthalpy** should climb steadily left to right — each element harder to ionize than the last.
+
+Let's check. Here's Period 2, one element at a time.
+
+@continue
+
+ie-trend.chem.svg
+
+@continue
+
+Li: 520 kJ/mol. Be: 900. Steep climb — matches the prediction perfectly.
+
+Now boron: 801. It dropped.
+
+Boron has *more* protons than beryllium. It should grip harder. Why is it easier to ionize?
+
+@continue
+
+2s-vs-2p.chem.svg
+
+@continue
+
+Be's outer electron sits in a 2s orbital — it penetrates close to the nucleus. B's outer electron is in 2p — a new subshell, farther out on average, easier to remove.
+
+One extra proton wasn't enough to offset the jump from s to p. The orbital type matters, not just Zeff.
+
+@continue
+
+The climb resumes. C: 1086. N: 1402. Three clean steps up — Zeff winning again.
+
+Oxygen: 1314. Another drop. N has one fewer proton, yet holds its electrons more tightly.
+
+This time both electrons are in 2p. The s-vs-p argument can't apply. Something else is going on.
+
+@continue
+
+Nitrogen's three 2p electrons each occupy a separate orbital — spread out, no crowding.
+
+Oxygen's fourth 2p electron must pair up in one orbital, creating extra electron-electron repulsion. That paired electron is easier to knock off.
+
+@continue
+
+Two dips in a "steady climb" — and each reveals something the simple Zeff picture misses. The Be→B dip shows that orbital type matters. The N→O dip shows that pairing costs energy.
+
+F: 1681. Ne: 2081. The climb finishes at the noble gas peak.
+
+@continue
+
+Down a group, the opposite. Li (520) → Na (496) → K (419). Each step adds a new shell. The outer electron sits farther out, shielded by more inner layers. Easier to remove.
+
+@continue
+
+Now consider removing a *second* electron. After the first is gone, the atom is already a positive ion — its remaining electrons feel a stronger pull. So **second ionization enthalpy** is always higher than first.
+
+Na's IE₁ is 496, IE₂ is 4562 — a ninefold jump. That second electron comes from the stable neon core. Breaching a noble gas shell costs enormous energy.
+
+Every trend in ionization enthalpy traces back to one question: how tightly does the atom grip that outermost electron?
+
+
+[PERIOD_T_015] Electron Gain Enthalpy
+
+Halogens have seven outer electrons — one short of a full shell. They *want* that extra electron. Among them, fluorine is the smallest, with the highest Zeff. It should grab hardest.
+
+Predict: which halogen releases the most energy when it gains an electron?
+
+@continue
+
+The energy change when an electron is added to a neutral gaseous atom is called **electron gain enthalpy** (ΔegH):
+
+X(g) + e⁻ → X⁻(g)
+
+When energy is released, ΔegH is *negative*. More negative means the atom is more eager to accept an electron.
+
+@continue
+
+Build the halogen series bottom-up. Iodine: −295 kJ/mol. Bromine: −325. Chlorine: −349. Getting more negative as atoms shrink — exactly as Zeff predicts.
+
+Fluorine should break the record.
+
+@continue
+
+ege-halogens.chem.svg
+
+@continue
+
+Fluorine: −328. Less negative than chlorine. The prediction fails.
+
+@continue
+
+Fluorine is *too* small. Its 2p orbitals are so compact that seven electrons are already crammed tightly. When the eighth arrives, it faces fierce repulsion from the existing crowd.
+
+Chlorine's 3p orbitals are larger — more room, less crowding. The incoming electron settles in with less repulsion, so more net energy is released.
+
+Same physics as the N→O ionization dip — cramming electrons into small spaces costs energy.
+
+@continue
+
+The general trend still holds. Across a period, Zeff rises and atoms shrink. An incoming electron lands closer to a stronger nucleus — more energy released. ΔegH becomes more negative left to right.
+
+Down a group, the atom grows. The incoming electron lands farther from the nucleus, in a larger shell. Less attraction, less energy released. ΔegH becomes less negative.
+
+@continue
+
+Noble gases are the exception. Their outer shells are completely full. An extra electron would have to enter the next higher shell — far from the nucleus, barely held. Their electron gain enthalpies are large *positive* numbers.
+
+@continue
+
+An older term, `electron affinity`, uses the opposite sign convention — positive means energy released. NCERT uses electron gain enthalpy.
+
+
+[PERIOD_T_016] Electronegativity
+
+H₂ is a molecule of two identical atoms. The shared electrons sit perfectly centered. Equal tug-of-war, no winner.
+
+Replace one hydrogen with fluorine. HF. Same deal — two atoms sharing a pair of electrons. But now the sharing is lopsided. The electrons spend far more time near fluorine.
+
+@continue
+
+bond-polarity.chem.svg
+
+@continue
+
+HF has a measurable dipole — one end slightly negative, the other slightly positive. The molecule is lopsided because fluorine pulls the shared pair toward itself.
+
+Replace fluorine with chlorine. HCl also has a dipole — but weaker. HBr, weaker still. HI, barely any.
+
+What decides how hard an atom pulls on shared electrons?
+
+@continue
+
+This pulling power is called **electronegativity**. It's not about gaining or losing electrons outright — it's about tug-of-war over a *shared* pair in a bond.
+
+Linus Pauling built the most widely used scale. He assigned fluorine — the strongest puller — a value of 4.0. Everything else is measured relative to that. This is the **Pauling scale**.
+
+@continue
+
+The logic follows Zeff. Fluorine: small atom, high Zeff. The shared pair sits close to a strong nucleus. Powerful pull. Iodine: large atom, the shared pair sits far from the nucleus. Weak pull.
+
+Across Period 2: Li = 1.0, Be = 1.5, B = 2.0, C = 2.5, N = 3.0, O = 3.5, F = 4.0. A clean staircase — increments of 0.5, tracking the steady rise in Zeff.
+
+Down a group, electronegativity falls. Larger atoms, more shielding, weaker grip on shared pairs.
+
+@continue
+
+Electronegativity connects directly to metallic character. Metals have low electronegativity — they'd rather *lose* electrons than pull shared ones.
+
+Non-metals have high electronegativity — they pull shared electrons toward themselves.
+
+The increase in electronegativity across a period mirrors the shift from metallic to non-metallic behaviour.
+
+@continue
+
+One important nuance: electronegativity isn't a fixed property of an isolated atom. It depends on what the atom is bonded *to*. Carbon bonded to fluorine acts more electropositive than carbon bonded to hydrogen.
+
+The values on the Pauling scale are averages across many compounds.
+
+
+[PERIOD_T_017] Valence and Oxidation States
+
+Na forms NaCl. Mg forms MgCl₂. Al forms AlCl₃. Si forms SiCl₄. Each element takes on more chlorine atoms — 1, 2, 3, 4. What decides the number?
+
+**Valence** is the combining capacity of an element — how many bonds it forms or how many atoms of hydrogen it combines with.
+
+@continue
+
+For metals on the left, valence matches outer electron count. Na has 1 outer electron — it loses that electron, bonds with one Cl⁻. Mg has 2, loses both. Al has 3.
+
+But nitrogen has 5 outer electrons and its valence in NH₃ is 3, not 5. Why?
+
+@continue
+
+Because nitrogen doesn't lose 5 electrons. It *shares* 3 of its electrons with three hydrogen atoms, filling its outer shell to 8.
+
+The valence of 3 comes from how many electrons nitrogen needs to reach a full shell — that's 8 minus 5.
+
+@continue
+
+So valence works two ways. Groups 1–4: valence = outer electrons (atoms that give up or share all of them).
+
+Groups 15–17: valence = 8 minus outer electrons (atoms that share just enough to reach 8).
+
+That's why valence rises from Na (1) to Si (4), then falls: P (3), S (2), Cl (1).
+
+@continue
+
+valence-pattern.chem.svg
+
+@continue
+
+Hydride formulas across Period 3 show this: NaH, MgH₂, AlH₃, SiH₄, PH₃, H₂S, HCl.
+
+@continue
+
+**Oxidation state** is a related but more precise idea. It's the charge an atom would carry if every shared electron pair were assigned entirely to the more electronegative partner.
+
+In Na₂O, sodium is +1 and oxygen is −2. In OF₂, fluorine is more electronegative — so each F is −1, and oxygen is forced to +2. Same element, different partner, different oxidation state.
+
+@continue
+
+Nitrogen shows this range dramatically: −3 in NH₃, but +5 in N₂O₅.
+
+Oxide formulas across Period 3 — Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀, SO₃, Cl₂O₇ — show the same valence pattern from the other side.
+
+Oxygen count climbs left to right.
+
+
+[PERIOD_T_018] Anomalous Properties of Second Period Elements
+
+Nitrogen exists as N₂ — held together by a triple bond. Phosphorus can't do this. It forms P₄ instead, with only single bonds. Why can't the heavier element copy nitrogen?
+
+@continue
+
+Second period elements (Li to F) are the odd ones out in their groups.
+
+Everything traces back to one fact: they sit in the n = 2 shell, which is tiny and has only four orbitals.
+
+@continue
+
+Small size means high charge density. Li⁺ packs a +1 charge into a very small radius. It pulls so hard on the electron cloud of any nearby anion that the bond becomes partly covalent.
+
+LiCl behaves differently from NaCl — more covalent, less ionic — because Li⁺ is so much smaller than Na⁺.
+
+@continue
+
+Same with Be²⁺ — doubly charged and tiny. BeCl₂ is a covalent molecule. MgCl₂, with the larger Mg²⁺, is ionic. Second period elements form more covalent compounds than their heavier group members.
+
+@continue
+
+Limited orbitals set a hard ceiling. With only one 2s and three 2p orbitals, second period atoms max out at four bonds. Their **maximum covalency** is 4.
+
+Boron in [BF₄]⁻ is at capacity. Aluminium, with empty 3d orbitals available, easily reaches six bonds in [AlF₆]³⁻.
+
+@continue
+
+Small size also enables sideways p orbital overlap. When two small atoms sit close together, their p orbitals overlap side-by-side — not just end-to-end. This is **pπ–pπ bonding**.
+
+That's how nitrogen forms N≡N. Two small atoms, close enough for strong sideways overlap, make one σ and two π bonds. Carbon does C=C. Oxygen does C=O.
+
+@continue
+
+Phosphorus atoms are too large. Their 3p orbitals are too diffuse for effective sideways overlap. So phosphorus settles for single bonds — four of them, arranged as P₄.
+
+@continue
+
+pi-overlap.chem.svg
+
+@continue
+
+These differences produce a diagonal pattern. Lithium resembles magnesium more than sodium. Beryllium resembles aluminium more than magnesium.
+
+This is the **diagonal relationship** — the first member of a group behaves like the element one group right and one period down.
+
+@continue
+
+diagonal-relationship.chem.svg
+
+@continue
+
+Li⁺ is small with +1 charge. Mg²⁺ is larger but carries +2. Their charge-to-size ratios end up similar — so they polarize anions to a similar degree, and their chemistry overlaps.
+
+Same logic connects Be²⁺ (tiny, +2) with Al³⁺ (larger, +3).
+
+
+[PERIOD_T_019] Nature of Oxides
+
+Na₂O dissolves in water and turns litmus blue — it's a base. Cl₂O₇ dissolves in water and turns litmus red — it's an acid.
+
+Both are oxides. The difference? Where the element sits in the period.
+
+@continue
+
+Oxides of elements on the far left are **basic oxides**. Na₂O and MgO react with acids.
+
+Na₂O is ionic — it contains free O²⁻ ions. In water, O²⁻ grabs a proton: O²⁻ + H₂O → 2OH⁻. That's why it's basic. Na₂O + H₂O → 2NaOH.
+
+@continue
+
+Move to the far right. Non-metals form **acidic oxides**. SO₃ + H₂O → H₂SO₄. Cl₂O₇ + H₂O → 2HClO₄.
+
+Non-metal oxides are covalent — no O²⁻ to donate. Instead, water reacts with the covalent oxide to form an acid. The bonding type determines the acid-base behaviour.
+
+The further right in the period, the more acidic the oxide.
+
+@continue
+
+In between sit elements like aluminium. Al₂O₃ reacts with *both* acids and bases.
+
+With HCl, it acts as a base. With NaOH, it acts as an acid. Oxides that go both ways are called **amphoteric oxides**.
+
+@continue
+
+A few oxides don't react with acids *or* bases. CO and NO are **neutral oxides** — they show no acidic or basic behaviour.
+
+The full progression across Period 3:
+
+@continue
+
+oxide-nature.chem.svg
+
+@continue
+
+Metals form ionic oxides — basic. Non-metals form covalent oxides — acidic. Borderline elements like Al form amphoteric oxides. The oxide pattern maps directly onto the metal-to-nonmetal shift across the period.
+
+
+[PERIOD_T_020] Chemical Reactivity and Periodic Trends
+
+Sodium and chlorine are both extremely reactive. Sodium explodes in water. Chlorine attacks metals on contact.
+
+Put them together: NaCl. Table salt. Completely harmless. Two violent elements making the most boring compound imaginable.
+
+Why are elements at the *edges* of a period so reactive, while those in the middle are calm?
+
+@continue
+
+The two extremes use opposite strategies to reach the same goal — a stable, filled outer shell.
+
+Sodium (far left) has one lonely electron in its outer shell. Losing it is easy — IE₁ is just 496 kJ/mol. Na → Na⁺ + e⁻ happens eagerly. The **metallic character** of an element tracks how easily it loses electrons.
+
+@continue
+
+Chlorine (far right) is one electron *short* of a full shell. Grabbing that electron releases 349 kJ/mol. Cl + e⁻ → Cl⁻. The **non-metallic character** of an element tracks how eagerly it gains electrons.
+
+Both are desperate — one to give, one to take. When they meet, the transfer is instant. Na loses, Cl gains, NaCl forms.
+
+@continue
+
+reactivity-u.chem.svg
+
+@continue
+
+In the middle — aluminium, silicon — elements are neither strong losers nor strong gainers. No desperation, no violence.
+
+**Chemical reactivity** peaks at both extremes and dips in the center.
+
+@continue
+
+Down a group, each strategy intensifies on its own side. Cs is more reactive than Na — its outer electron sits farther out, shielded by more layers, easier to lose. Metallic character increases down a group.
+
+Fluorine is more reactive than iodine — its small size and high Zeff make it a fiercer electron-grabber. Non-metallic character increases *up* a group.
+
+@continue
+
+Every trend in this chapter connects to one root: how tightly does the atom hold its outermost electrons?
+
+Zeff controls the grip. Grip controls size, ionization enthalpy, electron gain enthalpy, and electronegativity. And all of those control reactivity. One cause, many effects.

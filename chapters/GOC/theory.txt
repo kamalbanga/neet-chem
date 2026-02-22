@@ -1,0 +1,893 @@
+[GOC_T_001] Big Picture of Organic Chemistry
+
+Look around — fuels, medicines, dyes, plastics, even your DNA. All built from carbon. Why does one element dominate chemistry so completely?
+
+Carbon has a **tetravalence** of four. It forms four strong **covalent bonds**. More importantly, carbon atoms bond to each other in long chains, branches, and rings.
+
+Why carbon and not other elements? Carbon is small, so its orbitals overlap strongly. A C–C bond (348 kJ/mol) is almost as strong as a C–H bond (414 kJ/mol).
+
+Bigger atoms like silicon make much weaker Si–Si bonds that break easily. Carbon's strong self-linking produces millions of **organic compounds**.
+
+For a long time, nobody believed you could make these compounds in a lab. Around 1780, chemists separated substances into "organic" (from living things) and "inorganic" (from minerals).
+
+Berzelius proposed the `vital force theory` — the idea that organic compounds needed a mysterious life force. Only living organisms could produce them.
+
+Then in 1828, Friedrich Wöhler heated ammonium cyanate — a simple inorganic salt — and got urea, a compound found in urine.
+
+NH₄CNO →(Heat) NH₂CONH₂
+
+No living cell was involved. The **vital force theory** collapsed. Kolbe later synthesised acetic acid (1845), and Berthelot made methane (1856). Organic chemistry was just carbon chemistry.
+
+This chapter builds your toolkit piece by piece. First: how carbon atoms connect (structure and bonding). Then: how we name them (nomenclature).
+
+Next: how electrons shift within molecules (electronic effects). Finally: how we separate and identify compounds (purification and analysis).
+
+Each piece builds on the last. You need bonding before you can name structures. You need naming before you can track electron shifts.
+
+And you need electron shifts before you can predict how a molecule reacts.
+
+
+[GOC_T_002] Hybridisation and Molecular Shapes
+
+Carbon has one 2s and three 2p orbitals — but they point in different directions and have different energies. If carbon used them as-is, its four bonds wouldn't be equivalent.
+
+Instead, the orbitals mix to form identical hybrid orbitals that spread out as far apart as possible. This mixing is hybridisation.
+
+In `sp³ hybridisation`, one s and three p orbitals mix into four identical hybrid orbitals. These point to the corners of a tetrahedron — 109.5° apart.
+
+Methane (CH₄) shows this shape. Every carbon with only single bonds is sp³.
+
+In `sp² hybridisation`, one s and two p orbitals mix into three orbitals in a plane, 120° apart — trigonal planar.
+
+One p orbital remains unhybridised, sticking perpendicular to the plane. Ethene (C₂H₄) has sp² carbons.
+
+In `sp hybridisation`, one s and one p orbital mix into two orbitals pointing in opposite directions — linear, 180°. Two p orbitals remain unused. Ethyne (C₂H₂) has sp carbons.
+
+Here's the pattern that ties them together. sp has 50% s character, sp² has 33%, and sp³ has 25%.
+
+Electrons in an orbital with more s character sit closer to the nucleus. The nucleus pulls them more tightly, which shortens and strengthens the bond.
+
+So sp C–H bonds are shorter and stronger than sp² C–H, which are shorter than sp³ C–H.
+
+Because sp electrons are held tighter, sp carbon is more electronegative than sp² or sp³. This explains why ethyne (HC≡CH) is weakly acidic.
+
+The sp carbon pulls bonding electrons away from hydrogen, leaving H slightly positive — easier to lose as H⁺.
+
+And once H leaves, the resulting C⁻ is stable because its lone pair sits in an sp orbital, held close to the nucleus.
+
+| Hybridisation | s character | Geometry | Bond angle |
+|---|---|---|
+| sp³ | 25% | Tetrahedral | 109.5° |
+| sp² | 33% | Trigonal planar | 120° |
+| sp | 50% | Linear | 180° |
+
+
+[GOC_T_003] Sigma and Pi Bonds
+
+Two atomic orbitals can overlap in two ways. The type of overlap decides the bond's properties.
+
+Head-on overlap — where orbitals meet along the line connecting two nuclei — forms a `sigma (σ) bond`.
+
+The electron cloud concentrates between the atoms, directly on the bond axis. This is the strongest type of covalent bond.
+
+Rotation around a σ bond is free. Think of two balls connected by a rod — spinning one doesn't break the connection.
+
+Sideways overlap of parallel p orbitals forms a `pi (π) bond`. The electron cloud sits above and below the plane of the bonded atoms — not between them.
+
+This sideways overlap has a consequence: rotation would break it. The p orbitals must stay parallel to overlap. So π bonds lock the molecule into a rigid, planar arrangement.
+
+In ethene (H₂C=CH₂), the double bond is one σ + one π. All six atoms lie in the same plane because the π bond prevents rotation.
+
+In ethyne (HC≡CH), the triple bond is one σ + two π. The molecule is linear.
+
+Sigma electrons sit directly between two nuclei — both nuclei hold them tightly. Pi electrons are farther from the nuclei, spread above and below the plane. They're loosely held and exposed.
+
+A reactant that needs electrons can reach π electrons easily. That's why multiple bonds are the most reactive sites in organic molecules.
+
+
+[GOC_T_004] Structural Formulas
+
+Organic structures can be drawn at three levels of detail.
+
+A `complete structural formula` shows every atom and every bond as a line. For ethane: H₃C–CH₃ with all C–H bonds drawn out. Nothing is hidden.
+
+A `condensed structural formula` skips most bonds. You group atoms together: CH₃CH₃ for ethane, CH₃CH₂OH for ethanol. Double and triple bonds stay shown: H₂C=CH₂, HC≡CH.
+
+Long chains get shortened further: CH₃(CH₂)₆CH₃ for octane.
+
+A `bond-line structural formula` is the most compact. The carbon skeleton appears as a zig-zag line. Each bend or junction is a carbon atom. Each line endpoint is also a carbon — typically CH₃, unless a functional group is shown.
+
+Only `heteroatoms` — atoms other than C and H (like O, N, Cl) — are written explicitly. Hydrogens on carbon are invisible.
+
+To find the invisible hydrogens: carbon always makes 4 bonds. Count the bonds drawn at any junction. Subtract from 4. The remainder are C–H bonds.
+
+
+[GOC_T_005] Wedge-Dash Representation
+
+Molecules are three-dimensional but paper is flat. Chemists use a convention to show depth.
+
+A solid wedge (▸) means the bond points toward you — out of the paper. A dashed wedge (╌) means it points away — behind the paper.
+
+A plain line (—) means the bond lies in the plane of the paper.
+
+In methane's `wedge and dash formula`, the central carbon has two bonds in-plane, one wedge toward you, and one dash behind. This captures the tetrahedral shape on a flat page.
+
+Three types of models show molecules physically. **Framework models** show only the bonds — no atoms. **Ball-and-stick models** show atoms (balls) and bonds (sticks).
+
+**Space-filling models** show atoms as large spheres based on their actual size — bonds aren't visible. Each model highlights something different.
+
+
+[GOC_T_006] Open Chain vs Cyclic Compounds
+
+Organic compounds fall into two broad families based on their carbon skeleton.
+
+`Acyclic` compounds have open chains — no ring. Carbon atoms connect in a straight line or branch off sideways. These are also called **aliphatic** compounds. Ethane, butanol, acetic acid — all open chain.
+
+`Cyclic` compounds have at least one ring of atoms. The simplest are rings of carbon: cyclopropane (three-carbon ring), cyclohexane (six-carbon ring).
+
+Some rings — like cyclopropane and cyclohexane — behave much like open-chain compounds. They don't have any unusual stability from their ring structure.
+
+These rings-that-act-like-chains are called `alicyclic` compounds — short for "aliphatic cyclic."
+
+The distinction matters because alicyclic compounds react like their open-chain cousins. Their ring is just a shape — it doesn't give them any unusual chemical behaviour.
+
+
+[GOC_T_007] Aromatic and Heterocyclic Compounds
+
+Some cyclic compounds are different. Benzene and its relatives have a special stability that sets them apart from ordinary rings.
+
+These are `aromatic` compounds. In an ordinary ring, each double bond sits between two specific carbons. In an aromatic ring, the π electrons are spread across the entire ring — shared by all carbons equally.
+
+When electrons spread over more atoms, no single atom carries a heavy charge burden — this lowers the energy. The ring gains extra stability. You'll explore the full details in the Hydrocarbons chapter.
+
+When the ring contains only carbon atoms, it's called `homocyclic`. Benzene and naphthalene are homocyclic aromatics.
+
+When a non-carbon atom (like O, N, or S) sits in the ring, it's `heterocyclic`. Furan has oxygen in a five-membered ring. Pyridine has nitrogen in a six-membered ring. Thiophene has sulphur.
+
+Aromatic compounds with the benzene ring are called `benzenoid`. Most aromatics you'll encounter are benzenoid. Tropone is a rare non-benzenoid aromatic — an aromatic ring without a benzene core.
+
+
+[GOC_T_008] Functional Groups and Homologous Series
+
+You might expect carbon chains — the backbone of organic chemistry — to be highly reactive. They're not.
+
+C–C and C–H bonds are strong and nearly nonpolar, so they sit there inert. The actual chemistry comes from specific atoms or groups attached to that chain.
+
+A `functional group` is an atom or group that gives the compound its characteristic chemical properties.
+
+The hydroxyl group (−OH) makes alcohols. The aldehyde group (−CHO) makes aldehydes. The carboxyl group (−COOH) makes carboxylic acids.
+
+Compounds with the same functional group behave similarly. All alcohols release H₂ with sodium. All carboxylic acids turn blue litmus red. The functional group is the reactive part.
+
+A `homologous series` is a family of compounds with the same functional group, where each successive member differs by one −CH₂− unit. Methanol (CH₃OH), ethanol (C₂H₅OH), propanol (C₃H₇OH) — same −OH group, each one CH₂ longer.
+
+Members of a homologous series are called `homologues`. They share the same general formula, similar chemical properties, and a gradual trend in physical properties (boiling points rise with chain length).
+
+
+[GOC_T_009] IUPAC Naming: Word Roots
+
+You can now draw and classify organic structures. The next step is naming them systematically.
+
+Millions of organic compounds need a systematic naming system. `IUPAC nomenclature` provides one — the name tells you the structure.
+
+Every IUPAC name is built from a `word root` that encodes the longest carbon chain.
+
+| Carbons | Root | Carbons | Root |
+|---|---|---|---|
+| 1 | meth | 6 | hex |
+| 2 | eth | 7 | hept |
+| 3 | prop | 8 | oct |
+| 4 | but | 9 | non |
+| 5 | pent | 10 | dec |
+
+The first four (meth, eth, prop, but) are historical names. From five carbons onward, roots come from Greek/Latin numbers.
+
+After the root, a primary suffix tells the bond type. For saturated hydrocarbons (only single bonds): root + **-ane** → `alkane`. Methane, ethane, propane, butane.
+
+For double bonds: -ene. For triple bonds: -yne. These become the primary suffix when naming unsaturated hydrocarbons.
+
+The root word is the backbone of every IUPAC name. Get the chain length right, and the rest follows.
+
+
+[GOC_T_010] Alkyl Groups
+
+When naming branched compounds, you need names for the branches. An `alkyl group` is what remains when one hydrogen is removed from an alkane.
+
+Replace the -ane ending with -yl. Methane → **methyl** (−CH₃). Ethane → **ethyl** (−C₂H₅). Propane → **propyl** (−C₃H₇). Butane → **butyl** (−C₄H₉).
+
+These are straight-chain alkyl groups. The hydrogen is always removed from a terminal carbon.
+
+Think of an alkyl group as an alkane with one attachment point. It's not a standalone molecule — it's a fragment waiting to be connected.
+
+
+[GOC_T_011] Branched Alkyl Groups
+
+A three-carbon chain can lose a hydrogen from the middle carbon instead of the end. This gives `isopropyl` — a branched alkyl group.
+
+Butyl groups have more options. Remove H from the second carbon of butane: `sec-butyl`. Take isobutane and remove H from the end: `isobutyl`.
+
+Remove H from the central carbon of isobutane instead: `tert-butyl`.
+
+The five-carbon `neopentyl` group comes from neopentane — (CH₃)₃CCH₂−.
+
+Common abbreviations: Me (methyl), Et (ethyl), Pr (propyl), Bu (butyl).
+
+A naming rule matters for alphabetical ordering: iso and neo are part of the group's fundamental name. Sec and tert are not.
+
+So isobutyl comes before methyl (i before m). But tert-butyl is listed under "b" (butyl, tert-).
+
+
+[GOC_T_012] Naming Branched Alkanes
+
+Four rules, applied in order.
+
+**Rule 1**: Find the longest continuous carbon chain. This is the `parent chain`. Its length gives the root name.
+
+**Rule 2**: Number the carbons from the end nearest to the first branch point. This gives the **lowest locant rule** — branches get the smallest possible numbers.
+
+**Rule 3**: Name each branch (the `substituent`) and prefix it to the parent name with its position number. Multiple substituents go alphabetically. 6-Ethyl-2-methylnonane — ethyl before methyl.
+
+**Rule 4**: Identical substituents get a multiplying prefix — di, tri, tetra — and their positions are separated by commas. 2,4-Dimethylpentane. These prefixes (di, tri) are *not* considered when alphabetising.
+
+One extra rule: if two chains of equal length exist, pick the one with more branches.
+
+
+[GOC_T_013] Naming Cycloalkanes
+
+Cyclic saturated hydrocarbons are named by adding "cyclo" to the alkane name for the same number of ring carbons.
+
+Three carbons: cyclopropane. Five: cyclopentane. Six: cyclohexane. Just add "cyclo" to the matching alkane name.
+
+For substituted cycloalkanes, number the ring to give substituents the lowest possible locants. 1-Methyl-3-propylcyclohexane, not 1-methyl-5-propylcyclohexane.
+
+When more branches compete for the lowest number, the branch that comes first alphabetically gets the lower number.
+
+If the side chain carries the principal functional group, the ring becomes the substituent — named as cyclopropyl, cyclopentyl, etc.
+
+
+[GOC_T_014] Functional Group Suffixes and Prefixes
+
+Functional groups enter the IUPAC name either as a **secondary suffix** (added after the primary suffix) or as a prefix.
+
+Suffix groups (part of the parent name): −ol (alcohol), −al (aldehyde), −one (ketone), −oic acid (carboxylic acid), −amine, −nitrile.
+
+Prefix-only groups (never used as suffix): halo− (F, Cl, Br, I), nitro−, alkoxy− (−OR).
+
+When a suffix group is present, the parent chain must include the carbon of that functional group. For an aldehyde, the −CHO carbon is always carbon-1.
+
+Numbering gives the functional group carbon the lowest possible locant. So butan-2-ol, not butan-3-ol.
+
+
+[GOC_T_015] Naming Polyfunctional Compounds
+
+When a molecule has more than one type of functional group, only one gets the suffix position. The rest become prefixes. Which one wins? The one with higher priority.
+
+You don't need to memorise the full list. The general pattern: groups where carbon holds more bonds to oxygen (or nitrogen) rank higher.
+
+Carboxylic acid (−COOH) has three bonds to oxygen — it tops the list. Amines and alkenes sit near the bottom.
+
+−COOH > −SO₃H > −COOR > −COCl > −CONH₂ > −CN > −CHO > >C=O > −OH > −NH₂ > C=C > C≡C
+
+The highest-priority group is the **principal functional group** — it gets the suffix. All others become prefix substituents.
+
+Example: a molecule with both −OH and >C=O. Ketone outranks alcohol. Name it as a hydroxy-alkanone. HOCH₂(CH₂)₃CH₂COCH₃ is 7-hydroxyheptan-2-one, not 2-oxoheptan-7-ol.
+
+Halogens, −NO₂, and alkoxy groups (−OR) are always prefixes — they never get a suffix.
+
+
+[GOC_T_016] Naming Substituted Benzene
+
+For a monosubstituted benzene, the substituent name comes before "benzene." Chlorobenzene, nitrobenzene, bromobenzene.
+
+Some substituted benzenes have common names used universally: methylbenzene is **toluene**, aminobenzene is **aniline**, methoxybenzene is **anisole**.
+
+For disubstituted benzenes, positions use three prefixes. Adjacent substituents (1,2) are `ortho` (o-). One carbon apart (1,3) are `meta` (m-). Opposite (1,4) are `para` (p-).
+
+1,2-Dichlorobenzene = o-dichlorobenzene. 1,3- = m-. 1,4- = p-.
+
+For three or more substituents, ortho/meta/para can't be used. Number the ring to give the lowest locants. List substituents alphabetically.
+
+When benzene is attached to a chain carrying the principal functional group, it becomes the substituent. Its name is `phenyl` (C₆H₅−), abbreviated Ph.
+
+
+[GOC_T_017] Chain and Position Isomerism
+
+The same molecular formula can correspond to different structures — each with its own name. When that happens, you're looking at isomers.
+
+Two compounds with the same molecular formula but different properties — that's `isomerism`. The compounds are `isomers`.
+
+When isomers differ in how atoms are connected, that's `structural isomerism`.
+
+`Chain isomerism` is the simplest type. Same molecular formula, different carbon skeletons.
+
+C₅H₁₂ exists as three isomers: pentane (straight chain), isopentane (one branch), and neopentane (two branches on the same carbon).
+
+`Position isomerism` keeps the same skeleton and functional group, but moves the group to a different carbon.
+
+Propan-1-ol has −OH on carbon 1. Propan-2-ol has −OH on carbon 2. Same formula (C₃H₈O), different position.
+
+
+[GOC_T_018] Functional Group Isomerism and Metamerism
+
+`Functional group isomerism` is more dramatic. Same molecular formula, but entirely different functional groups.
+
+C₃H₆O can be propanal (an aldehyde) or propanone (a ketone). Same atoms, different functional groups — completely different chemical behaviour.
+
+Another classic pair: ethanol (C₂H₅OH, an alcohol) and methoxymethane (CH₃OCH₃, an ether). Same formula C₂H₆O, different worlds of chemistry.
+
+`Metamerism` is a subtler form. The same functional group sits between different alkyl groups on either side.
+
+Both compounds have the same formula and functional group — but the chain is split differently around it.
+
+Methoxypropane (CH₃OC₃H₇) and ethoxyethane (C₂H₅OC₂H₅) are metamers. Both ethers with formula C₄H₁₀O. The chain lengths on either side of the oxygen differ.
+
+Metamerism shows up in ethers (−O−), secondary amines (−NH−), and ketones (>C=O).
+
+
+[GOC_T_019] Tautomerism
+
+Some structural isomers don't just exist as separate compounds — they interconvert. Constantly.
+
+Take a ketone with a hydrogen on the carbon next to C=O (the α-carbon). That hydrogen can shift to the oxygen, turning the ketone into a form with C=C and −OH — an enol.
+
+The ketone and enol are in dynamic equilibrium. Molecules shuttle back and forth through this proton shift.
+
+This is `keto-enol tautomerism`. The two forms are called tautomers.
+
+For most simple cases, the keto form dominates. Why? A C=O bond is stronger than a C=C bond.
+
+The keto form trades C=C and O−H for C=O and C−H — a net gain in bond energy. Lower energy wins.
+
+But both forms exist in the mixture, constantly interconverting.
+
+The requirement is specific: there must be an α-hydrogen. Without a hydrogen on the carbon adjacent to C=O, no proton shift is possible.
+
+The key test: do atoms physically move? In tautomers, a hydrogen atom actually migrates from one position to another.
+
+The two forms are real, distinct molecules — you can in principle isolate each one (though they'll re-equilibrate over time).
+
+
+[GOC_T_020] Inductive Effect
+
+You now know how carbon compounds are structured and named. But structure alone doesn't tell you how a molecule reacts.
+
+For that, you need to understand how electrons are distributed — and how nearby atoms pull or push that distribution.
+
+In a C–C bond, electrons sit equally between both carbons. Neither atom pulls harder. But replace one carbon with chlorine, and everything shifts.
+
+Chlorine is more electronegative. It pulls the shared electrons toward itself. The carbon nearest chlorine becomes slightly positive (δ+), chlorine slightly negative (δ−).
+
+This isn't surprising — you've seen polar bonds before. The new idea is what happens *next*.
+
+That δ+ carbon now pulls electron density from the next carbon in the chain. Which pulls from the next. The polarisation travels through σ bonds like a chain of tugs.
+
+This is the `inductive effect` — permanent polarisation transmitted through a chain of σ bonds.
+
+It fades fast. By the third bond, it's essentially gone.
+
+Groups that pull electrons away from the carbon chain show the **−I effect**. They're called `electron-withdrawing groups`. Examples: halogens, −NO₂, −CN, −COOH, −COOR, −OAr.
+
+Groups that push electrons toward the chain show the **+I effect**. They're `electron-donating groups`. Alkyl groups like −CH₃ and −C₂H₅ are the main examples.
+
+Why do alkyl groups donate? Hydrogen is slightly less electronegative than carbon. In each C–H bond, electron density shifts very slightly toward carbon.
+
+A methyl group has three such bonds — the methyl carbon accumulates a small excess of electron density. That excess gets pushed along the σ bond to the chain carbon it's attached to.
+
+Bigger alkyl groups have more C–H bonds feeding in, so they push more. (Hyperconjugation, covered later, adds to this.)
+
+A quick summary: atoms more electronegative than carbon withdraw (−I). Alkyl groups donate (+I). The effect always weakens down the chain — negligible past three bonds.
+
+
+[GOC_T_021] Resonance Structures
+
+Draw benzene with alternating single and double bonds. Single bonds are 154 pm long. Double bonds are 134 pm. So you'd expect two different bond lengths alternating around the ring.
+
+But all six C–C bonds in benzene measure exactly 139 pm — right between single and double. Your drawing is wrong. Or rather, incomplete.
+
+One Lewis structure can't capture what benzene actually looks like. You need a better tool.
+
+Draw two structures for benzene. In the first, double bonds sit between carbons 1–2, 3–4, and 5–6. In the second, they shift to 2–3, 4–5, and 6–1. Neither alone is real.
+
+These are `resonance structures` — also called `canonical structures`. They're hypothetical drawings, not real molecules. Benzene doesn't flicker between them.
+
+The actual molecule is a blend of all valid resonance structures. This blend is called the `resonance hybrid`.
+
+A mule isn't a horse sometimes and a donkey other times. It's always a mule — a hybrid. Same idea.
+
+For valid resonance structures, two rules apply. The atoms must stay in the same positions — only electrons move. And the number of unpaired electrons must stay the same.
+
+Why is the hybrid more stable? When electrons spread across more atoms, no single atom carries heavy charge concentration.
+
+Spreading charge lowers the energy — like distributing weight across a bridge reduces stress on any one point.
+
+The energy difference between the hybrid and the most stable single canonical structure is called `resonance energy`. For benzene, this extra stability is why it resists reactions that would break the ring.
+
+Don't confuse resonance with tautomerism. In resonance, only *electrons* shift — atoms stay put. Resonance structures are hypothetical drawings.
+
+In tautomerism, a hydrogen *atom* physically moves. Tautomers are real, isolable molecules.
+
+
+[GOC_T_022] Resonance Effect (+R and −R)
+
+The inductive effect works through σ bonds. But molecules with alternating single and double bonds — called `conjugated systems` — have a second way to shift electrons.
+
+Recall that *sp²* carbons have an unhybridised p orbital sticking perpendicular to the plane. In a conjugated system, these p orbitals on adjacent atoms are all parallel. Their π electrons spread across all of them.
+
+A substituent can join this system — if it also has a parallel p orbital.
+
+Consider aniline — benzene with an −NH₂ group. Nitrogen's lone pair sits in a p orbital that lines up with the ring's p orbitals.
+
+Because they're parallel, they overlap sideways. Nitrogen's electrons flow into the ring, making the ring electron-rich.
+
+This electron shift through conjugation is the `resonance effect`, also called the `mesomeric effect`.
+
+Groups that donate electrons into the conjugated system show the **+R effect**. Key +R groups: −NH₂, −OH, −OR, −OCOR, and halogens.
+
+Groups that pull electrons from the conjugated system show the **−R effect**. They have π bonds that attract electron density away. Key −R groups: −NO₂, −CN, −COOH, −CHO, and >C=O.
+
+Here's a common confusion. Halogens show −I effect — they withdraw through σ bonds. But halogens also have lone pairs in p orbitals.
+
+Through those p orbitals, they donate into the π system (+R). Both effects operate simultaneously in the same atom.
+
+Which wins? For most properties, −I dominates — halogens are overall electron-withdrawing. But the +R donation is strong enough to make specific ring positions more electron-rich — you'll see the consequences in the Hydrocarbons chapter.
+
+A useful pattern: +R groups typically have a lone pair on the atom attached to the conjugated system. −R groups have a multiple bond on that atom.
+
+Lone pairs donate in. Multiple bonds pull out.
+
+
+[GOC_T_023] How Organic Reactions Work
+
+You've learned how electrons shift in molecules — inductive effects, resonance, polarity. Now the payoff: those electron shifts are exactly what cause bonds to break and new ones to form.
+
+The organic molecule under attack is the `substrate`. It supplies the carbon that forms the new bond. The other molecule is the `reagent`.
+
+Together they follow a sequence: old bonds break, unstable fragments form briefly, then new bonds form to give products.
+
+That step-by-step account — tracking every electron, every bond broken and formed — is the `reaction mechanism`.
+
+Here's the key insight. A bond is two shared electrons. When it breaks, those two electrons must go somewhere. There are exactly two ways.
+
+In **heterolytic cleavage**, the split is uneven. Both electrons leave with one atom. One fragment gets the pair and turns negative. The other loses both and turns positive.
+
+Heterolytic cleavage creates charged, ionic fragments. These drive most of organic chemistry — the ionic path.
+
+In **homolytic cleavage**, the split is even. Each atom walks away with one electron. Both fragments are neutral but carry an unpaired electron — free radicals.
+
+Homolytic cleavage drives a completely different set of reactions — the radical path.
+
+Two ways to break a bond. Two worlds of organic chemistry.
+
+The ionic path gives us charged intermediates — carbocations and carbanions — and the reagents that attack them (nucleophiles and electrophiles).
+
+The radical path shows how unpaired electrons drive chain reactions. Finally, we'll classify all reactions into four types.
+
+
+[GOC_T_024] Heterolytic Fission and Carbocations
+
+You saw that heterolytic cleavage sends both bonding electrons to one atom. Let's see what this looks like concretely.
+
+Take bromomethane (CH₃–Br). Bromine is more electronegative. In heterolytic cleavage, bromine takes both electrons from the C–Br bond. Bromine leaves as Br⁻.
+
+CH₃–Br → CH₃⁺ + Br⁻
+
+The carbon fragment CH₃⁺ has only six electrons around carbon — not eight. It's electron-deficient and carries a positive charge.
+
+This species is a `carbocation`. The positively charged carbon is *sp²* hybridised — three bonds in a trigonal planar arrangement, 120° apart. The empty p orbital sticks perpendicular to this plane.
+
+Carbocations are classified by how many other carbon atoms are attached to the positive carbon. One attached: **primary carbocation**. Two: **secondary**. Three: **tertiary**.
+
+CH₃CH₂⁺ is primary. (CH₃)₂CH⁺ is secondary. (CH₃)₃C⁺ is tertiary.
+
+Carbocations are highly unstable. The empty p orbital and the positive charge attract any nearby electron source. The carbocation reacts almost as soon as it forms.
+
+Reactions that proceed through heterolytic cleavage and form ionic intermediates are called **polar reactions** (also called ionic reactions).
+
+
+[GOC_T_025] Carbanions
+
+Heterolytic cleavage can go the other way. Instead of the bonding electrons leaving with the departing group, carbon keeps both electrons.
+
+This gives a `carbanion` — a carbon atom carrying a lone pair and a negative charge.
+
+CH₃⁻ is the methyl carbanion. Unlike a carbocation, the carbon here has *eight* electrons. It's *sp³* hybridised with a distorted tetrahedral shape — three bonds plus one lone pair.
+
+That lone pair makes carbanions strongly nucleophilic — they readily donate electrons. Like carbocations, carbanions are unstable and reactive.
+
+
+[GOC_T_026] Carbocation and Carbanion Stability
+
+CH₃⁺ is the least stable carbocation. It has no alkyl groups — nothing to push electron density toward the empty p orbital.
+
+Add one CH₃ group and you get a **primary carbocation**. That CH₃ donates electron density toward the positive carbon through the σ bond. This is the **+I effect** at work.
+
+A **secondary carbocation** has two alkyl groups donating. A **tertiary carbocation** has three. More donors, more stabilisation.
+
+Stability order: 3° > 2° > 1° > CH₃⁺. Each extra alkyl group feeds more electron density to the positively charged carbon.
+
+Alkyl groups donate through sigma bonds (+I), but this is only part of the story. The full explanation involves a different kind of electron sharing you'll see next.
+
+Now flip the problem. A carbanion carries a negative charge — excess electrons. Here, stability depends on how tightly carbon holds that lone pair.
+
+The key is s character. An sp hybrid orbital has 50% s character. s orbitals stay close to the nucleus, so they hold electrons tightly.
+
+sp² has 33% s character. sp³ has only 25%. Less s character means the lone pair is held more loosely.
+
+Carbanion stability follows s character: sp > sp² > sp³. The carbon in HC≡C⁻ (sp) holds its negative charge better than one in CH₃⁻ (sp³).
+
+Notice the contrast. Carbocations are electron-poor — stabilised by groups that push electrons in (alkyl groups, +I).
+
+Carbanions are electron-rich — stabilised by whatever holds the extra electrons more tightly (higher s character). Opposite problems, opposite solutions.
+
+
+[GOC_T_027] Hyperconjugation
+
+The inductive effect partly explains why 3° carbocations beat 1°. But there's a deeper reason.
+
+Picture the carbocation's empty p orbital. It's completely vacant — electron-starved. Now look at the C−H bonds on the carbon right next to it.
+
+The C−H σ bonding orbital on the adjacent carbon is close enough to the empty p orbital that they overlap.
+
+Some electron density from the σ bond flows into the empty p orbital, partially filling it.
+
+This reduces the charge concentration on the carbocation carbon — the positive charge is no longer stuck on one atom.
+
+This is `hyperconjugation`. The σ electrons of adjacent C−H bonds overlap with the empty p orbital.
+
+CH₃⁺ has no adjacent C−H bonds. Zero hyperconjugation. A primary carbocation like CH₃CH₂⁺ has three C−H bonds on the neighbouring carbon — three chances to donate.
+
+A tertiary carbocation like (CH₃)₃C⁺ has nine adjacent C−H bonds. Nine sources of σ electron donation. Massive stabilisation.
+
+More α-C−H bonds means more hyperconjugation means greater stability. This is the primary reason behind the 3° > 2° > 1° order.
+
+Hyperconjugation works in alkenes too. The C−H σ orbital on the carbon next to the double bond overlaps with the π orbital of C=C.
+
+This spreads electron density over more atoms. More substituents on the double bond means more C−H bonds available. So more-substituted alkenes are more stable.
+
+In some resonance structures showing hyperconjugation, the C−H bond disappears entirely. That's why it's also called `no-bond resonance`.
+
+The bond doesn't actually break. It's just a way of drawing the electron delocalisation, like any resonance structure.
+
+
+[GOC_T_028] Homolytic Fission and Free Radicals
+
+The other path from bond breaking: even splitting. Each atom gets one electron.
+
+This is `homolytic cleavage`. The shared pair splits — one electron to each side.
+
+Two neutral fragments form, each carrying an unpaired electron. These are `free radicals`.
+
+CH₃–Br → CH₃• + Br•
+
+The dot represents the unpaired electron. Radicals are electrically neutral but extremely reactive — that unpaired electron seeks a partner.
+
+Single-electron movement is shown with a half-headed arrow (⇀), called a `fish-hook arrow`. Contrast this with full-headed curved arrows for electron pairs in heterolytic cleavage.
+
+Radical stability also increases with substitution: 3° > 2° > 1° > •CH₃.
+
+The mechanism mirrors carbocations. The radical's p orbital holds one unpaired electron. Adjacent C−H σ bonds overlap with it, spreading the unpaired electron over more atoms.
+
+Reactions through homolytic cleavage are called **free radical reactions** (also called `nonpolar reactions`). They're triggered by heat, light, or peroxides — conditions that supply enough energy to break bonds evenly.
+
+
+[GOC_T_029] Nucleophiles and Electrophiles
+
+Every organic reaction needs two partners — one that supplies electrons, and one that accepts them.
+
+A `nucleophile` is the electron donor. "Nucleus-loving" — it seeks positive or electron-poor centres because it carries a lone pair or negative charge to share.
+
+Examples: HO⁻, CN⁻, and H₂O all have lone pairs ready to donate. R₃N: does too — the lone pair on nitrogen makes amines nucleophilic. Even carbanions are nucleophiles.
+
+A nucleophile can be negatively charged (HO⁻) or neutral (H₂O). What matters is the available electron pair, not the overall charge.
+
+The atom that actually donates the electron pair is the `nucleophilic centre`. In HO⁻, oxygen is the nucleophilic centre. In CN⁻, carbon is.
+
+Now the other partner. An `electrophile` is the electron acceptor. "Electron-loving" — it seeks electron-rich sites because it has an empty orbital or partial positive charge.
+
+CH₃⁺ is an obvious electrophile — it has an empty p orbital. But electrophiles don't have to be charged.
+
+In a carbonyl group (>C=O), carbon carries δ⁺ because oxygen pulls electrons away. That δ⁺ carbon is the `electrophilic centre`. Same in alkyl halides (R−X) — the carbon bonded to the halogen is electron-poor.
+
+Nucleophiles attack electrophilic centres. Electrophiles attack nucleophilic centres. Electron-rich meets electron-poor. That's the core logic.
+
+One important distinction: nucleophiles and bases both donate electron pairs — but to different targets.
+
+A nucleophile donates to a *carbon* atom (forming a new C–Nu bond). A base donates to a *hydrogen* atom (removing H⁺).
+
+The same species (like HO⁻) can act as either — what decides its role depends on the substrate and conditions.
+
+
+[GOC_T_030] Curved Arrow Notation
+
+How do you show electrons moving during a reaction? With `curved arrow notation`.
+
+A full-headed curved arrow tracks the movement of an electron *pair*. The arrow starts where the electrons are and points to where they're going.
+
+Bond formation: the arrow starts from the nucleophile's lone pair and points to the electrophile. Nu: → E⁺
+
+Bond breaking: the arrow starts from the bond and points to the atom that receives the electrons. This shows heterolytic cleavage.
+
+A half-headed arrow (fish-hook) tracks a *single* electron. Used for homolytic cleavage and radical reactions.
+
+These arrows aren't decorative. They are the language of reaction mechanisms. Each arrow represents an actual electron movement — from source to destination.
+
+
+[GOC_T_031] Electromeric Effect
+
+One more electronic effect — this one only appears during a reaction.
+
+The inductive and resonance effects are permanent. The `electromeric effect` is temporary. It appears *only* when a reagent approaches a multiple bond.
+
+Why? When a charged reagent approaches a C=C or C=O, its electric field pulls on the loosely held π electrons. They shift entirely to one atom.
+
+The bond doesn't break, but it becomes completely polarised while the reagent is near.
+
+In the **+E effect**, the π electrons shift to the atom where the reagent attaches. When H⁺ approaches C=C, the π electrons move to the carbon that bonds with H⁺.
+
+In the **−E effect**, the π electrons shift to the atom *away from* the reagent.
+
+Once the reagent leaves, the effect vanishes — the molecule snaps back to its original distribution.
+
+When inductive and electromeric effects oppose each other, the electromeric effect wins. Why? π electrons sit above and below the bond axis, loosely held and easily pushed.
+
+A charged reagent can shift the entire π pair to one atom. The inductive effect only partially polarises tightly-held σ electrons. Loosely-held electrons move more than tightly-held ones.
+
+
+[GOC_T_032] Types of Organic Reactions
+
+You now understand the forces that drive electrons in organic molecules — inductive, resonance, and electromeric effects. These forces determine *why* reactions happen. Now let's classify *what* happens.
+
+**Substitution**: one atom or group is replaced by another. The carbon skeleton stays intact — an old group leaves, a new one takes its place.
+
+**Addition**: atoms or groups are added across a multiple bond. A double bond becomes a single bond as new atoms attach.
+
+**Elimination**: the reverse of addition. Atoms or groups are removed from adjacent carbons, forming a new multiple bond.
+
+**Rearrangement**: the carbon skeleton itself restructures. Atoms migrate to form a new arrangement — same formula, different connectivity.
+
+Most organic reactions fall into one of these four types. Identifying which type is the first step in understanding any mechanism.
+
+
+[GOC_T_033] Sublimation and Crystallisation
+
+You now have the tools to understand how organic reactions work. But in practice, reactions give messy mixtures — not pure products. The next step is always purification.
+
+`Sublimation` works for solids that go directly from solid to vapour without melting. Camphor, naphthalene, and benzoic acid do this.
+
+Heat the impure mixture — the sublimable compound vaporises and collects on a cold surface. Non-sublimable impurities stay behind.
+
+`Crystallisation` is the most common method for purifying solids. Dissolve the impure compound in a hot solvent — one where it dissolves well when hot but poorly when cold.
+
+Cool the solution slowly. As temperature drops, the solvent can hold less and less of the compound. The excess comes out as pure crystals.
+
+Why do impurities stay behind? They're present in much smaller amounts. Even when the solution cools, their concentration stays below the solvent's capacity.
+
+So they remain dissolved in the liquid (the `mother liquor`).
+
+If the solution is coloured by impurities, adding activated charcoal before cooling adsorbs the colour-causing substances.
+
+
+[GOC_T_034] Distillation: Simple and Fractional
+
+**Distillation** separates liquids by exploiting differences in boiling points. Heat the mixture — the lower-boiling liquid vaporises first, condenses, and is collected separately.
+
+Simple distillation works when boiling points are far apart. Chloroform (b.p. 334 K) and aniline (b.p. 457 K) separate easily — chloroform boils away long before aniline starts vaporising.
+
+When boiling points are close, simple distillation fails — both liquids vaporise together. **Fractional distillation** solves this.
+
+A `fractionating column` is fitted above the flask. As mixed vapours rise, they hit cooler surfaces and partially condense.
+
+The higher-boiling component condenses more easily — it turns liquid at a higher temperature. It drips back down.
+
+The vapour that continues rising is now richer in the lower-boiling component. This process repeats at each level of the column.
+
+Every condensation-revaporisation cycle enriches the vapour further. Each such cycle is one `theoretical plate`.
+
+By the time vapour reaches the top, it's nearly pure in the more volatile component. Crude oil is separated into petrol, kerosene, and diesel using industrial-scale fractional distillation.
+
+
+[GOC_T_035] Distillation: Reduced Pressure and Steam
+
+Some liquids decompose before they reach their normal boiling point. Heating glycerol to its boiling point would break it apart.
+
+**Distillation under reduced pressure** solves this. A liquid boils when its vapour pressure equals the external pressure. Reduce the pressure (using a vacuum pump) and the liquid boils at a lower, safer temperature.
+
+Glycerol from spent lye in soap production is purified this way.
+
+**Steam distillation** works for compounds that are immiscible with water and volatile enough to be carried by steam. Steam is bubbled through the heated mixture.
+
+The mixture boils when total vapour pressure equals atmospheric pressure: p₁ + p₂ = 1 atm.
+
+Water alone needs 1 atm to boil — at 100°C. But here the organic compound contributes p₁. Water only needs to reach (1 atm − p₁).
+
+It hits that lower target below 100°C. The mixture boils at a gentler temperature than either component alone.
+
+The compound distils over with steam. The two layers (organic + water) are separated using a separating funnel. Aniline is purified this way.
+
+
+[GOC_T_036] Differential Extraction
+
+When an organic compound is dissolved in water, shaking the solution with an immiscible organic solvent pulls it out. The compound migrates to whichever solvent dissolves it better.
+
+This is `differential extraction`. It's done in a separating funnel. Add the organic solvent, shake, let the layers separate, then drain the lower layer.
+
+The organic layer contains the extracted compound. Evaporate the solvent to recover it.
+
+If the compound is only slightly soluble in the organic solvent, extracting it all at once needs huge volumes.
+
+`Continuous extraction` fixes this. The same small volume of solvent cycles repeatedly through the aqueous layer, gradually pulling out the compound.
+
+
+[GOC_T_037] How Chromatography Works
+
+`Chromatography` separates mixtures based on how strongly each component sticks to a surface. The name comes from Greek — "chroma" means colour.
+
+Every chromatographic setup has two phases. The `stationary phase` stays put. The `mobile phase` flows over it.
+
+Components that stick strongly to the stationary phase move slowly. Weakly held ones move faster. This speed difference separates the mixture.
+
+In some methods, the stationary phase is a solid with a large surface area. Molecules stick to this surface — some strongly, some weakly. This type of separation is `adsorption chromatography`.
+
+
+[GOC_T_038] Column Chromatography and TLC
+
+In `column chromatography`, the adsorbent (silica gel or alumina) is packed in a glass tube. The mixture is loaded at the top.
+
+A solvent (eluant) flows down. Strongly adsorbed components stay near the top; weakly adsorbed ones wash through faster.
+
+In `thin layer chromatography` (TLC), a thin layer of adsorbent coats a glass plate. The mixture is spotted near the bottom.
+
+The plate sits in a solvent, which rises by capillary action. Components travel different distances.
+
+Separation is measured by the `Rᶠ value`:
+
+Rᶠ = distance moved by substance / distance moved by solvent
+
+Each compound has a characteristic Rᶠ under given conditions. Colourless spots are detected under UV light or by iodine vapour.
+
+
+[GOC_T_039] Paper Chromatography
+
+`Paper chromatography` works on a different principle. In column and TLC, molecules stick to a solid surface (adsorption). In `partition chromatography`, molecules distribute between two liquid phases — no surface sticking involved.
+
+The chromatography paper has water trapped in its fibres. This water is the stationary phase.
+
+A drop of the mixture is spotted near the base of the strip. The strip dips into a solvent (mobile phase). The solvent rises by capillary action.
+
+Each component distributes between the water in the paper and the moving solvent, based on solubility.
+
+Components more soluble in the mobile phase travel farther. Those that prefer the stationary phase lag behind.
+
+The developed strip is the `chromatogram`. Coloured compounds appear as visible spots at different heights. Colourless ones are detected by UV light or reagent sprays.
+
+
+[GOC_T_040] Detecting Carbon and Hydrogen
+
+Pure compound in hand, the next question: what is it made of? Qualitative analysis identifies which elements are present.
+
+Carbon and hydrogen are detected together. Heat the compound with copper(II) oxide (**CuO**). Carbon is oxidised to CO₂. Hydrogen is oxidised to H₂O.
+
+C + 2CuO → 2Cu + CO₂
+
+Hydrogen is oxidised in the same step:
+
+2H + CuO → Cu + H₂O
+
+Pass the gases through two tests. Lime water (Ca(OH)₂ solution) turns milky if CO₂ is present — insoluble CaCO₃ forms.
+
+Anhydrous copper sulphate (white) turns blue if water is present — it forms hydrated CuSO₄·5H₂O.
+
+Milky lime water confirms carbon. Blue copper sulphate confirms hydrogen.
+
+
+[GOC_T_041] Lassaigne's Test: Nitrogen and Sulphur
+
+Nitrogen, sulphur, and halogens in organic compounds are covalently bonded — they won't give ionic tests directly. `Lassaigne's test` converts them to ionic form.
+
+Fuse the organic compound with sodium metal by heating. Sodium is extremely reactive — at high temperature, it tears apart the covalent bonds and forms ionic salts with the freed elements:
+
+Na + C + N → NaCN
+
+Sulphur reacts similarly:
+
+2Na + S → Na₂S
+
+And halogens form sodium halides:
+
+Na + X → NaX (X = Cl, Br, I)
+
+Dissolve the fused mass in water. This is the `sodium fusion extract`.
+
+For nitrogen: boil the extract with FeSO₄, then acidify with concentrated H₂SO₄. If nitrogen is present, NaCN reacts to form sodium hexacyanidoferrate(II), which reacts with Fe³⁺ to give `Prussian blue` — Fe₄[Fe(CN)₆]₃.
+
+For sulphur, two tests. (1) Acetic acid + lead acetate → black PbS confirms sulphur. (2) Sodium nitroprusside → violet colour confirms sulphur.
+
+When both N and S are present, they form NaSCN instead of separate NaCN and Na₂S. This gives blood-red colour with Fe³⁺ — not Prussian blue.
+
+To detect both separately, use excess sodium during fusion. Excess Na breaks NaSCN into NaCN + Na₂S, which then give their individual tests.
+
+
+[GOC_T_042] Lassaigne's Test: Halogens
+
+Acidify the sodium fusion extract with dilute HNO₃, then add AgNO₃. The halide ions form silver halide precipitates:
+
+X⁻ + Ag⁺ → AgX
+
+**AgCl**: white precipitate, soluble in ammonium hydroxide (NH₄OH).
+**AgBr**: pale yellow, sparingly soluble in NH₄OH.
+**AgI**: yellow, insoluble in NH₄OH.
+
+The solubility in NH₄OH distinguishes the three. This is the key diagnostic.
+
+If nitrogen or sulphur is also present, CN⁻ and S²⁻ in the extract would interfere — they also precipitate with Ag⁺.
+
+So boil the extract with concentrated HNO₃ first. This decomposes CN⁻ and S²⁻ before you test for halogens.
+
+
+[GOC_T_043] Estimating Carbon and Hydrogen
+
+Qualitative analysis tells you *which* elements are present. Quantitative analysis tells you *how much*.
+
+Carbon and hydrogen are estimated in one experiment. Burn a known mass (m g) of the compound with CuO in excess oxygen. All carbon converts to CO₂. All hydrogen converts to H₂O.
+
+The gases pass through two weighed tubes in series. First: anhydrous CaCl₂ absorbs H₂O (mass increase = m₁ g). Second: KOH absorbs CO₂ (mass increase = m₂ g).
+
+Each CO₂ molecule has 12 g of carbon out of 44 g total. Each H₂O has 2 g of hydrogen out of 18 g total. So:
+
+%C = (12 × m₂ × 100) / (44 × m)
+
+%H = (2 × m₁ × 100) / (18 × m)
+
+The tube order is crucial. KOH absorbs both CO₂ *and* H₂O. If KOH came first, it would soak up the water meant for CaCl₂.
+
+CaCl₂ must come first — it only absorbs H₂O, leaving CO₂ to pass through to KOH.
+
+
+[GOC_T_044] Estimating Nitrogen
+
+Two methods exist for nitrogen estimation.
+
+**Dumas method**: heat the compound with CuO in a CO₂ atmosphere. Nitrogen is released as N₂ gas. Any nitrogen oxides are reduced back to N₂ by passing over heated copper gauze.
+
+Collect the N₂ over KOH solution (which absorbs CO₂). Measure its volume.
+
+Each 22,400 mL of N₂ at STP weighs 28 g. So:
+
+%N = (28 × V × 100) / (22400 × m)
+
+where V = volume of N₂ at STP (mL), m = mass of compound (g).
+
+**Kjeldahl's method**: heat the compound with concentrated H₂SO₄. Nitrogen converts to (NH₄)₂SO₄.
+
+Add excess NaOH — NH₃ is liberated. Absorb the NH₃ in a known volume of standard H₂SO₄. Back-titrate the unreacted acid with NaOH.
+
+The acid consumed by NH₃ tells you moles of nitrogen. Here's the logic:
+
+You took V mL of H₂SO₄ (molarity M). Back-titration used V₁ mL of NaOH (same molarity M). NaOH is monoacidic, H₂SO₄ is dibasic. So V₁ mL of NaOH neutralises V₁/2 mL of H₂SO₄.
+
+Acid used by NH₃ = (V − V₁/2) mL. Moles of H₂SO₄ consumed = M × (V − V₁/2)/1000. Each mole of H₂SO₄ reacts with 2 moles of NH₃. So moles of N = 2M(V − V₁/2)/1000.
+
+%N = (14 × 2M(V − V₁/2) × 100) / (1000 × m) = 1.4 × M × 2(V − V₁/2) / m
+
+Kjeldahl's method fails for nitro groups (−NO₂), azo groups (−N=N−), and ring nitrogen (like pyridine).
+
+Why? The method needs to convert all nitrogen to NH₃ (oxidation state −3). Nitrogen in −NO₂ is at +3 — concentrated H₂SO₄ can't reduce it that far.
+
+Ring nitrogen sits inside an aromatic system — the delocalised electrons give the ring extra stability. Concentrated H₂SO₄ doesn't supply enough energy to break open such a stable ring.
+
+
+[GOC_T_045] Estimating Halogens, Sulphur, Phosphorus, and Oxygen
+
+**Halogens** — `Carius method`: heat the compound with fuming HNO₃ and AgNO₃ in a sealed Carius tube. Carbon and hydrogen are oxidised.
+
+The halogen forms AgX precipitate, which is filtered, dried, and weighed.
+
+%X = (atomic mass of X × m₁ × 100) / (molecular mass of AgX × m)
+
+where m₁ = mass of AgX, m = mass of compound.
+
+**Sulphur**: oxidise with fuming HNO₃ → H₂SO₄ forms → precipitate as BaSO₄ with BaCl₂. Weigh the BaSO₄.
+
+**Phosphorus**: oxidise with Na₂O₂ → H₃PO₄ forms → add ammonium molybdate → yellow precipitate of ammonium phosphomolybdate confirms and quantifies phosphorus.
+
+**Oxygen**: usually estimated by difference — add up percentages of C, H, N, S, halogens, and subtract from 100%. A direct method exists using I₂O₅, but the difference method is standard.

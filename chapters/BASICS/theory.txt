@@ -1,0 +1,570 @@
+[BASICS_T_001] Why Ratios Are Fixed
+
+Hydrogen and oxygen combine to form water. The same two elements also form hydrogen peroxide — a bleach strong enough to strip colour from hair.
+
+Same elements, completely different substances. What decides which one you get?
+
+ratio-changes-everything.webp
+
+The ratio. Water is always 11.1% hydrogen and 88.9% oxygen by mass.
+
+Hydrogen peroxide is always 5.9% hydrogen and 94.1% oxygen. These numbers never change, no matter where you get the sample.
+
+There's more. Burn magnesium in air and weigh everything carefully — reactants and products. The total mass stays exactly the same. Nothing is created, nothing lost.
+
+So we have two strange facts. Compounds lock their elements into fixed mass ratios. And reactions never gain or lose mass.
+
+Why would nature behave this way?
+
+Only one explanation works. `Matter` — anything that has mass and occupies space — must be built from tiny particles with definite, fixed masses.
+
+If each particle has a set mass, combining them in whole-number ratios *guarantees* a fixed composition. And if particles just rearrange during reactions, total mass *has* to stay the same.
+
+That's the core idea behind this entire chapter. Every law, every formula, every calculation traces back to this: matter is made of particles with definite masses, and they combine in fixed whole-number ratios.
+
+
+[BASICS_T_002] States of Matter
+
+Ice holds its shape. Water fills whatever glass you pour it into. Steam spreads to fill an entire room. All three are water — the difference is how the particles are arranged.
+
+states-of-matter-particle-view.webp
+
+In a **solid**, particles are packed close and locked in place. They vibrate but don't wander. That's why solids have a definite shape *and* a definite volume.
+
+In a **liquid**, particles stay close but can slide past each other. The volume stays fixed, but the shape changes — liquid takes the shape of its container.
+
+In a **gas**, particles are far apart and move fast in all directions. No fixed shape, no fixed volume — gas expands to fill whatever space it has.
+
+These three states convert into each other. Heat a solid and particles gain enough energy to break free — it melts into a liquid. Heat the liquid further, and particles escape into the gas phase. Cool a gas, and the reverse happens: gas → liquid → solid.
+
+Same particles, different arrangements, different properties.
+
+
+[BASICS_T_003] Pure Substances and Mixtures
+
+Dissolve salt in water. The result looks perfectly uniform — you can't spot the salt. But boil it, and the water escapes as steam while salt crystals stay behind. Two substances, recovered without any chemical reaction. Just heating.
+
+Oil and water are easier to see through. Pour oil into water — two visible layers. Skim the oil off the top. Again, no reaction needed.
+
+Both cases share something: the components came apart using only physical methods — boiling, skimming, filtering. And in both, the composition was flexible. You could have added more salt or less oil. Nothing forced a fixed ratio.
+
+That's what makes them **mixtures** — variable composition, separable by physical means like filtration, distillation, or crystallisation. The salt-water kind, uniform throughout, is a **homogeneous mixture**. The oil-water kind, visibly non-uniform, is a **heterogeneous mixture**.
+
+mixture-types.webp
+
+Now take the recovered water itself. Try to pull hydrogen and oxygen out of it by boiling, filtering, or any physical method. Nothing works.
+
+But pass electricity through it, and bubbles appear — hydrogen gas at one electrode, oxygen at the other. It took a *chemical* change to break water apart.
+
+That's a **pure substance**. Fixed composition. Inseparable by physical methods — only chemical methods can break it down.
+
+The quick test: can you separate it physically? Mixture. Need a chemical reaction? Pure substance.
+
+
+[BASICS_T_004] Elements and Compounds
+
+Pure substances split into two kinds. The test: can a chemical reaction break them into something simpler?
+
+Take copper. Heat it, dissolve it in acid, blast it with electricity — you'll never get two different substances out of it. Copper is copper all the way down. Every atom in it is the same type.
+
+That's an **element** — a pure substance made of only one kind of atom.
+
+Now take water. Pass electricity through it and you get hydrogen gas and oxygen gas — two completely different elements. Water *looked* pure, and it was. But it's built from more than one type of atom locked in a fixed ratio.
+
+That's a **compound** — a pure substance where atoms of different elements combine in a fixed ratio. The compound's properties are nothing like its elements'. Hydrogen burns. Oxygen supports burning. Water puts fires out.
+
+element-vs-compound.webp
+
+Notice the pattern: mixtures need only physical methods to separate (boiling, filtering). Compounds need *chemical* methods (electrolysis, heating with another reagent). Elements can't be broken down at all.
+
+One more distinction matters here. Colour, density, melting point, boiling point — these are **physical properties**. You can measure them without changing what the substance *is*. Combustibility, reactivity with acids — these are **chemical properties**. Observing them requires the substance to *transform* into something else.
+
+
+[BASICS_T_005] SI Units and Prefixes
+
+One lab reports mass in grams. Another uses pounds. A third uses ounces. Comparing their results is a mess.
+
+Science needs a single system so everyone speaks the same language. That system is called **SI units** — the International System of Units.
+
+It's built on seven **base units**, one for each fundamental quantity:
+
+| Quantity | Unit | Symbol |
+|---|---|---|
+| Length | metre | m |
+| Mass | kilogram | kg |
+| Time | second | s |
+| Temperature | kelvin | K |
+| Amount of substance | mole | mol |
+| Electric current | ampere | A |
+| Luminous intensity | candela | cd |
+
+Every other unit is built from these seven. Speed is metres per second. Density is kilograms per cubic metre. You don't need to memorise derived units — they follow from the base.
+
+But base units are often too big or too small. A hydrogen atom's radius in metres would need a string of zeros. **SI prefixes** fix this by scaling the unit.
+
+The ones you'll use most: milli (m) = 10⁻³, micro (μ) = 10⁻⁶, nano (n) = 10⁻⁹, kilo (k) = 10³. So 1 nm = 10⁻⁹ m, and 1 kg = 10³ g.
+
+The prefix replaces the zeros. That's all it does.
+
+
+[BASICS_T_006] Mass, Volume, and Density
+
+A kilogram of iron fits in your palm. A kilogram of cotton fills a bag. Same mass — wildly different sizes. This difference hints at something deeper.
+
+**Mass** is the amount of matter in an object. It doesn't change whether you're on Earth or the Moon.
+
+**Weight** is different — it's the force gravity pulls on that mass. On the Moon, gravity is weaker, so you'd *weigh* less. But your mass stays exactly the same. Mass is measured on a balance. Weight is measured with a spring scale.
+
+**Volume** is the space something occupies. In chemistry, the common units are litres (L) and millilitres (mL). The conversions worth knowing:
+
+1 L = 1000 mL = 1000 cm³ = 1 dm³
+
+Now back to that iron-vs-cotton puzzle. Both have 1 kg of mass, but iron packs it into far less space. The quantity that captures this is **density** — mass per unit volume.
+
+Density = mass / volume
+
+Iron's density is about 7.9 g/cm³. Cotton is roughly 0.04 g/cm³. Higher density means particles are packed more tightly.
+
+Density connects two things you can measure (mass and volume) into one number that tells you how closely packed the matter is.
+
+
+[BASICS_T_007] Temperature Scales
+
+Water freezes at 0°C, 32°F, and 273.15 K. Same physical event — three different numbers. The difference is just the scale.
+
+**Celsius** is the most familiar. It sets 0° at water's freezing point and 100° at its boiling point. The gap between is split into 100 equal steps.
+
+**Fahrenheit** sets freezing at 32° and boiling at 212° — a gap of 180 steps. Each Fahrenheit degree is smaller than a Celsius degree.
+
+To convert: °F = 9/5 (°C) + 32
+
+**Kelvin** is the SI unit of temperature. It uses the same step size as Celsius but shifts the zero point downward. 0 K is the coldest anything can be — particles have the least possible energy. There are no negative temperatures on this scale.
+
+K = °C + 273.15
+
+So room temperature (25°C) is 298.15 K. Water boils at 373.15 K.
+
+A useful shortcut: Celsius and Kelvin always differ by 273.15. The degree *size* is identical — only the starting point moves.
+
+
+[BASICS_T_008] Scientific Notation
+
+A hydrogen atom weighs 0.00000000000000000000000166 g. Writing that out — let alone multiplying it — is asking for mistakes.
+
+**Scientific notation** compresses such numbers. The rule: write it as N × 10ⁿ, where N is between 1 and 10.
+
+0.00000000000000000000000166 becomes 1.66 × 10⁻²⁴. The exponent (−24) tells you how many places the decimal moved to the right.
+
+A large number works the same way. 602,200,000,000,000,000,000,000 becomes 6.022 × 10²³. Here the decimal moved 23 places to the left, so the exponent is +23.
+
+Multiplication and division are easy — multiply or divide the digit terms, then add or subtract exponents.
+
+(5.6 × 10⁵) × (6.9 × 10⁸) = 38.64 × 10¹³ = 3.864 × 10¹⁴
+
+(2.7 × 10⁻³) ÷ (5.5 × 10⁴) = 0.49 × 10⁻⁷ = 4.9 × 10⁻⁸
+
+Addition and subtraction need one extra step: make the exponents the *same* first, then add or subtract the digit terms.
+
+6.65 × 10⁴ + 8.95 × 10³
+= 6.65 × 10⁴ + 0.895 × 10⁴
+= 7.545 × 10⁴
+
+That's it. Scientific notation turns impossible arithmetic into simple operations on small numbers.
+
+
+[BASICS_T_009] Significant Figures
+
+A platform balance reads 9.4 g. An analytical balance reads 9.4213 g. Both measured the same object — but the second instrument tells you more.
+
+In 9.4 g, you're certain about the 9, but the 4 is your best estimate. In 9.4213 g, you're certain about 9.421, and the 3 is the estimate. Every measurement has a last digit that's a best guess.
+
+**Significant figures** count the total reliable digits — all the certain ones plus that one estimated digit. More sig figs means a more precise measurement.
+
+Five rules for counting them:
+
+All non-zero digits count. 285 has three sig figs.
+
+Leading zeros don't count — they're just placeholders. 0.0052 has only *two* sig figs (5 and 2).
+
+Zeros between non-zero digits count. 2.005 has four sig figs.
+
+Trailing zeros after a decimal count. 0.200 has three sig figs — those zeros mean "we measured this precisely."
+
+Trailing zeros *without* a decimal are ambiguous. 100 could be one, two, or three sig figs. That's why scientific notation helps: 1.00 × 10² clearly has three.
+
+Exact numbers — like counting 20 eggs — have *infinite* sig figs. No measurement uncertainty involved.
+
+Why does this matter? When you calculate, your answer can't be more precise than your least precise input. Sig figs keep you honest about what you actually know.
+
+
+[BASICS_T_010] Precision, Accuracy, and Rounding
+
+Three students weigh the same object. Its true mass is 2.00 g.
+
+Student A gets 1.95 g and 1.93 g. The readings are close to *each other* — but both miss the true value. That's **precision** without **accuracy**.
+
+Student B gets 1.94 g and 2.05 g. The readings aren't close to each other, and their average barely hits the target. Neither precise nor accurate.
+
+Student C gets 2.01 g and 1.99 g. Close to each other *and* close to the true value. Both precise and accurate.
+
+**Precision** is about repeatability — do you get the same result each time? **Accuracy** is about correctness — does your result match the true value? You can be precise without being accurate, like a clock that's consistently five minutes fast.
+
+When you calculate with measured numbers, the result must reflect the weakest input. Two rules:
+
+Addition and subtraction — round the result to the fewest *decimal places* in any input. 12.11 + 18.0 + 1.012 = 31.122, rounded to 31.1 (one decimal place, matching 18.0).
+
+Multiplication and division — round to the fewest *significant figures* in any input. 2.5 × 1.25 = 3.125, rounded to 3.1 (two sig figs, matching 2.5).
+
+Three **rounding** rules handle the last dropped digit:
+
+If it's greater than 5, round up. 1.386 → 1.39.
+
+If it's less than 5, leave the preceding digit. 4.334 → 4.33.
+
+If it's exactly 5, look at the preceding digit. Even → stays. Odd → goes up. So 6.35 → 6.4, but 6.25 → 6.2. This prevents a systematic upward drift across many calculations.
+
+
+[BASICS_T_011] Dimensional Analysis
+
+You measured a length as 25.5 cm but the formula needs metres. How do you convert without getting confused?
+
+Write a fraction that equals 1 — but with different units on top and bottom.
+
+1 m = 100 cm, so 1 m / 100 cm = 1
+
+Now multiply:
+
+25.5 cm × (1 m / 100 cm) = 0.255 m
+
+The "cm" cancels — it appears in both numerator and denominator. Only "m" survives. That's **dimensional analysis** — also called the **unit factor method**.
+
+The power is in chaining. Convert 2 days to seconds:
+
+2 days × (24 hr / 1 day) × (60 min / 1 hr) × (60 s / 1 min) = 172,800 s
+
+Each fraction equals 1. Each step cancels the old unit and introduces the new one. If the units don't cancel cleanly, you know the setup is wrong.
+
+The method works for anything — mass, volume, temperature, concentration. Set up unit factors so unwanted units cancel, and the answer's unit tells you whether you got it right.
+
+
+[BASICS_T_012] Laws of Combination: Mass
+
+Early chemists noticed patterns long before they understood atoms. Three observations — each a clue that matter is built from particles.
+
+Lavoisier sealed mercury and air in a container, heated it, and weighed everything. The mercury reacted with oxygen to form a red powder. But the total mass before and after was *identical*. Nothing appeared from nowhere. Nothing vanished.
+
+This is the **Law of Conservation of Mass**: in any physical or chemical change, total mass stays the same. If your products weigh less, something escaped — a gas you didn't trap. The atoms just rearranged.
+
+Proust analysed cupric carbonate from two sources — one dug from the earth, one made in a lab. Both contained exactly 51.35% copper, 9.74% carbon, and 38.91% oxygen.
+
+Coincidence? He tested other compounds. Same result. Every sample of a given compound has the *same* percentage of each element, regardless of where it came from.
+
+This is the **Law of Definite Proportions** — a given compound always contains the same elements in the same ratio by mass.
+
+Dalton pushed further. Hydrogen and oxygen form water (2 g H : 16 g O). They also form hydrogen peroxide (2 g H : 32 g O). Look at the oxygen masses for a fixed amount of hydrogen: 16 and 32 — a ratio of 1 : 2.
+
+That's the **Law of Multiple Proportions**: when two elements form more than one compound, the masses of one element that combine with a fixed mass of the other are in a ratio of small whole numbers.
+
+Three laws, one thread: mass is conserved, compositions are fixed, and ratios are simple. Something about the structure of matter *forces* these patterns. That explanation would come from Dalton's atomic theory.
+
+
+[BASICS_T_013] Laws of Combination: Volumes
+
+The mass laws explain solids and liquids well. But gases behave in a way that needs its own law.
+
+Gay Lussac measured gas reactions carefully. When hydrogen reacts with oxygen to form water vapour, the volumes are: 100 mL hydrogen + 50 mL oxygen → 100 mL water vapour.
+
+That's a 2 : 1 : 2 ratio — simple whole numbers. Not 2.3 : 1.1 : 1.9. Exactly 2 : 1 : 2.
+
+He found this everywhere. Gases always combine in simple volume ratios, as long as temperature and pressure are the same. This is **Gay Lussac's Law of Gaseous Volumes**.
+
+But *why* simple volume ratios? The mass laws didn't predict this.
+
+Avogadro proposed the missing link: equal volumes of *all* gases at the same temperature and pressure contain equal numbers of molecules. This is **Avogadro's Law**.
+
+If equal volumes hold equal molecule counts, then volume ratios *are* molecule ratios. The 2 : 1 : 2 volume ratio means 2 molecules of hydrogen react with 1 molecule of oxygen to give 2 molecules of water.
+
+This only works if hydrogen and oxygen each exist as *pairs* of atoms — H₂ and O₂, not lone H and O. Dalton rejected this idea — he believed identical atoms couldn't bond together. But Avogadro was right, and accepting diatomic molecules made the volume data fall into place.
+
+
+[BASICS_T_014] Dalton's Atomic Theory
+
+The laws of combination demanded an explanation. Why is mass conserved? Why are compositions fixed? Why do ratios come out as simple whole numbers?
+
+In 1808, Dalton proposed four postulates:
+
+All matter is made of tiny, indivisible particles called atoms.
+
+All atoms of a given element are identical in mass. Atoms of different elements have different masses.
+
+Compounds form when atoms of different elements combine in fixed, whole-number ratios.
+
+In chemical reactions, atoms rearrange — they are neither created nor destroyed.
+
+Each law now has a reason. Conservation of mass? Atoms aren't created or destroyed, just reshuffled. Definite proportions? Compounds are atoms in fixed ratios, so the mass ratio is locked. Multiple proportions? Different compounds use different whole-number ratios of the same atoms.
+
+This is **Dalton's Atomic Theory** — the first model that tied all three mass laws together with a single idea.
+
+But it had a gap. Dalton assumed atoms of the same element couldn't combine with each other. That meant he couldn't accept H₂ or O₂ as molecules. Without diatomic molecules, Gay Lussac's volume ratios made no sense.
+
+Avogadro's hypothesis — that identical atoms *can* pair up — filled this hole. Together, the atomic theory and Avogadro's insight built the foundation for everything that follows.
+
+
+[BASICS_T_015] Atomic Mass and the Carbon-12 Standard
+
+A single hydrogen atom weighs about 1.67 × 10⁻²⁴ g. That number is real, but useless in practice. Nobody calculates with twenty-four decimal places.
+
+Chemists solved this by comparing instead of measuring absolute masses. Pick one atom as a reference, call its mass a round number, and express everything else relative to it.
+
+The chosen reference: **carbon-12** (written ¹²C). Its mass is defined as exactly 12 **atomic mass units**.
+
+One `atomic mass unit` (u) = 1/12 the mass of a single ¹²C atom = 1.66 × 10⁻²⁴ g.
+
+Now hydrogen's mass becomes simple: 1.67 × 10⁻²⁴ g ÷ 1.66 × 10⁻²⁴ g = 1.008 u. Oxygen is about 16.00 u.
+
+These are **atomic masses** — the mass of one atom expressed in u. You can compare atoms without drowning in tiny decimals.
+
+Why carbon-12 and not hydrogen? Carbon-12 gives nearly whole-number masses for most elements, and it's easy to work with in mass spectrometers. An earlier hydrogen-based scale was less precise. The carbon-12 standard was adopted internationally in 1961.
+
+
+[BASICS_T_016] Average, Molecular, and Formula Mass
+
+Not all carbon atoms weigh the same. 98.9% of carbon atoms are ¹²C (12 u), but 1.1% are ¹³C (13.003 u). These variants — same element, different masses — are called **isotopes**.
+
+The periodic table can't list every isotope separately. Instead, it reports the **average atomic mass** — a weighted average based on natural abundance.
+
+For carbon: (0.989 × 12) + (0.011 × 13.003) = 12.011 u. That's the number you see on the table.
+
+Once you know atomic masses, you can add them up for a molecule. Water has two hydrogens (1.008 u each) and one oxygen (16.00 u). The sum — 18.02 u — is the **molecular mass** of water.
+
+But not all substances exist as molecules. Sodium chloride (NaCl) is a giant grid of Na⁺ and Cl⁻ ions — there's no single "molecule" of NaCl. For such ionic compounds, we add up the masses from the simplest formula instead. Na (23.0 u) + Cl (35.5 u) = 58.5 u. This is the **formula mass**.
+
+Molecular mass is for molecules. Formula mass is for ionic compounds. Both are just sums of atomic masses — the distinction is about the substance's structure.
+
+
+[BASICS_T_017] The Mole and Molar Mass
+
+One drop of water contains roughly 10²¹ molecules. Even tiny samples hold staggering numbers of particles.
+
+Chemists handle this the same way we handle eggs — by grouping. Twelve eggs is a dozen. In chemistry, 6.022 × 10²³ of anything is one **mole**.
+
+This number — 6.022 × 10²³ — is the **Avogadro constant** (Nₐ). One mole of hydrogen atoms means 6.022 × 10²³ hydrogen atoms. One mole of water molecules means 6.022 × 10²³ water molecules. The entity must be specified — "one mole" by itself is incomplete.
+
+Where does this number come from? One atom of ¹²C weighs 1.992 × 10⁻²³ g. A collection of ¹²C atoms weighing exactly 12 g contains 12 ÷ 1.992 × 10⁻²³ = 6.022 × 10²³ atoms. That collection is one mole.
+
+Here's the practical payoff. The atomic mass of carbon is 12.011 u. One mole of carbon atoms weighs 12.011 g. The molecular mass of water is 18.02 u. One mole of water weighs 18.02 g.
+
+The pattern: the mass of one mole in grams — called the **molar mass** — is numerically equal to the atomic, molecular, or formula mass in u. The unit just switches from u to g/mol.
+
+This link is what makes the mole useful. It connects the invisible world of atoms (masses in u) to the real world of lab balances (masses in grams).
+
+
+[BASICS_T_018] Mole Conversions @SOLVED
+
+You have 36 g of water. How many molecules is that?
+
+Start by converting grams to moles. Molar mass of water is 18.02 g/mol.
+
+36 g ÷ 18.02 g/mol = 2.0 mol
+
+Now convert moles to molecules. Multiply by Nₐ.
+
+2.0 mol × 6.022 × 10²³ = 1.204 × 10²⁴ molecules
+
+Two steps, two bridges. Grams to moles uses molar mass. Moles to particles uses Nₐ.
+
+Going backwards works the same way. Say you have 3.011 × 10²³ atoms of iron.
+
+3.011 × 10²³ ÷ 6.022 × 10²³ = 0.5 mol
+0.5 mol × 55.85 g/mol = 27.9 g
+
+For gases at STP, there's a third bridge: 1 mol of any gas = 22.7 L. So 22.7 L of oxygen at STP = 1 mol = 6.022 × 10²³ molecules.
+
+The mole sits at the centre of every conversion:
+
+Mass ⇌ Moles (bridge: molar mass)
+Moles ⇌ Particles (bridge: Nₐ)
+Moles ⇌ Gas volume at STP (bridge: 22.7 L/mol)
+
+Whatever you're given, convert to moles first. Then convert moles to whatever you need. Always go through the centre.
+
+One trap: watch whether the question asks for *atoms* or *molecules*. 1 mol of O₂ = 6.022 × 10²³ molecules = 1.204 × 10²⁴ *atoms* (each molecule has 2 atoms).
+
+
+[BASICS_T_019] Percentage Composition @SOLVED
+
+What fraction of water's mass comes from oxygen? The formula answers this without any lab work.
+
+Water is H₂O. Molar mass: 2(1.008) + 16.00 = 18.02 g/mol.
+
+Each mole of water contains 16.00 g of oxygen. So oxygen's mass per cent:
+
+16.00 / 18.02 × 100 = 88.8%
+
+Hydrogen: 2.016 / 18.02 × 100 = 11.2%
+
+Check: 88.8 + 11.2 = 100%. If the percentages don't add up, you've made an error.
+
+The general formula:
+
+**Mass per cent** of an element = (mass of that element in one formula unit / molar mass of compound) × 100
+
+This works in reverse too. If you know the mass per cent and the molar mass, you can find how many atoms of an element are in one molecule. Divide the element's total mass contribution by its atomic mass — that gives you the atom count.
+
+
+[BASICS_T_020] Empirical and Molecular Formulas @SOLVED
+
+A compound is 40.0% C, 6.7% H, and 53.3% O by mass. What's its formula?
+
+Assume 100 g of the compound. That turns percentages into grams: 40.0 g C, 6.7 g H, 53.3 g O.
+
+Convert each to moles:
+C: 40.0 / 12.01 = 3.33 mol
+H: 6.7 / 1.008 = 6.65 mol
+O: 53.3 / 16.00 = 3.33 mol
+
+Divide every value by the smallest (3.33):
+C: 1, H: 2, O: 1
+
+The simplest whole-number ratio is CH₂O. This is the **empirical formula** — the smallest ratio of atoms in the compound.
+
+But the actual molecule could be CH₂O, C₂H₄O₂, or C₆H₁₂O₆ — all share the same ratio. To find which, you need the molar mass.
+
+**Molecular formula** = empirical formula × n, where n = molar mass / empirical formula mass.
+
+Empirical formula mass of CH₂O = 12 + 2 + 16 = 30. If the molar mass is 180: n = 180/30 = 6.
+
+Molecular formula: C₆H₁₂O₆ — glucose.
+
+The method: percentages → grams (assume 100 g) → moles → divide by smallest → empirical formula → multiply by n → molecular formula.
+
+The trap: sometimes the mole ratio doesn't come out as whole numbers. If you get 1 : 1.5 : 1, don't round the 1.5 to 2. Multiply *everything* by 2 to get 2 : 3 : 2.
+
+
+[BASICS_T_021] Stoichiometry Calculations @SOLVED
+
+How much CO₂ is produced when 32 g of methane burns completely?
+
+Start with the **balanced chemical equation**:
+
+CH₄ + 2O₂ → CO₂ + 2H₂O
+
+The numbers in front — 1, 2, 1, 2 — are **stoichiometric coefficients**. They tell you the mole ratio: 1 mol CH₄ reacts with 2 mol O₂ to produce 1 mol CO₂ and 2 mol H₂O. The substances on the left are **reactants**; on the right, **products**.
+
+**Stoichiometry** is the calculation of masses, moles, or volumes from these ratios. Here's the method:
+
+Step 1 — convert what you're given to moles.
+32 g CH₄ ÷ 16 g/mol = 2 mol CH₄
+
+Step 2 — use the coefficient ratio to find moles of what you need.
+The equation says 1 mol CH₄ → 1 mol CO₂. So 2 mol CH₄ → 2 mol CO₂.
+
+Step 3 — convert moles to the requested unit.
+2 mol CO₂ × 44 g/mol = 88 g CO₂
+
+The chain is always: given → moles → ratio → moles → target unit.
+
+The trap: coefficients give *mole* ratios, not mass ratios. 1 mol CH₄ (16 g) doesn't produce 16 g of CO₂ — it produces 1 mol (44 g). You must go through moles.
+
+For gases at the same temperature and pressure, there's a shortcut: mole ratios equal volume ratios. So 1 L of CH₄ needs 2 L of O₂ and produces 1 L of CO₂. No molar mass needed — the coefficients work directly on volumes.
+
+
+[BASICS_T_022] Limiting Reagent Calculations @SOLVED
+
+You mix 10 g of H₂ with 10 g of O₂. How much water forms?
+
+2H₂ + O₂ → 2H₂O
+
+Step 1 — convert both reactants to moles.
+H₂: 10 / 2.016 = 4.96 mol
+O₂: 10 / 32.00 = 0.3125 mol
+
+Step 2 — find which runs out first. The equation needs 2 mol H₂ per 1 mol O₂.
+
+For 0.3125 mol O₂, you'd need 0.3125 × 2 = 0.625 mol H₂. You have 4.96 mol — plenty.
+
+For 4.96 mol H₂, you'd need 4.96 / 2 = 2.48 mol O₂. You only have 0.3125 mol — not enough.
+
+O₂ is the **limiting reagent**. It runs out first and caps how much product can form.
+
+Step 3 — calculate product from the limiting reagent. Never from the excess.
+
+0.3125 mol O₂ × (2 mol H₂O / 1 mol O₂) = 0.625 mol H₂O = 11.25 g
+
+Step 4 — find excess remaining.
+H₂ consumed: 0.625 mol. H₂ remaining: 4.96 − 0.625 = 4.335 mol = 8.74 g.
+
+The trap: comparing raw masses (10 g vs 10 g) tells you nothing. Equal masses don't mean equal moles. You *must* convert to moles and check against the stoichiometric ratio.
+
+
+[BASICS_T_023] Molarity and Molality
+
+Most reactions happen in solutions. To predict how much product you'll get, you need to know how much solute is dissolved — not just "some salt in water" but a precise number.
+
+**Molarity** (M) measures moles of solute per litre of solution.
+
+M = moles of solute / volume of solution in litres
+
+A 1 M NaCl solution has 1 mol (58.5 g) of NaCl in every litre of solution. Note: it's per litre of *solution*, not solvent. The solute itself takes up some space.
+
+A common lab task: dilute a concentrated **stock solution** to a weaker one. The total moles of solute don't change — you're just adding more water. So:
+
+M₁V₁ = M₂V₂
+
+To make 1 L of 0.2 M NaOH from a 1 M stock: V₁ = (0.2 × 1) / 1 = 0.2 L. Take 200 mL of stock, add water to reach 1 L.
+
+There's a catch with molarity: volume changes with temperature. Heat a solution and it expands — same moles in a bigger volume, so molarity drops slightly.
+
+**Molality** (m) avoids this. It measures moles of solute per kilogram of *solvent* — not solution.
+
+m = moles of solute / mass of solvent in kg
+
+Mass doesn't expand with temperature. So molality stays constant regardless of temperature. That's why it's preferred in calculations involving boiling point elevation or freezing point depression.
+
+
+[BASICS_T_024] Mass Percent and Mole Fraction
+
+Molarity and molality aren't the only ways to express concentration. Two more — both dimensionless, both temperature-independent.
+
+A "10% glucose solution" means 10 g of glucose in every 100 g of solution. That's **mass per cent** (w/w%).
+
+Mass per cent = (mass of solute / mass of solution) × 100
+
+It's simple and practical. Medicine labels, food packaging, and lab reagent bottles all use it.
+
+**Mole fraction** takes a different approach — it counts particles instead of weighing them.
+
+If a solution has nₐ moles of substance A and n_b moles of substance B:
+
+Mole fraction of A = nₐ / (nₐ + n_b)
+Mole fraction of B = n_b / (nₐ + n_b)
+
+The two mole fractions always add to 1.
+
+Both mass per cent and mole fraction are ratios of the same type of quantity (mass/mass or moles/moles), so units cancel out. No units means no dependence on temperature — unlike molarity, which relies on volume.
+
+When to use which? Mass per cent when you're measuring by weight (common in the lab). Mole fraction when you need the ratio of particles (common in vapour pressure and colligative property calculations — topics you'll meet in later chapters).
+
+
+[BASICS_T_025] Concentration Calculations @SOLVED
+
+A bottle of sulphuric acid is labelled "98% H₂SO₄ by mass, density 1.84 g/mL." What's its molarity?
+
+Step 1 — pick a convenient volume. Take 1 L (1000 mL) of solution.
+
+Step 2 — find the mass of that volume.
+Mass = density × volume = 1.84 × 1000 = 1840 g of solution.
+
+Step 3 — find the mass of solute.
+98% of 1840 g = 0.98 × 1840 = 1803.2 g of H₂SO₄.
+
+Step 4 — convert solute mass to moles.
+Molar mass of H₂SO₄ = 98 g/mol.
+1803.2 / 98 = 18.4 mol.
+
+Step 5 — molarity = moles / volume in litres.
+18.4 mol / 1 L = 18.4 M.
+
+The chain: pick volume → total mass (via density) → solute mass (via mass%) → moles (via molar mass) → molarity (via volume).
+
+The same chain works for any "given density and mass%, find molarity" problem. Always start with 1 L — it makes the last step trivial.

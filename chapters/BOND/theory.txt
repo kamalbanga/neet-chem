@@ -1,0 +1,1574 @@
+[BOND_T_001] Why Atoms Bond
+
+Helium, neon, argon — noble gases exist as single atoms. They never react. Every other element forms bonds. What makes noble gases different?
+
+Their outer electron shells are completely full.
+
+@continue
+
+valence-electrons.chem.svg
+
+@continue
+
+Neon has 8 electrons in its outer shell. No room for more, no need to lose any. This filled outer shell — `noble gas configuration` — is extremely stable.
+
+Now look at sodium. Three shells, but the outermost holds just 1 electron. That lone electron makes sodium desperate to react.
+
+@continue
+
+Sodium's second shell has 8 — same as neon. But that doesn't help. It's the outermost shell that decides, and sodium's outermost has just 1.
+
+These outer electrons — the ones involved in bonding — are `valence electrons`. Sodium has 1. Chlorine has 7. Neither is stable alone.
+
+@continue
+
+The pattern: atoms with full outer shells don't react. Atoms with incomplete shells do.
+
+They drive toward 8 outer electrons — the `octet rule`. Hydrogen and helium aim for 2, since their only shell holds 2.
+
+@continue
+
+So atoms bond because isolation is unstable. A `chemical bond` is the attractive force holding atoms together — born from the quest for filled shells.
+
+Two strategies work.
+
+@continue
+
+bonding-strategies.chem.svg
+
+@continue
+
+Transfer: sodium gives its 1 valence electron to chlorine. Sodium's second shell (which has 8) becomes its outer shell. Chlorine goes from 7 to 8. Both stable. That's NaCl — table salt.
+
+@continue
+
+Share: two chlorine atoms each contribute one electron to a shared pair. Each now counts 8 around itself. Both stable. That's Cl₂ — chlorine gas.
+
+Transfer or share — either way, both atoms achieve noble gas configuration. That's the payoff.
+
+
+[BOND_T_002] Lewis Symbols
+
+How do we show valence electrons on paper? G.N. Lewis devised a simple notation.
+
+Write the element's symbol. Around it, place dots — one for each valence electron. This is the `Lewis symbol`.
+
+@continue
+
+lewis-symbols.chem.svg
+
+@continue
+
+The symbol at center represents the `kernel` — the nucleus plus all inner electrons. Only valence electrons appear as dots.
+
+Let's draw one. Oxygen has 6 valence electrons. Place the first four as singles — one on each side. Two remain. They pair up with existing dots. Result: two pairs and two singles.
+
+@continue
+
+Why singles first? Electrons repel each other. They spread out before doubling up — maximum distance first.
+
+What makes singles special? Each is an unpaired electron — it can pair with an unpaired electron from another atom. That shared pair becomes a bond.
+
+@continue
+
+A pair? Already satisfied — two electrons occupying one spot have no room for a third. Only unpaired electrons are available for bonding.
+
+Now watch what singles predict. Carbon has 4 singles — it forms 4 bonds. That's CH₄. Nitrogen has 3 — NH₃. Oxygen has 2 — H₂O. Fluorine has 1 — HF.
+
+@continue
+
+Neon has 8 dots, all paired. Zero singles. Zero bonds. That's why noble gases don't react — no singles available.
+
+Hydrogen is special. Its only shell holds 2, not 8. It needs just 2 electrons — a `duplet`. Every other main-group element needs 8 — an `octet`.
+
+
+[BOND_T_003] Electronegativity
+
+Chlorine's Lewis symbol has one single dot — one bond to make. Another chlorine also has one. They pair up. Since both atoms are identical, the shared pair sits exactly in the middle. Fair deal.
+
+Now fluorine shares with hydrogen. Fluorine has 9 protons in its nucleus. Hydrogen has just 1.
+
+@continue
+
+en-drift.chem.svg
+
+@continue
+
+Fluorine pulls on the shared pair much harder. The electrons drift toward fluorine.
+
+This pulling power has a name: `electronegativity`. The higher it is, the harder an atom pulls shared electrons toward itself.
+
+@continue
+
+Linus Pauling gave every element a number. On his `Pauling scale`, fluorine tops the chart at 4.0. Cesium sits at the bottom: 0.7. The trend: top-right of the periodic table pulls hardest, bottom-left pulls weakest.
+
+@continue
+
+The EN difference between two bonded atoms decides the bond type. Zero difference (Cl₂) → electrons shared equally. Moderate difference (HF) → shared but shifted toward fluorine. Huge difference (NaCl, gap of 2.1) → electrons transfer completely.
+
+Equal sharing, unequal sharing, full transfer — electronegativity tells you which.
+
+
+[BOND_T_004] Ionic Bonding
+
+Sodium has 1 valence electron. Chlorine has 7. Chlorine's electronegativity is so much higher that it doesn't just pull shared electrons closer — it takes sodium's electron entirely.
+
+@continue
+
+Sodium now has 11 protons but only 10 electrons. Net charge: +1. An atom that loses electrons becomes positive — a `cation`. Na⁺ is a cation.
+
+Chlorine now has 17 protons but 18 electrons. Net charge: −1. An atom that gains electrons becomes negative — an `anion`. Cl⁻ is an anion.
+
+@continue
+
+Opposite charges attract. This electrostatic pull between cation and anion is an `ionic bond`, also called an `electrovalent bond`.
+
+How many electrons did sodium transfer? One. This count is the `electrovalence`. Sodium's electrovalence: +1. Chlorine's: −1.
+
+@continue
+
+Now magnesium and oxygen. Magnesium has 2 valence electrons. Oxygen has 6 — needs 2 more for an octet. Magnesium transfers both.
+
+@continue
+
+mgo-ionic.chem.svg
+
+@continue
+
+Mg²⁺ (cation, electrovalence +2) and O²⁻ (anion, electrovalence −2). Both achieve octets through a double transfer.
+
+Metals lose electrons → cations. Nonmetals gain electrons → anions. The electrostatic force between them is ionic bonding.
+
+
+[BOND_T_005] Energetics of Ionic Compounds
+
+Making NaCl looks simple — sodium gives an electron to chlorine, both get octets, done. But pulling that electron off sodium costs energy. Does the transfer actually pay off?
+
+Let's keep a ledger.
+
+@continue
+
+Sodium has 11 protons gripping its outer electron. Ripping it away costs 495.8 kJ/mol. This energy cost is `ionization enthalpy` — always endothermic, because you're always fighting nuclear pull.
+
+@continue
+
+Now hand that electron to chlorine. Chlorine has 17 protons and room for one more. The nucleus pulls it in, releasing 348.7 kJ/mol. This energy change is `electron gain enthalpy`.
+
+Ledger so far: spent 495.8, recovered 348.7. Net loss: 147.1 kJ/mol. Still in the red.
+
+@continue
+
+By this math, NaCl shouldn't exist.
+
+Yet oceans are salty.
+
+@continue
+
+Na⁺ and Cl⁻ don't float around as lonely ions. Billions snap into a tight repeating 3D grid — every Na⁺ surrounded by Cl⁻, every Cl⁻ by Na⁺. This arrangement is a `crystal lattice`.
+
+@continue
+
+nacl-lattice.webp
+
+@continue
+
+Packing ions this tightly releases 788 kJ/mol. The energy needed to completely separate one mole of ionic solid into gaseous ions is the `lattice enthalpy`.
+
+Redo the ledger. Spent 495.8, recovered 348.7, then recovered 788. The lattice wipes out the deficit and leaves a huge surplus.
+
+@continue
+
+Octets explain *which* electron transfers happen. Lattice enthalpy explains *why* the compound forms at all.
+
+An older term, `electron affinity`, has the same magnitude as electron gain enthalpy but opposite sign.
+
+
+[BOND_T_006] Fajans' Rules
+
+Picture a tiny Li⁺ sitting next to a large I⁻. Li⁺ packs its positive charge into a very small sphere — intense electric field at the surface.
+
+I⁻'s outermost electrons sit far from its nucleus, loosely held. Li⁺'s field reaches in and pulls the electron cloud toward itself.
+
+@continue
+
+The cloud stretches. Bulges toward the cation. Electron density piles up between the two nuclei.
+
+@continue
+
+polarization.webp
+
+@continue
+
+This distortion of an anion's electron cloud by a cation is `polarization`. That pile-up between nuclei is shared electron density — covalent character creeping into an ionic bond.
+
+Two properties control how much this happens. The cation's `polarising power` is its ability to distort. The anion's `polarisability` is how easily its cloud gives way.
+
+@continue
+
+A smaller cation concentrates charge into less space — stronger pull. Compare LiCl with KCl: Li⁺ is much smaller, so it distorts Cl⁻ more. LiCl has more covalent character.
+
+@continue
+
+A larger anion has outer electrons far from the nucleus — easy to pull. Compare NaF with NaI: I⁻ is much bigger than F⁻, so Na⁺ distorts it more easily.
+
+@continue
+
+Higher charge means stronger field. Compare NaCl with AlCl₃. Al³⁺ is +3 and tiny — it polarizes Cl⁻ so strongly that AlCl₃ behaves like a covalent compound.
+
+@continue
+
+One more factor. Compare Cu²⁺ with Ca²⁺ — same +2 charge, similar size. Yet Cu²⁺ polarizes more. Ca²⁺ has a noble gas core — inner shells shield well. Cu²⁺ has d-electrons that shield poorly, so more nuclear charge leaks through.
+
+@continue
+
+fajans-comparison.webp
+
+@continue
+
+These patterns are `Fajans' rules`. Small cation, large anion, high charge, d-electron configuration — each pushes a bond from ionic toward covalent.
+
+
+[BOND_T_007] Covalent Bonding
+
+Some atoms grip electrons too tightly for transfer. Two chlorine atoms each need one more electron for an octet. But neither will surrender one.
+
+So they share. Each chlorine puts its one unpaired electron into a common space between them. That shared pair now sits between both nuclei.
+
+@continue
+
+Both nuclei attract those two electrons. So each chlorine counts the shared pair as its own — along with the 6 electrons (three pairs) it kept. That's 8 each. Full octet.
+
+The shared pair holding two atoms together is a `bonding pair`. A bond formed by sharing rather than transferring is a `covalent bond`. Each atom must contribute at least one electron to the pair.
+
+@continue
+
+The three unshared pairs on each chlorine aren't involved in bonding. These are `lone pairs` (also called non-bonding pairs). They belong to one atom alone.
+
+covalent-bond.chem.svg
+
+@continue
+
+Water works the same way. Oxygen has 6 valence electrons — two unpaired. Each hydrogen has 1. Oxygen shares one unpaired electron with each H. Two bonding pairs form, and oxygen keeps its remaining 4 electrons as two lone pairs.
+
+@continue
+
+Now a bigger molecule: CCl₄. Carbon has 4 unpaired valence electrons. Each chlorine has 1. Carbon shares one electron with each of four chlorines — four bonding pairs. Every atom reaches an octet.
+
+Covalent bonds show up most between nonmetals. These atoms all grip electrons tightly — similar pull, so neither can take from the other. Sharing is the only way both come out ahead.
+
+
+[BOND_T_NEW] Coordinate (Dative) Bond
+
+In a covalent bond, each atom puts one electron into the shared pair. But what if one atom has no unpaired electron to offer?
+
+@continue
+
+Boron in BF₃ has 3 valence electrons. One bond to each fluorine uses all 3. Count electrons around boron: only 6. It wants 8 but has nothing left to share.
+
+Now look at nitrogen in NH₃. Three bonds use 3 of its 5 valence electrons. The remaining 2 sit as a lone pair — belonging to nitrogen alone.
+
+@continue
+
+Boron has an empty orbital. Nitrogen has a full lone pair. One atom needs electrons, the other has a spare pair.
+
+Nitrogen donates its entire lone pair into boron's empty orbital. Both electrons come from nitrogen. Boron just provides the empty space.
+
+@continue
+
+coordinate-bond-nh3bf3.chem.svg
+
+@continue
+
+This is a `coordinate bond` (also called a `dative bond`). Both shared electrons come from one atom — the `donor`. The other atom provides an empty orbital — the `acceptor`.
+
+We show it with an arrow → from donor to acceptor.
+
+@continue
+
+Count boron's electrons now. Three bonds from fluorine, plus the donated pair. That's 8. Nitrogen keeps its octet too — three N–H bonds plus the pair it donated.
+
+Both atoms reach a full octet. The donation completes boron's shell without breaking nitrogen's.
+
+@continue
+
+The same idea explains NH₄⁺. Ammonia has that same lone pair on nitrogen. H⁺ has no electrons at all — its 1s orbital is completely empty.
+
+Nitrogen donates its lone pair into the empty 1s of H⁺. A **coordinate bond** forms.
+
+@continue
+
+Here's the key fact. Once formed, a coordinate bond is identical to any other covalent bond. Same length, same strength. You can't tell which electron came from where.
+
+In NH₄⁺, all four N–H bonds end up equal. The one that formed by donation is no different from the three that formed by normal sharing.
+
+The arrow notation (→) just records how the bond formed. It says nothing about the bond's current properties.
+
+
+
+[BOND_T_008] Single, Double, and Triple Bonds
+
+Fluorine has 7 valence electrons — three pairs and one unpaired. Two fluorine atoms each put their unpaired electron into a shared pair. One shared pair: a `single bond`.
+
+Oxygen has 6 valence electrons — two pairs and two unpaired. Two oxygens share both unpaired electrons. Two shared pairs make a `double bond`.
+
+@continue
+
+Now predict. Nitrogen has 5 valence electrons — one pair and three unpaired. Two nitrogens meet. How many pairs will they share?
+
+Three. That's a `triple bond` — six electrons binding two atoms together.
+
+@continue
+
+bond-multiplicity.chem.svg
+
+@continue
+
+More shared pairs means more electron density between the two nuclei — a stronger tug pulling them together. Triple bonds are stronger than double, double stronger than single.
+
+That stronger pull also drags nuclei closer. F–F is 142 pm. O=O shrinks to 121 pm. N≡N is just 109 pm.
+
+The number of shared pairs between two atoms is the `bond order`. Single: 1. Double: 2. Triple: 3. Higher bond order → shorter and stronger bonds.
+
+
+[BOND_T_009] Drawing Lewis Structures
+
+CO₂ has 16 valence electrons — 4 from carbon, 6 from each oxygen. Where does each one end up?
+
+The `central atom` forms the most bonds, so it should be the one that shares most willingly — the least electronegative. Carbon is less electronegative than oxygen, so carbon goes in the middle.
+
+@continue
+
+The oxygens are `terminal atoms` — they sit on the outside. Hydrogen can only form one bond (it just needs a duplet), so it's always terminal.
+
+Connect each terminal to the center with a single bond: O–C–O. This starting framework is the `skeletal structure`. Two bonds use 4 electrons. Twelve remain.
+
+@continue
+
+Now fill octets on the outer atoms first — they're more electronegative, so their octets take priority. Each oxygen gets three lone pairs (6 electrons). All 12 placed.
+
+Check the center. Each oxygen has 2 + 6 = 8 electrons — good. But carbon has just 4 from its two bonds. It needs 8.
+
+@continue
+
+All 16 electrons are already placed — you can't add new ones. The only fix: take a lone pair from a terminal oxygen and share it as a bonding pair with carbon.
+
+Do this on both sides. Each single bond becomes a double bond. O=C=O.
+
+@continue
+
+lewis-steps.chem.svg
+
+@continue
+
+Carbon now has four bonding pairs — 8 electrons. Both oxygens still have 8 (two bonding pairs + two lone pairs). All 16 accounted for.
+
+Not every molecule needs that fix. In H₂O, after placing lone pairs on oxygen, the central atom already has its octet. Done — no conversion needed.
+
+@continue
+
+For ions, adjust the electron count before you start. CO₃²⁻ has two extra electrons: 4 + 18 + 2 = 24. NH₄⁺ has one fewer: 5 + 4 − 1 = 8. Then follow the same steps.
+
+
+[BOND_T_010] Formal Charge
+
+Look closely at ozone's Lewis structure — one O=O double bond, one O–O single bond. Each atom shares electrons, but sharing isn't always even. Let's count what each oxygen actually "owns."
+
+Start with the central oxygen. It has one lone pair — 2 electrons it owns outright. It also has three bonds. Split each bonding pair 50-50: that gives it 3 more. Total owned: 5.
+
+A free oxygen atom has 6 valence electrons. Central oxygen brought 6, owns 5 — that deficit of +1 is its `formal charge`.
+
+@continue
+
+Double-bonded end oxygen: two lone pairs (4) plus two bonds (2). Owns 6. Brought 6. Formal charge: 0.
+
+Single-bonded end oxygen: three lone pairs (6) plus one bond (1). Owns 7. Brought 6. Formal charge: −1.
+
+@continue
+
+ozone-formal-charge.chem.svg
+
+@continue
+
+Check: +1 + 0 + (−1) = 0. Matches ozone's net charge. For any ion, formal charges sum to the ion's charge instead.
+
+The pattern: formal charge = valence electrons − lone pair electrons − ½(bonding electrons). "Valence electrons" is what the atom brought. The rest is what it owns.
+
+@continue
+
+When multiple Lewis structures are possible, formal charges pick the lowest-energy arrangement. Large formal charges force atoms into unlikely electron distributions — that costs energy. The best structure has the smallest charges.
+
+If charges can't be avoided, place negatives on the more electronegative atom — it holds extra electrons more stably.
+
+Formal charges are pure bookkeeping — not real. No instrument measures +1 on ozone's central oxygen. They rank Lewis structures, nothing more.
+
+
+[BOND_T_011] Limitations of Octet Rule
+
+The octet rule predicts 8 electrons around every atom. It works for most molecules — especially organic compounds with C, N, O, F. But some compounds refuse to comply.
+
+BF₃: boron has only 3 valence electrons. It forms one bond with each fluorine — three bonding pairs. Count the electrons around boron: just 6. Not 8.
+
+Boron can't reach an octet. It doesn't have enough valence electrons. Fluorine is too electronegative to share a lone pair back. BeH₂ is worse — only 4 around beryllium. This is an `incomplete octet`.
+
+@continue
+
+Now NO. Nitrogen has 5 valence electrons, oxygen has 6. Total: 11. An odd number. Electrons pair in twos, so one must stay unpaired no matter how you arrange them.
+
+NO₂ has the same issue — 17 total electrons. Odd means one electron has no partner. These are `odd-electron molecules`.
+
+@continue
+
+PCl₅ goes the other direction. Phosphorus bonds to five chlorines — 10 electrons around it. More than 8. SF₆ pushes to 12 around sulfur.
+
+How? Both sit in period 3. Beyond their 3s and 3p orbitals, they have empty 3d orbitals that accept extra bonding electrons. This is an `expanded octet`.
+
+@continue
+
+octet-exceptions.chem.svg
+
+@continue
+
+But expanding is a choice, not a requirement. Sulphur in SCl₂ obeys the octet with just 8 electrons around it. Period 3 elements can expand — they don't have to.
+
+Here's the critical line. Carbon, nitrogen, oxygen, fluorine — all period 2 — have no d orbitals. They can never exceed 8. Only period 3 and beyond can expand.
+
+That's why NCl₅ doesn't exist even though PCl₅ does. Same group, same valence electrons — but nitrogen lacks the d orbitals to hold 10.
+
+The octet rule has other gaps too. Xenon forms XeF₂ — it uses its 5d orbitals, the same expanded octet pattern. And the rule says nothing about molecular shapes or relative stability.
+
+
+[BOND_T_012] Resonance
+
+Ozone's Lewis structure has one double bond and one single bond. The drawing predicts two different bond lengths.
+
+ozone-clash.webp
+
+@continue
+
+Experiments say both are 128 pm — identical. Something's wrong with our Lewis structure.
+
+Not because we drew it wrong — because no single Lewis structure CAN capture this molecule.
+
+@continue
+
+resonance-ozone.chem.svg
+
+@continue
+
+There's a second valid structure. Same atoms, same electrons — just flip which oxygen gets the double bond. Both follow the rules. Neither matches reality alone.
+
+@continue
+
+Why would a molecule adopt a blend of both? Spreading electron density over more atoms means more nuclei pull on it. That lowers the overall energy. The blend is more stable than either single structure.
+
+@continue
+
+Think of a mule. It's not a horse sometimes and a donkey other times — it's always a mule. A blend of both parents, where neither parent is the *real* form.
+
+@continue
+
+Same idea here. Each valid drawing is a `canonical structure` — correct on paper but not a real molecule. The real molecule is the `resonance hybrid`, a blend of all canonical forms. This blending is `resonance`.
+
+The ↔ between canonical structures is not an equilibrium arrow (⇌). The molecule doesn't switch between forms. It's always the hybrid.
+
+For valid canonical forms: same atom positions, same total electrons. Only bonds and lone pairs rearrange. If atoms move, that's a different molecule — not resonance.
+
+@continue
+
+resonance-carbonate.chem.svg
+
+@continue
+
+CO₃²⁻ shows the same pattern. Three canonical structures, each with the double bond on a different oxygen. All three C–O bonds end up identical — intermediate between single and double.
+
+CO₂ also has two equivalent canonical forms.
+
+@continue
+
+The hybrid averages all bond characteristics — length, strength, bond order. This extra stability from blending is called `resonance stabilization`.
+
+
+[BOND_T_013] Bond Length and Atomic Radii
+
+The same chlorine atom has two different sizes. How can one atom have two radii?
+
+cl2-radii.chem.svg
+
+@continue
+
+In Cl₂, each Cl contributes 99 pm to the bond. Unbonded, it keeps other atoms 180 pm away — nearly double.
+
+Shared electrons tug two nuclei together, pulling bonded atoms closer than they'd otherwise sit.
+
+`Bond length` is the equilibrium distance between two bonded nuclei — where attraction and repulsion balance. In Cl₂, that's 199 pm. We measure it using X-ray diffraction or spectroscopy.
+
+@continue
+
+Each atom contributes a `covalent radius` to the bond length. It's half the distance between two identical bonded atoms. Chlorine's: 99 pm.
+
+The larger size is the `van der Waals radius` — half the distance between two unbonded atoms touching in a solid. Chlorine's: 180 pm.
+
+Van der Waals radius is always larger than covalent radius. Bonding pulls atoms closer than they'd otherwise sit.
+
+
+[BOND_T_014] Bond Angle and Bond Order
+
+Water is V-shaped. Methane is a tetrahedron. BeCl₂ is a straight line. You can tell these apart from a single number — the angle between two bonds.
+
+H–O–H in water: 104.5°. H–C–H in methane: 109.5°. Cl–Be–Cl: 180°.
+
+This angle — between the orbitals holding bonding electron pairs around a central atom — is the `bond angle`. 180° means linear. 120° means trigonal planar. 109.5° signals tetrahedral.
+
+bond-angle-shapes.chem.svg
+
+@continue
+
+Now a different question. F–F is easy to break. N≡N is nearly indestructible. Why?
+
+Count the shared pairs. F₂ shares one pair — a single bond. N₂ shares three — a triple bond. Three times the glue.
+
+The number of shared pairs between two atoms is the `bond order`. Single = 1. Double = 2. Triple = 3. CO has a triple bond, so bond order 3 — same as N₂.
+
+@continue
+
+Higher bond order means shorter, stronger bonds. Each extra shared pair pulls nuclei closer. Look at carbon–carbon: C–C is 154 pm, C=C shrinks to 134 pm, C≡C compresses to 120 pm.
+
+Some different species have the same total electron count and bonding arrangement. N₂ and CO both have 14 electrons arranged identically. They're `isoelectronic`.
+
+Isoelectronic species share the same bond order. F₂ and O₂²⁻ both have bond order 1. N₂, CO, and NO⁺ all have bond order 3.
+
+
+[BOND_T_015] Bond Enthalpy
+
+Breaking bonds costs energy. Why? Because bonded atoms sit at lower energy than separated atoms — you must add energy to pull them apart.
+
+But here's a puzzle — water's two O-H bonds don't cost the same to break.
+
+water-bond-break.webp
+
+@continue
+
+The first O-H bond takes 502 kJ/mol. The second takes only 427 kJ/mol. Same type of bond, different energy.
+
+Why? After the first hydrogen leaves, you're breaking an O-H bond in OH — a different species with a different electron arrangement around oxygen. That changes how tightly the remaining H is held.
+
+`Bond enthalpy` (or `bond dissociation enthalpy`) is the energy needed to break one mole of a particular bond in gaseous molecules, producing gaseous atoms. Larger bond enthalpy means a stronger bond.
+
+@continue
+
+For diatomic molecules, bond enthalpy is exact. H–H: 435.8 kJ/mol. Cl–Cl: 242 kJ/mol. H–Cl: 431 kJ/mol. O=O: 498 kJ/mol. N≡N: 946 kJ/mol. One bond, one value.
+
+Higher bond order means higher bond enthalpy. Triple bonds cost the most to break.
+
+@continue
+
+Polyatomic molecules are messy — like water. The same O-H bond even differs between water and ethanol, because the surrounding atoms change.
+
+So we average. `Mean bond enthalpy` is the total energy to break all bonds of one type, divided by the number of those bonds.
+
+For O-H in water: (502 + 427)/2 = 464.5 kJ/mol.
+
+Mean bond enthalpies let us estimate reaction energies: energy to break reactant bonds minus energy released forming product bonds.
+
+
+[BOND_T_016] Polar and Nonpolar Bonds
+
+Compare two molecules — H₂ and HF. Both share electrons. But look at *where* the shared electrons sit.
+
+polar-vs-nonpolar.webp
+
+In H₂, the electron cloud is perfectly centered. In HF, it's bunched up near fluorine.
+
+@continue
+
+Think of a tug of war. If both players pull equally, the rope stays in the middle. If one is stronger, the rope shifts.
+
+**Electronegativity** is that pulling strength. In H₂, both atoms pull equally. The shared pair stays midway. No atom wins.
+
+In HF, fluorine pulls much harder. The electron pair shifts toward it. Fluorine becomes slightly negative (δ−). Hydrogen becomes slightly positive (δ+).
+
+@continue
+
+Equal sharing — like in H₂, Cl₂, O₂ — is a `nonpolar covalent` bond. Symmetric cloud. No charge imbalance.
+
+Unequal sharing — like in HF — is a `polar covalent` bond. The cloud tilts. One end gets δ−, the other δ+.
+
+The bigger the electronegativity gap, the more the cloud tilts. HF is very polar. HCl, less so.
+
+@continue
+
+When does polar covalent become **ionic**? There's no sharp line. If the gap is huge — like NaCl — the electron transfers almost completely.
+
+But even NaCl isn't purely ionic. The cation's pull distorts the anion's cloud, introducing `partial covalent character`. That's the **polarisation** effect from Fajans' rules.
+
+And even HF isn't purely covalent. The charge separation gives it `partial ionic character`.
+
+Bonds sit on a spectrum. Pure covalent (H₂) → polar covalent (HF) → mostly ionic (NaCl). The electronegativity difference decides where a bond falls.
+
+
+[BOND_T_017] Dipole Moment
+
+CO₂ has two polar C=O bonds — oxygen pulls electrons harder than carbon. Yet CO₂ behaves nonpolar. How?
+
+Picture the molecule. Carbon sits in the middle, one oxygen on each side. Linear. The left oxygen pulls electrons left. The right pulls right. Equal, opposite — they cancel perfectly.
+
+@continue
+
+Water also has two polar bonds. But the molecule is V-shaped. Both O-H pulls point roughly the same way — toward the oxygen. They add up instead of canceling.
+
+Same idea, different shapes, opposite outcomes. Shape decides whether bond pulls cancel or combine.
+
+@continue
+
+Each polar bond creates a `bond dipole` — a tug in one direction. The molecule's overall polarity is the sum of all its bond dipoles. That sum is the `resultant dipole moment`.
+
+We measure polarity with `dipole moment` (μ). It's a vector — direction matters as much as size.
+
+The formula: μ = Q × r, where Q is the separated charge and r is the distance between charges.
+
+The unit is the `Debye` (D). 1 D = 3.33564 × 10⁻³⁰ C·m.
+
+@continue
+
+By convention, the dipole moment vector points from negative to positive.
+
+But chemists use a different symbol — a crossed arrow. The cross (+) sits on the positive end, the arrowhead on the negative end.
+
+The crossed arrow points opposite to the conventional dipole moment vector. Don't mix them up.
+
+@continue
+
+For single-bond molecules, bigger electronegativity gap means bigger dipole. HF: 1.78 D. HCl: 1.07 D. HBr: 0.79 D. HI: 0.38 D.
+
+Back to shape. BeF₂ is linear — two bond dipoles cancel, μ = 0. BF₃ is a flat triangle — three dipoles cancel, μ = 0.
+
+CCl₄ has four bonds equally spaced — they cancel too, μ = 0.
+
+Symmetry kills polarity. Water (V-shaped, μ = 1.85 D) shows what happens when symmetry breaks.
+
+@continue
+
+Now a puzzle. NH₃ and NF₃ are both pyramidal. Fluorine is far more electronegative than hydrogen. Surely NF₃ has the bigger dipole?
+
+nh3-nf3-dipole.chem.svg
+
+@continue
+
+Wrong. NH₃: μ = 1.47 D. NF₃: only 0.23 D.
+
+The lone pair on nitrogen creates its own dipole — the `orbital dipole`. It points outward from the top of the pyramid.
+
+In NH₃, bond dipoles point toward nitrogen (upward). The orbital dipole also points upward. Same direction — they reinforce. Large μ.
+
+In NF₃, bond dipoles point toward fluorine (downward). The orbital dipole still points upward. Opposite directions — they largely cancel. Small μ.
+
+Same shape, opposite outcomes. The orbital dipole from the lone pair decides whether bond dipoles reinforce or fight each other.
+
+
+[BOND_T_018] VSEPR Theory: Core Idea
+
+What shape do electron pairs make when they push each other away? Start with something simpler — balloons.
+
+vsepr-balloons.webp
+
+Blow up two balloons and tie them together. They push apart — opposite directions, 180°. Three balloons spread into a triangle, 120° apart. Four make a pyramid, 109.5° apart.
+
+The balloons take up space. They push each other away and settle as far apart as possible.
+
+@continue
+
+Electron pairs do the same thing. Picture the valence shell as a sphere. Electron pairs sit on its surface, pushing apart until they reach maximum separation.
+
+This is `Valence Shell Electron Pair Repulsion` — **VSEPR** theory. Sidgwick and Powell saw this pattern in 1940. Nyholm and Gillespie refined it in 1957 into a model that predicts molecular shapes.
+
+@continue
+
+Both bonding pairs and lone pairs count. But they're not the same size.
+
+A bonding pair is shared between two nuclei — pulled tight into the bond region. A lone pair belongs to just one atom — it spreads wider, like a passenger taking up extra space on a bus seat.
+
+That wider spread means stronger repulsion. Lone pair–lone pair is the strongest push. Lone pair–bonding pair is medium. Bonding pair–bonding pair is weakest.
+
+The order: lp–lp > lp–bp > bp–bp.
+
+@continue
+
+Double and triple bonds count as one "super pair." All those electrons sit in the same region, pushing other pairs as a single unit.
+
+For molecules with resonance structures, pick any one form. The geometry stays the same — the number of electron pair regions doesn't change between resonance forms.
+
+Count electron pairs. Let them maximize distance. Shape follows.
+
+
+[BOND_T_019] VSEPR: Shapes Without Lone Pairs
+
+When a central atom has only bonding pairs — no lone pairs — five shapes cover every case.
+
+vsepr-shapes.webp
+
+Each follows from one rule: pairs spread as far apart as possible.
+
+@continue
+
+Two bonds push to opposite sides. The angle is 180°. A straight line — `linear`. BeCl₂ shows this. Two chlorines, as far apart as they can get.
+
+Three bonds spread into a flat triangle. Each sits 120° from its neighbors. This is `trigonal planar`. BF₃ has this shape — three fluorines around boron.
+
+@continue
+
+Four bonds can't stay flat. If they did, the best they'd manage is 90° apart. Going 3D lets them reach 109.5° — much wider, much less repulsion.
+
+This shape is `tetrahedral`. CH₄ has four hydrogens around carbon, all equally spaced.
+
+@continue
+
+Five bonds create `trigonal bipyramidal`. Here, positions aren't equal anymore.
+
+Three bonds sit in the middle plane, 120° apart — the `equatorial` positions. Two bonds sit above and below, 90° from the middle three — the `axial` positions.
+
+PCl₅ has this shape. Axial bonds face more crowding from three equatorial neighbors, so they end up slightly longer.
+
+@continue
+
+Six bonds spread to an `octahedral` shape. Four form a square in the middle. Two more point straight up and down. All angles are 90°. SF₆ has this — six fluorines equally spaced around sulfur.
+
+These five shapes cover every case where the central atom has no lone pairs. But what happens when lone pairs show up? They push harder than bonding pairs — and that changes everything.
+
+
+[BOND_T_020] VSEPR: Shapes With Lone Pairs (Part 1)
+
+You know methane — four bonds around carbon, tetrahedral, 109.5°. Now imagine swapping one hydrogen for a lone pair.
+
+The four electron pairs still arrange tetrahedrally. But when we describe the molecular shape, we only count where atoms sit. Lone pairs are invisible.
+
+lp-shape-progression.webp
+
+@continue
+
+Three bonds plus one lone pair. The three atoms form a pyramid. This shape is `trigonal pyramidal`. NH₃ and PCl₃ look like this.
+
+The lone pair takes up more space than a bond. It pushes the three N-H bonds closer. The angle squeezes from 109.5° down to 107°.
+
+@continue
+
+Now swap a second bond for another lone pair. Two bonds, two lone pairs — still four pairs arranged tetrahedrally.
+
+But the shape you see is `bent` — a V. Water (H₂O) and SCl₂ are bent. Two lone pairs squeeze the angle further — down to 104.5°.
+
+The pattern in the numbers: 109.5° → 107° → 104.5°. Each lone pair added squeezes the bonds tighter.
+
+@continue
+
+There's another way to get a bent shape. Start with trigonal planar — three electron pairs at 120°. Replace one bond with a lone pair.
+
+Two bonds remain with one lone pair. Still bent, but the angle is about 120° (slightly less). SnCl₂ and SO₂ have this shape.
+
+Same name — bent — but different angles. One comes from a tetrahedral parent (~104.5°). The other from a trigonal planar parent (~120°). The parent geometry decides the angle.
+
+The rule: count ALL electron pairs to find the arrangement. Then ignore the lone pairs — what's left is the shape.
+
+
+[BOND_T_021] VSEPR: Shapes With Lone Pairs (Part 2)
+
+Now the bigger parents — five and six electron pairs. Same logic: lone pairs are invisible, but they pick the roomiest seat.
+
+In a trigonal bipyramidal parent, not all positions are equal. **Equatorial** spots face only two neighbors at 90°. **Axial** spots face three at 90°.
+
+Lone pairs want the most room. So they always grab equatorial spots first — fewer close neighbors, less repulsion.
+
+tbp-lone-pairs.webp
+
+@continue
+
+SF₄ has four bonds and one lone pair. The lone pair takes an equatorial spot. The four fluorines tilt around it — a `see-saw` shape.
+
+Add a second lone pair. ClF₃ and BrF₃ have three bonds, two lone pairs. Both lone pairs sit equatorial. Three bonds are forced into a `T-shaped` arrangement.
+
+Third lone pair. XeF₂ and I₃⁻ have two bonds, three lone pairs. All three lone pairs fill the equatorial plane.
+
+Only the two axial bonds remain — straight up and down. Linear again, but from a five-pair parent.
+
+@continue
+
+Now the octahedral parent — six electron pairs, all positions equal.
+
+BrF₅ and IF₅ have five bonds and one lone pair. The lone pair takes one spot. Five bonds form a `square pyramidal` shape — four in a square, one on top.
+
+@continue
+
+XeF₄ has four bonds and two lone pairs. Where do the two lone pairs go? Opposite each other — 180° apart. Next to each other would mean 90° between them, too much repulsion.
+
+With lone pairs above and below, the four fluorines sit in a flat square. This is `square planar`.
+
+The logic is the same everywhere. Lone pairs grab the roomiest spots. Count what's left — that's the shape you see.
+
+
+[BOND_T_022] Three Bonding Theories
+
+**Lewis structures** show which atoms connect and where electrons sit. Fast, useful — but limited.
+
+Why does breaking H₂ need 436 kJ/mol while F₂ needs only 155? Lewis can't explain bond strengths.
+
+**VSEPR** predicts shapes — water is bent, methane is tetrahedral. It works well. But it only describes a pattern: pairs repel, so they spread apart.
+
+VSEPR never explains *how* atoms rearrange their orbitals to bond. It says "tetrahedral" but not *why* four identical bonds form from different-looking orbitals.
+
+Think of bonding theories as a toolkit. Each tool goes deeper than the last.
+
+@continue
+
+`Valence bond theory` (VBT) explains the mechanism behind those shapes. When atomic orbitals from two atoms overlap, electrons pair up in the overlap zone.
+
+More overlap → stronger bond. This is why H–H is stronger than F–F. VBT connects shape to actual orbital behaviour.
+
+VBT also reveals two kinds of overlap: head-on (sigma) and sideways (pi). VSEPR can't tell you this — it doesn't look at orbitals at all.
+
+VSEPR spots the pattern. VBT shows the machinery underneath.
+
+@continue
+
+But VBT has its own blind spot. It says electrons belong to specific atom pairs.
+
+Oxygen gas (O₂) is attracted to magnets — it's **paramagnetic**. VBT predicts all electrons in O₂ are paired, so no magnetism. The model breaks here.
+
+`Molecular orbital theory` (MOT) fixes this. Instead of electrons staying between two atoms, MOT spreads them across the whole molecule. This explains what VBT misses.
+
+Lewis for quick sketches. VSEPR for shapes. VBT for why bonds form and how strong they are. MOT for the complete picture. Each layer adds something the previous one can't.
+
+
+[BOND_T_023] Valence Bond Theory: Orbital Overlap
+
+Two hydrogen atoms, far apart. Each has one proton and one electron. At this distance, they don't feel each other. Energy: zero.
+
+Now bring them closer. Four new forces appear.
+
+@continue
+
+four-forces-h2.chem.svg
+
+@continue
+
+Two attractions: nucleus A pulls electron B toward it. Nucleus B pulls electron A toward it. Each proton reaches across to grab the other atom's electron.
+
+Two repulsions: electron A and electron B push each other away (both negative). Nucleus A and nucleus B push each other away (both positive).
+
+@continue
+
+Far apart — all four forces are tiny. Nothing happens. Energy stays flat.
+
+@continue
+
+Moving closer — the electrons drift between the two nuclei. Both protons pull on both electrons. The cross-attractions grow strong.
+
+Repulsions grow too, but slower. The electrons sit between the nuclei, shielding one proton from the other.
+
+Attractions win. Energy drops.
+
+@continue
+
+Too close — the nuclei are nearly on top of each other. Two positive charges crammed together. Nuclear repulsion spikes sharply. No amount of electron shielding can overcome it.
+
+Energy shoots back up.
+
+@continue
+
+h2-energy-curve.chem.svg
+
+@continue
+
+The curve drops, hits a minimum, then rises. That lowest point is where attractions and repulsions perfectly balance.
+
+For H₂, this sweet spot is at 74 pm. The energy drop from separated atoms to this point is 435.8 kJ/mol — the **bond enthalpy**.
+
+@continue
+
+Now look at what's physically happening at 74 pm. The 1s orbitals of the two atoms partially merge. Electron density piles up in the region between the nuclei.
+
+This partial merging is `orbital overlap`. Not just "sharing electrons" in some vague way — there's a real zone where electrons spend most of their time, and both nuclei are pulled toward it.
+
+@continue
+
+Greater overlap means more electron density between nuclei. Stronger pull. Deeper energy well. Stronger bond.
+
+Every covalent bond follows this pattern: approach, overlap, energy minimum. The atoms change, but the logic stays the same.
+
+
+[BOND_T_024] Sigma Bonds
+
+When two orbitals overlap head-on — directly along the line joining the nuclei — they form a `sigma bond` (σ bond). The electron density piles up right between the nuclei.
+
+sigma-overlaps.chem.svg
+
+@continue
+
+Three combinations can make a sigma bond, same idea each time.
+
+Two s orbitals meet head-on — that's s-s overlap. H₂ forms this way.
+
+An s orbital meets one lobe of a p orbital end-to-end — s-p overlap. HCl forms this way. Hydrogen's 1s overlaps with chlorine's 3p.
+
+Two p orbitals point straight at each other — p-p overlap. F₂ forms this way.
+
+@continue
+
+Different orbitals, same result: head-on overlap (also called `axial overlap`) along the bond axis. The electron cloud is symmetric around this axis — rotate the bond and it looks the same.
+
+Sigma bonds are strong because head-on overlap is the most overlap you can get. Every single bond is a sigma bond.
+
+Double and triple bonds also have one sigma bond inside them. The sigma forms first. Other bonds add on top.
+
+
+[BOND_T_025] Pi Bonds
+
+Ethylene (C₂H₄) is flat. You can't twist one CH₂ group around the C=C bond. Try to rotate them, and the molecule resists. Why is the double bond so rigid?
+
+Because there's a second bond — not another sigma, but a `pi bond` (π bond). It forms from `sidewise overlap` of p orbitals.
+
+@continue
+
+In sigma bonds, orbitals meet head-on. In pi bonds, parallel p orbitals overlap sideways. The electron cloud sits above and below the bond axis, not between the nuclei.
+
+sigma-vs-pi.chem.svg
+
+@continue
+
+This sideways overlap is smaller than head-on. Less overlap means a weaker bond. Pi bonds are weaker than sigma bonds.
+
+But pi bonds lock rotation. If you twist one atom, the parallel p orbitals tilt apart and the overlap breaks. That's why double bonds are rigid.
+
+@continue
+
+A double bond = one sigma + one pi (1σ + 1π). A triple bond = one sigma + two pi (1σ + 2π).
+
+Pi bonds never exist alone. The sigma bond forms first, bringing atoms close enough for the p orbitals to line up sideways. Only then can pi bonding happen.
+
+
+[BOND_T_026] Why Hybridisation?
+
+Carbon's ground state is 1s² 2s² 2p². Only 2 unpaired electrons sit in the 2p orbitals. So carbon should form just 2 bonds. But methane has 4.
+
+Promotion fixes the count. One 2s electron jumps to the empty 2p orbital. Now carbon has 4 unpaired electrons — one in 2s, three in 2p. Four bonds become possible.
+
+But these four orbitals aren't the same. The 2s orbital is spherical. The three 2p orbitals point at right angles to each other.
+
+@continue
+
+If hydrogen's 1s overlaps with these pure orbitals, we'd get 3 bonds at 90° from the p orbitals. The fourth — from the spherical s — could point in any direction.
+
+Real methane looks nothing like this. All 4 C–H bonds are identical — same length, same strength — at 109.5° apart. Tetrahedral.
+
+The same problem shows up in NH₃ and H₂O. Pure p orbital overlap predicts 90° angles. Actual angles: 107° and 104.5°.
+
+@continue
+
+Promotion fixed the count. It didn't fix the shape. Pure atomic orbitals can't explain any of these molecules. Something must change before bonding happens.
+
+Think about what each orbital offers for bonding.
+
+@continue
+
+An s orbital is a sphere. It spreads equally in all directions. When another atom approaches from one side, most of the s orbital is elsewhere. Poor overlap.
+
+A p orbital is directional — good. But it has two equal lobes pointing opposite ways. Only one lobe faces the bonding partner. The other lobe is wasted.
+
+@continue
+
+What if an atom could build a better orbital? One with a single fat lobe aimed right at its bonding partner and just a tiny lobe behind?
+
+More of the orbital would sit in the overlap zone. More overlap means a stronger bond. Stronger bonds release more energy. The molecule ends up more stable.
+
+@continue
+
+Atoms do exactly this. They mix their s and p orbitals into new shapes — `hybrid orbitals`. This mixing is `hybridisation`.
+
+The s orbital's reach in all directions combines with the p orbital's concentration along one axis. The result: a hybrid with one large lobe that overlaps far better than either parent.
+
+@continue
+
+For methane: one 2s and three 2p orbitals mix into four **sp³** hybrids. Each has 25% s-character and 75% p-character. All four are identical in energy and shape.
+
+carbon-hybridisation-stages.chem.svg
+
+@continue
+
+These four sp³ hybrids point toward the corners of a tetrahedron — 109.5° apart. Each overlaps head-on with hydrogen's 1s, forming a sigma bond. All four C–H bonds come out identical. Problem solved.
+
+Hybrids also spread apart to reduce repulsion between electron pairs. The type of hybridisation directly tells you the geometry.
+
+@continue
+
+The number of hybrids out always equals the number of atomic orbitals in. Four orbitals mixed, four hybrids formed. Every hybrid in a set is identical — same energy, same shape.
+
+A few rules. Only valence shell orbitals mix — inner shells stay untouched. The mixing orbitals must have similar energies — 2s and 2p can mix, but 1s and 2p cannot.
+
+Promotion is not required before hybridisation. And even completely filled orbitals can take part — not just half-filled ones.
+
+
+[BOND_T_027] sp Hybridisation
+
+Beryllium's ground state is 1s² 2s². Count the unpaired electrons: zero. Beryllium shouldn't form any bonds at all.
+
+Yet BeCl₂ exists. And it's perfectly linear — two identical Be–Cl bonds at exactly 180°. How?
+
+First, promotion. One 2s electron jumps to the empty 2p orbital. Now beryllium has two unpaired electrons — one in 2s, one in 2p. Two bonds become possible.
+
+@continue
+
+But 2s is spherical and 2p points along one axis. They're different shapes with different energies. Two bonds from these orbitals wouldn't be identical.
+
+So they mix. One s + one p blend into two equivalent `sp hybrid` orbitals. This is `sp hybridisation`, also called `diagonal hybridisation`.
+
+Each sp hybrid has 50% s-character and 50% p-character. Equal in energy, equal in shape.
+
+@continue
+
+The shape: a dumbbell with one lobe much bigger than the other. The big lobe points forward — that's the bonding end. A tiny lobe sits behind it. The big lobe overlaps better, forming stronger bonds.
+
+The two sp hybrids point in opposite directions along the z-axis — 180° apart. Maximum distance between them.
+
+sp-hybrid-formation.chem.svg
+
+@continue
+
+Each hybrid overlaps head-on with a half-filled p orbital on chlorine, forming a sigma bond. Two sigma bonds, perfectly linear. That's BeCl₂.
+
+Ethyne (C₂H₂) uses sp hybridisation too. Each carbon forms two sp hybrids for sigma bonds — one to hydrogen, one to the other carbon.
+
+Two unhybridised p orbitals (2pₓ and 2pᵧ) remain on each carbon. They overlap sideways to form two pi bonds, giving the C≡C triple bond.
+
+The pattern: sp hybridisation → 2 hybrid orbitals → 180° → linear geometry.
+
+
+[BOND_T_028] sp² Hybridisation
+
+Boron's ground state is 1s² 2s² 2p¹. Only one unpaired electron. One bond is all boron should manage.
+
+But BCl₃ exists — three identical B–Cl bonds, all in one flat plane at 120°. Something doesn't add up.
+
+Promotion helps. One 2s electron jumps to an empty 2p orbital. Now boron has three unpaired electrons — one in 2s, two in 2p.
+
+@continue
+
+But a spherical 2s and two directional 2p orbitals differ in shape and energy. Three bonds from these wouldn't be identical.
+
+So they mix. One s + two p orbitals blend into three equivalent `sp² hybrid` orbitals. This is `sp² hybridisation`.
+
+Each sp² hybrid has ⅓ s-character and ⅔ p-character. Three equal lobes pointing toward corners of an equilateral triangle, 120° apart.
+
+@continue
+
+sp2-hybrid-formation.chem.svg
+
+@continue
+
+Each hybrid overlaps head-on with a p orbital on chlorine, forming a sigma bond. Three sigma bonds, all equal. That's BCl₃ — trigonal planar, every Cl–B–Cl angle exactly 120°.
+
+One p orbital on boron stays unhybridised. It sits at right angles to the trigonal plane — sticking straight up and down. Empty but ready for pi bonding.
+
+@continue
+
+Ethene (C₂H₄) uses sp² hybridisation too. Each carbon forms three sp² hybrids — two overlap with hydrogen, one overlaps with the other carbon. Three sigma bonds per carbon.
+
+The leftover unhybridised p orbital on each carbon overlaps sideways with the other, forming one pi bond. That gives ethene its C=C double bond — one sigma plus one pi.
+
+The pattern: sp² hybridisation → 3 hybrid orbitals → 120° → trigonal planar geometry.
+
+
+[BOND_T_029] sp³ Hybridisation
+
+Nitrogen's ground state is 2s² 2p³. Three unpaired electrons sit in p orbitals at right angles to each other. If these pure p orbitals overlap with hydrogen, the bond angles should be 90°.
+
+But NH₃ actually has bond angles of 107°. Pure p orbital overlap can't explain this.
+
+Nitrogen's one 2s and three 2p orbitals mix into four `sp³ hybrid` orbitals — each with 25% s-character and 75% p-character, pointing toward the corners of a tetrahedron, 109.5° apart.
+
+@continue
+
+Here's the key difference from methane. Carbon uses all four sp³ hybrids for bonding. Nitrogen has only three unpaired electrons. The fourth hybrid holds a lone pair.
+
+Three sp³ hybrids overlap with hydrogen's 1s orbitals, forming three N–H sigma bonds. The lone pair sits in the fourth hybrid, pointing away from the hydrogens.
+
+A lone pair isn't shared with another atom. It stays closer to nitrogen, spreads out more, and pushes the bonding pairs together. The bond angle shrinks from 109.5° to 107°.
+
+@continue
+
+The electron pairs still sit in a tetrahedron. But the molecular shape — what you'd see if you could only see atoms — is trigonal pyramidal. Nitrogen sits on top, three hydrogens form the base.
+
+Now look at water. Oxygen's configuration is 2s² 2p⁴. It also undergoes `sp³ hybridisation` — four sp³ hybrids arranged tetrahedrally.
+
+But oxygen has only two unpaired electrons. Two hybrids bond with hydrogen. The other two hold lone pairs.
+
+Two lone pairs squeeze the bonding pairs even harder than one. The H–O–H bond angle drops to 104.5° — below NH₃'s 107°.
+
+The molecular shape is bent (also called V-shaped or angular). Two hydrogens and the oxygen form a crooked line, not a straight one.
+
+@continue
+
+sp3-shape-progression.chem.svg
+
+@continue
+
+Same hybridisation in all three. Same tetrahedral electron pairs. But the visible shapes — tetrahedral, pyramidal, bent — differ because lone pairs push bonds closer.
+
+Each extra lone pair squeezes the angle down. Zero: 109.5°. One: 107°. Two: 104.5°.
+
+
+[BOND_T_030] Multiple Bonds and Hybridisation
+
+Carbon-carbon bonds come in three types — single, double, and triple. Going from single to triple, the bond gets shorter: 154 pm, 134 pm, 120 pm. Hybridisation explains why.
+
+In ethane (C₂H₆), each carbon is sp³ hybridised. The C–C bond forms by sp³–sp³ overlap. C–H bonds form by sp³–s overlap. C–C = 154 pm, C–H = 109 pm.
+
+@continue
+
+In ethene (C₂H₄), each carbon is sp² hybridised. Three sp² orbitals make sigma bonds — one to the other carbon, two to hydrogens.
+
+That leaves one unhybridised p orbital on each carbon. These two p orbitals overlap sideways to form a pi bond.
+
+So the C=C double bond has two parts: one sp²–sp² sigma bond plus one p–p pi bond. Bond length: 134 pm. C–H bond length: 108 pm.
+
+ethene-pi-bond.chem.svg
+
+@continue
+
+Ethene is a planar molecule. The H–C–H angle is 117.6° and the H–C–C angle is 121°.
+
+In ethyne (C₂H₂), each carbon is sp hybridised. Two sp orbitals form sigma bonds — one to the other carbon, one to hydrogen.
+
+Each carbon has two unhybridised p orbitals. Both pairs overlap sideways, giving two pi bonds.
+
+The C≡C triple bond = one sp–sp sigma + two p–p pi bonds. Bond length: 120 pm. Ethyne is a linear molecule.
+
+@continue
+
+Why does the bond get shorter from single to triple? It comes down to s-character. sp has 50% s-character, sp² has 33%, sp³ has 25%.
+
+s orbitals sit closer to the nucleus than p orbitals. More s-character means the hybrid is held tighter to the nucleus. So sp bonds are shorter and stronger than sp³ bonds.
+
+
+[BOND_T_031] sp³d Hybridisation
+
+What if an atom needs five bonds? Mixing s and p orbitals gives at most four hybrids. Five bonds need a fifth orbital.
+
+Elements from the third period have d orbitals. The energy of 3d orbitals is close to 3s and 3p, so they can join the hybridisation mix.
+
+3d energy is also close to 4s and 4p. So 3d, 4s, and 4p can hybridise together too.
+
+But 3p and 4s are too far apart in energy. No hybridisation involving 3p, 3d, and 4s is possible.
+
+@continue
+
+One s, three p, and one d orbital combine to form five `sp³d hybrid` orbitals. These point toward the corners of a trigonal bipyramid.
+
+The five positions are not all equal. Three hybrids lie in a plane, 120° apart. These are the `equatorial bonds`.
+
+Two hybrids point above and below that plane, at 90° to it. These are the `axial bonds`.
+
+@continue
+
+Take PCl₅. Phosphorus in its ground state is 3s² 3p³ — only three unpaired electrons. That gives just three bonds, not five.
+
+In the excited state, one 3s electron promotes to an empty 3d orbital: 3s¹ 3p³ 3d¹. Now five singly occupied orbitals are ready to hybridise.
+
+These five mix into sp³d hybrids. Each overlaps with a singly occupied p orbital on chlorine, forming five P–Cl sigma bonds. This is `sp³d hybridisation` — giving a trigonal bipyramidal PCl₅.
+
+sp3d-orbital-boxes.chem.svg
+
+@continue
+
+Three equatorial P–Cl bonds sit at 120°. Two axial P–Cl bonds sit at 90° to the equatorial plane.
+
+Axial bonds have three equatorial neighbors at just 90°. Equatorial bonds have only two neighbors at 90°. More close neighbors means more repulsion.
+
+So axial bonds are slightly longer and weaker than equatorial bonds. This extra strain makes PCl₅ more reactive at its axial positions.
+
+
+[BOND_T_032] sp³d² Hybridisation
+
+Sulfur in SF₆ needs six bonds — but its ground state (3s² 3p⁴) has only two unpaired electrons. Where do six come from?
+
+In the excited state, electrons promote into empty 3d orbitals. Now sulfur has six singly occupied orbitals: one 3s, three 3p, and two 3d.
+
+These six orbitals mix to give six `sp³d² hybrid` orbitals — this is `sp³d² hybridisation`. All six point toward corners of a regular octahedron, every angle between neighbors 90°.
+
+@continue
+
+Each sp³d² hybrid overlaps with a fluorine p orbital, forming a sigma bond. Six equal S–F bonds — SF₆ has a perfect **octahedral** geometry.
+
+sp3d2-orbital-boxes.chem.svg
+
+@continue
+
+Now BrF₅. Bromine is also sp³d², with six electron pairs total. But only five are bonds — the sixth is a lone pair. The lone pair takes one corner of the octahedron.
+
+Five fluorines form a `square pyramidal` shape. Same hybridisation as SF₆, different shape — because one bonding pair was replaced by a lone pair.
+
+@continue
+
+XeF₄ takes it further. Xenon is sp³d² with six electron pairs — four bonds and two lone pairs.
+
+Where do the two lone pairs sit? Opposite each other, 180° apart. Placing them next to each other (90°) would cause too much repulsion.
+
+Four fluorines end up in a flat square. The shape is `square planar` — from an octahedral parent with two lone pairs removed.
+
+@continue
+
+Same hybridisation — sp³d² — gives three different shapes depending on how many lone pairs replace bonds.
+
+Zero lone pairs: octahedral (SF₆). One lone pair: square pyramidal (BrF₅). Two lone pairs: square planar (XeF₄).
+
+The electron pair geometry is always octahedral. The molecular shape depends on what you can see — just the atoms.
+
+
+[BOND_T_NEW2] dsp² Hybridisation
+
+sp³d² uses outer-shell d orbitals — the same shell as s and p. Now a completely different kind of hybridisation where the d orbital comes from the inner shell.
+
+One (n−1) d orbital mixes with one ns and two np orbitals. Four hybrids form, all in a single plane at 90° to each other. This is `dsp² hybridisation`.
+
+@continue
+
+The 'd' is written first in dsp² — not sp²d — because that d orbital belongs to the shell below the valence shell. The notation tells you: inner d first, then outer s and p.
+
+This is the key difference from sp³. In sp³, all four orbitals come from the same shell. In dsp², one orbital reaches down into a deeper shell.
+
+@continue
+
+Where does this show up? In certain metal compounds where four groups attach to a central metal ion.
+
+Consider Ni²⁺ surrounded by four CN⁻ groups — the complex [Ni(CN)₄]²⁻. Ni²⁺ has eight d electrons spread across five 3d orbitals. In the free ion, two electrons are unpaired.
+
+@continue
+
+CN⁻ is a powerful group. It forces those two unpaired electrons to pair up, squeezing all eight electrons into just four 3d orbitals. One 3d orbital is now empty.
+
+That empty 3d orbital combines with the 4s and two 4p orbitals to form four dsp² hybrids. Four CN⁻ groups each donate an electron pair into one hybrid.
+
+@continue
+
+dsp2-orbital-boxes.chem.svg
+
+@continue
+
+Result: square planar geometry. All electrons paired — the compound is **diamagnetic**. [PtCl₄]²⁻ uses the same hybridisation.
+
+dsp² always gives square planar. sp³ always gives tetrahedral. Both have four groups around the central atom — the electronic arrangement decides which geometry forms.
+
+
+[BOND_T_033] Molecular Orbital Theory: Core Ideas
+
+VBT predicts oxygen should be diamagnetic — all electrons paired. But O₂ is paramagnetic. It's attracted to magnets. VBT can't explain this.
+
+`Molecular orbital theory` fixes this. Its core idea: electrons don't belong to individual atoms. They belong to the entire molecule.
+
+@continue
+
+How do molecular orbitals form? Atomic orbitals combine. This approach is called `LCAO` — Linear Combination of Atomic Orbitals.
+
+Think of waves. Two waves can add (constructive interference) or cancel (destructive interference). Atomic orbitals behave the same way.
+
+@continue
+
+Constructive combination creates a `bonding molecular orbital`. Electron density piles up between the two nuclei — like glue holding them together. Both nuclei are pulled inward toward this shared cloud. Lower energy, more stable.
+
+@continue
+
+Destructive combination creates an `antibonding molecular orbital`. A `nodal plane` forms between the nuclei — zero electron density there. The glue is gone.
+
+Just two bare positive nuclei left facing each other. Nothing between them except repulsion. Higher energy, less stable.
+
+@continue
+
+Key counting rule: number of MOs formed always equals number of AOs combined. Two atomic orbitals give one bonding MO plus one antibonding MO.
+
+Electrons in bonding MOs hold the molecule together. Electrons in antibonding MOs tear it apart. The balance decides whether the molecule exists.
+
+
+[BOND_T_034] Formation of Molecular Orbitals
+
+Two hydrogen atoms approach. Each carries a 1s orbital. These atomic orbitals combine — but not into one. They produce two molecular orbitals with opposite effects.
+
+Add the wave functions (ψₐ + ψᵦ). Between the nuclei, amplitudes reinforce — `constructive interference`. Electron density builds up right between the two nuclei.
+
+This creates a bonding molecular orbital: σ1s.
+
+@continue
+
+That density between the nuclei is like glue. Both positive nuclei are pulled inward toward this shared electron cloud. Like both ends of a rope tugged toward a knot in the middle.
+
+The more density in the middle, the stronger the pull holding the atoms together.
+
+@continue
+
+Now subtract (ψₐ − ψᵦ). Between the nuclei, amplitudes cancel — `destructive interference`. A `nodal plane` forms — zero electron density. The glue is gone.
+
+This creates an antibonding molecular orbital: σ*1s. The asterisk (*) always marks antibonding.
+
+@continue
+
+With no electrons between them, the two positive nuclei face each other directly. Like charges repel. Nothing holds them together.
+
+The electrons sit on the far sides instead, pulling each nucleus outward. Everything pushes the atoms apart.
+
+mo-cloud-shapes.chem.svg
+
+@continue
+
+Look at the energy levels. The bonding MO drops below the original atomic orbitals. Electrons here sit between nuclei — glue that stabilizes.
+
+The antibonding MO rises above. Electrons here sit outside the nuclei — they destabilize.
+
+mo-formation.chem.svg
+
+@continue
+
+The drop and rise are roughly equal. Total energy is conserved.
+
+But filling decides everything. H₂ has two electrons. Both enter the lower bonding MO. Zero electrons in the antibonding MO.
+
+Bonding wins. The molecule is stable.
+
+
+[BOND_T_035] σ and π Molecular Orbitals
+
+Different atomic orbitals create different molecular orbitals.
+
+From s orbitals: head-on combination gives σ (bonding) and σ* (antibonding). Electron density sits along the bond axis.
+
+From pz orbitals (pointing along the bond axis): also head-on combination. Creates `σ2pz` (bonding) and `σ*2pz` (antibonding).
+
+@continue
+
+From px and py orbitals (at right angles to the bond axis): sidewise combination. Creates `π2px`, `π2py` (bonding) and `π*2px`, `π*2py` (antibonding).
+
+Pi MOs have electron density above and below the bond axis — not directly between nuclei. They're weaker than sigma MOs.
+
+@continue
+
+Sigma MOs are symmetric around the bond axis. Rotate the molecule — sigma looks the same.
+
+Pi MOs are not symmetric. They have a nodal plane along the bond axis.
+
+For p orbitals: pz makes sigma MOs (head-on). px and py make pi MOs (sidewise). Same pattern as in VBT's sigma and pi bonds.
+
+sigma-pi-mo-shapes.chem.svg
+
+
+[BOND_T_036] MO Energy Level Diagrams
+
+B₂ is paramagnetic — attracted to magnets. That means it has unpaired electrons. Let's see if the MO diagram predicts this.
+
+B₂ has 10 electrons. After filling σ1s, σ*1s, σ2s, and σ*2s, we've used 8. Two electrons remain.
+
+@continue
+
+Head-on overlap is stronger than sideways overlap. So σ2pz should sit lower in energy than π2p. If that's true, both remaining electrons enter σ2pz — paired. Diamagnetic.
+
+But experiments say B₂ is paramagnetic. Two unpaired electrons. Our ordering must be wrong.
+
+@continue
+
+Something has pushed σ2pz higher than π2p. What could do that?
+
+Look at σ2s and σ2pz. Both are sigma-type MOs — cylindrical electron clouds wrapped around the bond axis. Same symmetry shape.
+
+The two π MOs are different — their electron clouds sit above and below the axis. Different symmetry from σ.
+
+@continue
+
+Here's the rule: when two MOs have the same symmetry type and sit close in energy, they interact and push apart. The lower one drops further down, the higher one rises further up.
+
+This is `s-p mixing`.
+
+@continue
+
+Think of two magnets placed on a rail, same poles facing. They push apart — one slides left, the other slides right. Same idea with same-symmetry MOs close in energy. They repel each other on the energy scale.
+
+σ2s pushes σ2pz upward. σ2pz pushes σ2s downward. The closer they start, the stronger this push.
+
+@continue
+
+sp-mixing-push.chem.svg
+
+@continue
+
+Now the key question: how close are σ2s and σ2pz?
+
+That depends on the gap between 2s and 2p atomic orbitals. Small gap → σ2s and σ2pz form closer together → stronger push.
+
+In boron, carbon, and nitrogen, the 2s–2p energy gap is small. Strong mixing. σ2pz gets pushed above π2p.
+
+@continue
+
+In oxygen and fluorine, nuclear charge is higher. The 2s electrons get pulled much closer to the nucleus than 2p electrons. The 2s–2p gap is large.
+
+Large gap → σ2s and σ2pz sit far apart → weak mixing → σ2pz stays below π2p, right where overlap strength predicts.
+
+@continue
+
+So two orderings exist.
+
+For B₂, C₂, N₂ (small 2s–2p gap, strong mixing):
+
+σ1s < σ*1s < σ2s < σ*2s < (π2px = π2py) < σ2pz < (π*2px = π*2py) < σ*2pz
+
+For O₂, F₂ (large gap, weak mixing):
+
+σ1s < σ*1s < σ2s < σ*2s < σ2pz < (π2px = π2py) < (π*2px = π*2py) < σ*2pz
+
+mo-energy-comparison.chem.svg
+
+@continue
+
+Now back to B₂. With the correct ordering, π2px and π2py sit below σ2pz. The two remaining electrons enter these degenerate π orbitals.
+
+By Hund's rule, one goes into π2px, one into π2py. Same spin. Two unpaired electrons.
+
+Paramagnetic. Mystery solved.
+
+@continue
+
+π2px and π2py always have the same energy — they are `degenerate`. Same overlap, just in perpendicular planes. π*2px and π*2py are also degenerate.
+
+Fill electrons using the same rules as atomic orbitals. Lowest energy first (Aufbau). At most 2 per MO with opposite spins (Pauli). In degenerate MOs, one electron in each before pairing (Hund's rule).
+
+
+[BOND_T_037] Bond Order and Stability
+
+Does a molecule exist? Calculate its `bond order`.
+
+**Bond order** = ½ × (electrons in bonding MOs − electrons in antibonding MOs)
+
+Or simply: Bond order = ½(Nb − Na)
+
+@continue
+
+Positive bond order means more bonding than antibonding. The molecule is stable. Higher bond order = stronger bond.
+
+Zero or negative bond order means unstable or nonexistent. He₂ has bond order = ½(2-2) = 0. It doesn't exist.
+
+@continue
+
+Bond order 1 = single bond. Bond order 2 = double bond. Bond order 3 = triple bond.
+
+Higher bond order means shorter bond length. N₂ (bond order 3) has shorter bond than O₂ (bond order 2).
+
+Higher bond order also means higher bond enthalpy. Triple bonds are hardest to break.
+
+
+[BOND_T_038] Magnetic Properties from MO Theory
+
+MOT's biggest success is explaining magnetic behaviour.
+
+A molecule with all electrons paired is `diamagnetic`. It's weakly repelled by magnetic fields. No unpaired electrons.
+
+A molecule with unpaired electrons is `paramagnetic`. It's attracted to magnetic fields. The unpaired electrons act like tiny magnets.
+
+@continue
+
+VBT predicts O₂ should be diamagnetic. All electrons should be paired in bonds.
+
+But the MO diagram tells a different story. O₂ has 16 electrons. Fill the MO diagram:
+
+σ1s² σ*1s² σ2s² σ*2s² σ2pz² π2px² π2py² π*2px¹ π*2py¹
+
+o2-mo-filling.chem.svg
+
+@continue
+
+Two electrons enter the degenerate π* orbitals. By Hund's rule, they occupy separate orbitals with parallel spins. Two unpaired electrons.
+
+Result: O₂ is paramagnetic. This matches experiment. MOT explains what VBT couldn't.
+
+
+[BOND_T_039] MO of Lighter Diatomics
+
+Start with the simplest molecules.
+
+H₂: two electrons. Configuration: (σ1s)². Bond order = ½(2−0) = 1. Stable single bond. Diamagnetic.
+
+He₂: four electrons. Configuration: (σ1s)²(σ*1s)². Bond order = ½(2−2) = 0. No net bonding. He₂ doesn't exist.
+
+He₂⁺: three electrons. Configuration: (σ1s)²(σ*1s)¹. Bond order = ½(2−1) = 0.5. This ion exists — detected spectroscopically.
+
+@continue
+
+Li₂: six electrons. Configuration: (σ1s)²(σ*1s)²(σ2s)². The 1s orbitals cancel out. Effective bond order = ½(2−0) = 1 from 2s.
+
+Li₂ exists in vapour phase. It's diamagnetic.
+
+Be₂: eight electrons. Configuration: (σ1s)²(σ*1s)²(σ2s)²(σ*2s)². All bonding canceled by antibonding. Bond order = 0. Be₂ doesn't exist.
+
+@continue
+
+mo-filling-light.chem.svg
+
+@continue
+
+Pattern: filled shells (like He₂, Be₂) give bond order zero. Half-filled or differently filled shells allow bonding.
+
+
+[BOND_T_040] MO of B₂ through Ne₂
+
+Now the heavier second-row diatomics. B₂, C₂, and N₂ use the alternate MO ordering where π comes before σ2pz.
+
+B₂: 10 electrons. Configuration ends: ...σ2s² σ*2s² π2px¹ π2py¹
+
+Two unpaired electrons (Hund's rule in degenerate π orbitals). Paramagnetic. Bond order = ½(6-4) = 1.
+
+@continue
+
+C₂: 12 electrons. Configuration ends: ...π2px² π2py²
+
+All electrons paired. Diamagnetic. Bond order = ½(8-4) = 2.
+
+Interesting: C₂'s double bond is two pi bonds and no sigma bond! Unlike most double bonds.
+
+N₂: 14 electrons. Configuration ends: ...π2px² π2py² σ2pz²
+
+Bond order = ½(10-4) = 3. Triple bond, very stable. Diamagnetic.
+
+@continue
+
+O₂: 16 electrons. Uses the standard ordering (σ2pz before π). Configuration ends: ...σ2pz² π2px² π2py² π*2px¹ π*2py¹
+
+Bond order = 2. Two unpaired electrons. Paramagnetic.
+
+F₂: 18 electrons. Configuration ends: ...π*2px² π*2py²
+
+Bond order = ½(10-8) = 1. Single bond. Diamagnetic.
+
+Ne₂: 20 electrons. All bonding and antibonding filled. Bond order = 0. Doesn't exist.
+
+mo-filling-heavy.chem.svg
+
+
+[BOND_T_041] Hydrogen Bonding
+
+Hydrogen is tiny. When it bonds to a highly electronegative atom — F, O, or N — the shared electrons shift almost entirely toward that atom.
+
+The hydrogen becomes strongly δ+. Almost a bare proton. And bare protons are hungry for electron density.
+
+If a nearby molecule has a lone pair on F, O, or N, that hydrogen feels attracted to it. This attraction is a `hydrogen bond`.
+
+It's weaker than covalent or ionic bonds (about 10–40 kJ/mol). But it's stronger than other intermolecular forces.
+
+@continue
+
+The hydrogen acts as a bridge — covalently bonded to one atom, hydrogen-bonded to another.
+
+h-bond-water-chain.webp
+
+Solid line for the covalent bond. Dashed line for the hydrogen bond. Each hydrogen sits between two electronegative atoms — owned by one, reaching toward the other.
+
+@continue
+
+Why only F, O, and N? They're small and extremely electronegative. They create the strongest partial charges and offer the most concentrated lone pairs.
+
+`Intermolecular hydrogen bonding` occurs between different molecules. Water molecules hydrogen-bond to each other. This explains water's unusually high boiling point.
+
+`Intramolecular hydrogen bonding` occurs within the same molecule. In *ortho*-nitrophenol, the -OH hydrogen bonds to the nearby -NO₂ oxygen.
+
+Intramolecular H-bonding reduces a compound's ability to form intermolecular H-bonds. *Ortho*-nitrophenol has a lower boiling point than its *para* isomer.
+
+Hydrogen bonds shape biology. DNA's double helix. Protein folding. Water's properties. Small force, massive consequences.

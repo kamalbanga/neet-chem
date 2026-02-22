@@ -1,0 +1,756 @@
+[COORD_T_001] Big Picture of Coordination Compounds
+
+Haemoglobin carries oxygen. Chlorophyll captures sunlight. Both depend on a metal ion gripped by surrounding molecules. Swap those molecules, and the metal can't do its job.
+
+coord-core-concept.webp
+
+That grip — the specific arrangement of molecules around a metal ion — is what this chapter is about.
+
+A `coordination compound` is a metal ion bonded to a cluster of surrounding species that shape its behaviour.
+
+The metal sits at the centre. The surrounding species — called ligands — donate electron pairs to it. Change the ligands, and the compound's colour, reactivity, even its geometry can flip completely.
+
+Three big questions run through this chapter.
+
+First: how do you *describe* these compounds? The metal, its charge, the ligands, the overall structure — all need a systematic language.
+
+Second: how can the *same* formula produce different compounds? Move a ligand between the coordination sphere and the outer shell, or swap which ligands sit next to each other. You get a genuinely different substance.
+
+That's isomerism in coordination compounds.
+
+Third: *why* do these compounds behave the way they do? Why is one complex bright red and another pale yellow? Why is one magnetic and another not?
+
+Bonding theories answer this — they connect ligand arrangement to colour, magnetism, and stability.
+
+Chlorophyll holds Mg²⁺ at its core. Haemoglobin wraps ligands around Fe²⁺. Vitamin B₁₂ coordinates around Co³⁺ — without it, nerve cells fail.
+
+Every one of these is a coordination compound. The metal alone can't do the job. The ligands alone can't either. The *arrangement* is what matters.
+
+
+[COORD_T_002] Werner's Theory
+
+CoCl₃ combines with NH₃ in different ratios to form stable compounds.
+
+Add AgNO₃ to detect free Cl⁻ — Ag⁺ grabs loose chloride and forms white AgCl precipitate. More free Cl⁻, more precipitate. Now test these three compounds.
+
+CoCl₃·6NH₃ (yellow) gives 3 mol AgCl. All three Cl⁻ ions precipitate freely.
+
+CoCl₃·5NH₃ (purple) gives only 2 mol AgCl. One Cl⁻ refuses to precipitate.
+
+CoCl₃·4NH₃ gives just 1 mol AgCl. Two Cl⁻ ions stay locked in. This compound exists in two forms — green and violet — with identical formulas but different properties. Werner's first hint of isomerism.
+
+Why can't AgNO₃ pull out every chloride? Some Cl⁻ ions must be bound to the metal differently — held so tightly they don't dissociate in solution.
+
+Alfred Werner explained this with two types of valence.
+
+`Primary valence` is the metal's normal ionic charge. For Co³⁺, it equals 3. Negative ions satisfy it, and these ions ionise freely in solution. They sit *outside* the coordination sphere.
+
+`Secondary valence` is the number of groups directly attached to the metal ion. These groups — whether neutral molecules like NH₃ or negative ions like Cl⁻ — bind tightly and don't ionise.
+
+Secondary valence equals the **coordination number**, and it stays fixed for a given metal ion.
+
+Co³⁺ has a secondary valence of 6. Six groups always surround it.
+
+In CoCl₃·6NH₃, all six NH₃ molecules fill the secondary valence. All three Cl⁻ remain ionic. So all three precipitate as AgCl.
+
+In CoCl₃·5NH₃, five NH₃ fill five spots. One Cl⁻ enters the coordination sphere to complete six. That Cl⁻ is locked in. Only two Cl⁻ ions remain free to precipitate.
+
+In CoCl₃·4NH₃, four NH₃ plus two Cl⁻ fill the six spots. Only one Cl⁻ stays ionic and precipitates.
+
+werner-experiment.webp
+
+werner-spheres.chem.svg
+
+The pattern is clean. Every Cl⁻ inside the coordination sphere is invisible to AgNO₃. Every Cl⁻ outside precipitates immediately.
+
+Werner also proposed that groups bound by secondary valence have fixed spatial arrangements. For coordination number 6, the geometry is **octahedral**.
+
+
+[COORD_T_003] Double Salts vs Complexes
+
+Mohr's salt and potassium ferrocyanide are both made by combining two simpler compounds. But dissolve them in water and something very different happens.
+
+Mohr's salt — FeSO₄·(NH₄)₂SO₄·6H₂O — falls apart completely. Every ion goes free. You can detect Fe²⁺, NH₄⁺, and SO₄²⁻ separately. Potash alum and carnallite behave the same way.
+
+A compound that dissociates completely like this is a `double salt`.
+
+K₄[Fe(CN)₆] doesn't fall apart. K⁺ ions go free, but [Fe(CN)₆]⁴⁻ stays intact. No free Fe²⁺ or CN⁻ in solution. The metal-ligand core survives — that's what makes it a complex.
+
+double-salt-vs-complex.webp
+
+That's the key test. Dissolve, then probe for individual ions. All free — double salt. Core intact — complex.
+
+
+[COORD_T_004] Coordination Entity and Coordination Number
+
+Werner showed that six groups always cluster around Co³⁺. But what holds them there?
+
+The metal ion has empty orbitals. Each surrounding molecule or ion has a lone pair to donate. The metal accepts electron pairs — making it a Lewis acid. Each ligand donates a pair — making it a Lewis base.
+
+The metal ion plus its directly bonded ligands form a `coordination entity`. In [Co(NH₃)₆]³⁺, cobalt and its six NH₃ ligands together are the coordination entity.
+
+In [Fe(CN)₆]⁴⁻, it's Fe²⁺ with six CN⁻.
+
+The `central atom` (or `central ion`) is the metal at the heart. The `ligands` are the electron-pair donors surrounding it.
+
+How many bonds does the metal form? That's the `coordination number` — the number of *donor atoms* directly bonded to the metal through σ bonds.
+
+For simple ligands like Cl⁻, NH₃, or H₂O, each ligand contributes one donor atom. Six such ligands give CN = 6.
+
+But some ligands donate through more than one atom. Ethane-1,2-diamine (en) bonds through *two* nitrogen atoms. So each en contributes 2 to the coordination number.
+
+[Co(en)₃]³⁺ has only three ligand molecules. But each en donates twice — so CN = 6, not 3.
+
+cn-counting.chem.svg
+
+The count is always about donor atoms, never about ligand molecules. Only σ bonds count — π bonds don't add to the coordination number.
+
+
+[COORD_T_005] Types of Ligands: Denticity
+
+Cl⁻ bonds to a metal through one atom. EDTA⁴⁻ bonds through six at once, wrapping around the metal like a cage.
+
+The number of donor atoms a single ligand uses is its `denticity` — from the Latin word for tooth. How many teeth does the ligand sink into the metal?
+
+A `unidentate` ligand has one donor atom. Cl⁻ donates through chlorine. H₂O through oxygen. NH₃ through nitrogen. One bond each.
+
+A `didentate` ligand has two donor atoms. Ethane-1,2-diamine (en) has two –NH₂ groups — both nitrogens bond to the metal. Oxalate (C₂O₄²⁻) bonds through two oxygen atoms.
+
+A `polydentate` ligand has several donor atoms. The more donor atoms, the higher the denticity.
+
+The champion is EDTA⁴⁻ — a `hexadentate` ligand. It bonds through six atoms at once: two nitrogen atoms (from amino groups) and four oxygen atoms (from carboxylate groups).
+
+One EDTA molecule wraps around a metal ion and fills all six coordination positions by itself.
+
+edta-hexadentate.chem.svg
+
+| Denticity | Type | Examples |
+|---|---|---|
+| 1 | Unidentate | Cl⁻, H₂O, NH₃, CN⁻ |
+| 2 | Didentate | en, C₂O₄²⁻ |
+| 6 | Hexadentate | EDTA⁴⁻ |
+
+
+[COORD_T_006] Chelate and Ambidentate Ligands
+
+Six separate NH₃ molecules surround a metal. Pull one off — it drifts into solution, gone. Replace those six with three en molecules. Pull one arm of en away — the other arm still holds, and the freed arm snaps right back.
+
+Why the difference? When en bonds through both its nitrogen atoms, it forms a ring around the metal. That ring grips like a claw — the Greek word is *chele*.
+
+A ligand that forms such a ring is a `chelate ligand`, and the complex is a `chelate complex`.
+
+chelate-effect.chem.svg
+
+The tether keeps each donor atom near the metal. A detached arm dangles close, ready to reattach. Six separate unidentate ligands have no such safety net. This extra stability is the **chelate effect**.
+
+A different kind of flexibility exists in `ambidentate` ligands. These have two *different* donor atoms, and the ligand bonds through either one — but not both at once.
+
+NO₂⁻ can bond through nitrogen (–NO₂) or through oxygen (–ONO). SCN⁻ can bond through sulphur (–SCN) or nitrogen (–NCS).
+
+Same ligand, different bonding atom. This matters for isomerism — swapping which atom bonds to the metal creates a different compound.
+
+
+[COORD_T_007] Coordination Sphere, Counter Ions, and Complex Types
+
+Dissolve [Co(NH₃)₆]Cl₃ in water. The three Cl⁻ ions drift away — add AgNO₃ and they precipitate as AgCl. But the [Co(NH₃)₆]³⁺ core stays locked together. No free Co³⁺ or NH₃ anywhere.
+
+The square brackets in the formula mark this boundary. Everything inside is the `coordination sphere` — the metal and its directly bonded ligands. This unit stays intact in solution.
+
+Everything outside is a `counter ion` — free to dissociate.
+
+In K₄[Fe(CN)₆], the coordination sphere is [Fe(CN)₆]⁴⁻. The four K⁺ are counter ions.
+
+Two more labels describe the ligand mix inside the coordination sphere.
+
+A `homoleptic` complex has only one kind of ligand. [Co(NH₃)₆]³⁺ — six identical NH₃ molecules. [Ni(CO)₄] — four identical CO molecules.
+
+A `heteroleptic` complex has more than one kind. [Co(NH₃)₄Cl₂]⁺ — NH₃ and Cl⁻ together. Most real coordination compounds are heteroleptic.
+
+
+[COORD_T_008] Shapes and Oxidation Number
+
+Six ligands around a metal repel each other — same logic as VSEPR for covalent molecules. They push apart as far as possible, settling into an **octahedral** shape — the most common geometry.
+
+Four ligands give two possibilities: **tetrahedral** or **square planar**. Which one forms depends on the metal, the ligands, and how the metal's orbitals hybridise.
+
+Five ligands give **trigonal bipyramidal** — but this is rare in coordination chemistry at this level.
+
+These spatial arrangements are called `coordination polyhedra`.
+
+coord-shapes.chem.svg
+
+Now, the metal's charge. Strip away every ligand along with the electron pairs it donated. The charge left on the metal is its `oxidation number`.
+
+To calculate it: set up a charge balance. The overall charge of the coordination entity equals the metal's oxidation number plus the total charge from all ligands.
+
+In [Co(NH₃)₆]³⁺: NH₃ is neutral. Overall charge is +3. So Co = +3, written as Co(III).
+
+In [Fe(CN)₆]⁴⁻: each CN⁻ contributes −1, six of them give −6. Overall charge is −4. So Fe + (−6) = −4, meaning Fe = +2, written as Fe(II).
+
+In [PtCl₄]²⁻: each Cl⁻ gives −1, four give −4. Overall charge is −2. So Pt = +2, written as Pt(II).
+
+Oxidation numbers are always written as Roman numerals in parentheses after the metal name.
+
+
+[COORD_T_009] Naming Ligands in Coordination Compounds
+
+NH₃ in a coordination name isn't called ammonia — it's `ammine`, with double m. H₂O becomes `aqua`, not water. CO is `carbonyl`. NO is `nitrosyl`.
+
+These four special names must be memorised as-is. All other neutral ligands keep their usual names.
+
+Anionic ligands get an **-o** suffix. Chloride becomes chlorido, bromide becomes bromido, cyanide becomes cyanido, hydroxide becomes hydroxido, sulphate becomes sulphato, oxalate becomes oxalato.
+
+How do you indicate multiples? For simple ligand names, use the Greek prefixes: di, tri, tetra, penta, hexa.
+
+Dichlorido means two Cl⁻. Triammine means three NH₃. Hexacyanido means six CN⁻.
+
+But some ligand names already contain a number — like ethane-1,2-diamine (it has "di" built in). Using "di" again would cause confusion.
+
+So for these, use `bis`, `tris`, `tetrakis` instead, and enclose the ligand name in parentheses.
+
+Bis(ethane-1,2-diamine) — clear. Diethane-1,2-diamine — confusing.
+
+| Ligand type | Naming rule | Example |
+|---|---|---|
+| Anionic | Add -o | Cl⁻ → chlorido |
+| Neutral (general) | Keep name | PPh₃ → triphenylphosphine |
+| Neutral (special) | Memorise | H₂O → aqua, NH₃ → ammine |
+
+
+[COORD_T_010] IUPAC Naming and Formulas
+
+Name the cation first, anion second — same order as any ionic compound. Whether or not the complex is the cation doesn't matter.
+
+Second: within the coordination entity, list ligands alphabetically *before* the metal.
+
+After the ligands, write the metal's name. Add the oxidation state in Roman numerals: cobalt(III), platinum(II).
+
+What if the complex is an anion? The metal gets an `-ate` suffix. Cobalt becomes cobaltate. Platinum becomes platinate. But some metals use their Latin roots: iron becomes `ferrate`, silver becomes `argentate`.
+
+Compare: [Co(NH₃)₆]³⁺ is hexaamminecobalt(III) — no suffix, because it's a cation. [Fe(CN)₆]⁴⁻ is hexacyanidoferrate(II) — Latin root plus -ate, because it's an anion.
+
+Now the formula. Here's the trap: formula order is *opposite* to naming order.
+
+In the name, ligands come first, metal second. In the formula, metal comes first, then ligands alphabetically. The whole coordination entity sits inside square brackets.
+
+For [Ag(NH₃)₂][Ag(CN)₂], the name is diamminesilver(I) dicyanidoargentate(I). The cation is named first. The anionic metal gets the -ate suffix with the Latin root.
+
+One last detail: the charge of cations must balance anions. K₃[Fe(CN)₆] has three K⁺ outside to balance the 3⁻ charge on the complex.
+
+The alphabetical rule ignores prefixes. "Ammine" comes before "chlorido" — the di/tri/hexa doesn't count.
+
+
+[COORD_T_011] Big Picture of Isomerism
+
+Same formula, different compound. That's an `isomer`.
+
+Werner spotted this early. CoCl₃·4NH₃ gives two distinct compounds — one green, one violet. Identical formula. Different colours, different properties. Something about the internal arrangement differs.
+
+Two families of isomers exist.
+
+`Structural isomerism`: the atoms form *different bonds*. A ligand bonds through a different atom, or swaps places with a counter ion. The connectivity itself changes.
+
+`Stereoisomerism`: the bonds are identical, but the *spatial arrangement* differs. Same atoms bonded to the same partners, just positioned differently in 3D space.
+
+Structural isomers come in four types: linkage, coordination, ionisation, and solvate. Stereoisomers come in two: geometrical and optical.
+
+Every type answers one question: what changed? For structural isomers — *which* atoms are bonded. For stereoisomers — *where* those atoms sit in space.
+
+isomerism-tree.chem.svg
+
+
+[COORD_T_012] Linkage and Coordination Isomerism
+
+[Co(NH₃)₅(NO₂)]²⁺ is yellow. [Co(NH₃)₅(ONO)]²⁺ is red. Same formula, same atoms. The only difference — which end of the NO₂⁻ faces the metal.
+
+NO₂⁻ can bond through nitrogen (M–NO₂) or through oxygen (M–ONO). Nitrogen-bonded is yellow. Oxygen-bonded is red.
+
+linkage-isomerism.webp
+
+Same ligand, different donor atom, different compound. That's `linkage isomerism`. It needs an ambidentate ligand — one with two different atoms that can each bond to the metal.
+
+`Coordination isomerism` requires two metal centres — one in the cation, one in the anion. The ligands swap between them.
+
+[Co(NH₃)₆][Cr(CN)₆] has all NH₃ on cobalt and all CN⁻ on chromium. Its coordination isomer [Cr(NH₃)₆][Co(CN)₆] reverses this — NH₃ goes to chromium, CN⁻ goes to cobalt.
+
+Both metals keep CN 6. Both complexes have the same overall formula. But the ligand distribution between the two metals is different.
+
+
+[COORD_T_013] Ionisation and Solvate Isomerism
+
+Add AgNO₃ to [Co(NH₃)₅(SO₄)]Br — white precipitate. Free Br⁻ reacts with Ag⁺.
+
+Add BaCl₂ to the same compound — nothing. SO₄²⁻ is trapped inside the coordination sphere.
+
+Now test [Co(NH₃)₅Br]SO₄. AgNO₃ gives nothing — Br⁻ is locked inside. BaCl₂ gives a precipitate — SO₄²⁻ is free.
+
+Same formula, opposite test results. A ligand and a counter ion swapped places. That's `ionisation isomerism`.
+
+`Solvate isomerism` (called `hydrate isomerism` when water is the solvent) works the same way — but the swapping species is a solvent molecule.
+
+[Cr(H₂O)₆]Cl₃ is violet. All six waters are ligands. CN = 6.
+
+[Cr(H₂O)₅Cl]Cl₂·H₂O is grey-green. One water moved outside. One chloride moved inside. CN is still 6.
+
+A third isomer exists too: [Cr(H₂O)₄Cl₂]Cl·2H₂O. Two waters out, two chlorides in. CN remains 6 in every case.
+
+hydrate-isomers.webp
+
+Same atoms, same count. But what's inside the coordination sphere changes — and that changes everything: colour, reactivity, which ions are free in solution.
+
+
+[COORD_T_014] Geometrical Isomerism in Square Planar Complexes
+
+A platinum compound cures cancer. Swap two of its ligands to opposite corners — same formula, same bonds — and it becomes useless. The only difference is *where* the ligands sit.
+
+The compound is [Pt(NH₃)₂Cl₂]. Platinum sits at the centre of a square, with four positions at the corners. Two are NH₃, two are Cl⁻.
+
+Place both chlorides next to each other. This is the `cis isomer` — identical ligands on the same side. Cis-[Pt(NH₃)₂Cl₂] is the cancer drug cisplatin.
+
+Now move the chlorides to opposite corners. This is the `trans isomer` — identical ligands across from each other. Trans-[Pt(NH₃)₂Cl₂] has no anticancer activity at all.
+
+sq-cis-trans.chem.svg
+
+Same atoms, same bonds, different arrangement in space. That's `geometrical isomerism`. It only needs two different types of ligands around the metal.
+
+Why doesn't this happen in tetrahedral complexes? In a tetrahedron, every corner is the same distance from every other. There's no "next to" versus "across from."
+
+Rearrange the ligands — you always get the same compound. No distinct cis or trans forms exist.
+
+What if all four ligands are different — type [MABXL]? Pick any one ligand. One other sits across from it (trans). Two sit beside it (cis). That gives three geometrical isomers.
+
+
+[COORD_T_015] Geometrical Isomerism in Octahedral Complexes
+
+[Co(NH₃)₄Cl₂]⁺ comes in two colours — violet and green. Same formula, same octahedral shape. Where the two Cl⁻ sit among six positions makes all the difference.
+
+In [MX₂L₄] — two of one ligand, four of another — the two X ligands can be adjacent (cis) or opposite (trans). [Co(NH₃)₄Cl₂]⁺ exists in both forms.
+
+Didentate ligands create the same situation. In [CoCl₂(en)₂]⁺, the two chlorides can be cis or trans. The en ligands each span two adjacent positions.
+
+A different pattern appears when three of each ligand are present — [Ma₃b₃] complexes like [Co(NH₃)₃(NO₂)₃].
+
+The three identical ligands can occupy one triangular face of the octahedron. Picture three NH₃ molecules forming a triangle on one side. This is the `facial` (`fac`) isomer.
+
+Or the three identical ligands can span a meridian — lying in a plane that includes the metal and slices the octahedron in half.
+
+Two are opposite each other, one is perpendicular to them. This is the `meridional` (`mer`) isomer.
+
+Fac puts all three on one face. Mer spreads them around the middle.
+
+oct-fac-mer.chem.svg
+
+
+[COORD_T_016] Optical Isomerism and Counting Isomers
+
+Hold your left hand up to a mirror. The reflection looks like your right hand. You can't overlap them perfectly — they're non-superimposable mirror images.
+
+Some coordination compounds behave the same way. Their mirror image can't be superimposed on the original. These non-superimposable mirror images are called `enantiomers`, and the molecule is `chiral`.
+
+`Optical isomerism` gets its name from how you detect it. Pass plane-polarised light through a solution of one enantiomer. The plane of light rotates.
+
+The `dextro (d)` form rotates light to the right. The `laevo (l)` form rotates it to the left.
+
+Equal and opposite rotation — same magnitude, different direction.
+
+Where does this appear? Commonly in octahedral complexes with didentate ligands. [Co(en)₃]³⁺ has three en ligands wrapping around cobalt. Its mirror image is a different compound — a pair of enantiomers.
+
+optical-mirror.chem.svg
+
+Here's the key rule: in complexes like [MX₂(L-L)₂], only the cis isomer is optically active. The trans isomer has a plane of symmetry, so its mirror image *is* superimposable. No chirality.
+
+This gives you a method for counting total isomers. Take [CoCl₂(en)₂]⁺.
+
+First, count geometric isomers: cis and trans — that's 2.
+
+Then check each for optical activity. Trans has a symmetry plane — no enantiomers. Cis lacks that symmetry — it has an enantiomeric pair.
+
+Total: 3 distinct isomers (cis-d, cis-l, trans).
+
+
+[COORD_T_017] Why Bonding Theories?
+
+Werner figured out *what* coordination compounds look like — octahedral, tetrahedral, square planar. He mapped which ligands attach where. But he left three puzzles unsolved.
+
+First: colour. [Co(NH₃)₆]³⁺ is yellow-orange. [Co(NH₃)₅(H₂O)]³⁺ is red. Same metal, same oxidation state, same coordination number. Only one ligand changed. Why does that shift the colour?
+
+Second: magnetism. [Co(NH₃)₆]³⁺ has zero unpaired electrons — diamagnetic. [CoF₆]³⁻ has four unpaired electrons — strongly paramagnetic.
+
+Same Co³⁺, same octahedral shape. NH₃ somehow forces electrons to pair up. F⁻ doesn't. Why?
+
+Third: ligand strength. NH₃ is a neutral molecule. F⁻ carries a full negative charge. You'd expect the charged ion to grip the metal harder. Yet NH₃ is the stronger ligand. That defies simple electrostatics.
+
+three-puzzles.webp
+
+Two theories tackle these puzzles.
+
+`Valence Bond Theory` (VBT) uses hybridisation of metal orbitals to predict geometry and magnetic behaviour. It came first historically.
+
+`Crystal Field Theory` (CFT) treats ligands as point charges that split the metal's d orbitals. That splitting explains colour, magnetism, *and* ligand strength in one framework.
+
+VBT answers geometry and magnetism well. But it can't explain colour at all, and it can't say *why* certain ligands force pairing. CFT fills exactly those gaps.
+
+
+[COORD_T_018] Valence Bond Theory: Framework
+
+sp³ makes methane tetrahedral. sp² makes ethene flat. Metals use the same hybridisation idea — but with d orbitals in the mix.
+
+A metal ion has empty orbitals. A ligand has a lone pair. In VBT, the metal hybridises its orbitals to create a set of equivalent empty slots. Each ligand donates its electron pair into one slot, forming a coordinate bond.
+
+The type of hybridisation decides the geometry.
+
+*sp³* gives four equivalent orbitals pointing to the corners of a tetrahedron. *dsp²* also gives four orbitals, but arranged in a square plane. The 'd' orbital involved is from the same shell as s and p.
+
+*sp³d* gives five orbitals in a trigonal bipyramidal arrangement.
+
+For six-coordinate complexes, two options exist. *d²sp³* uses two inner d orbitals (from the n−1 shell). *sp³d²* uses two outer d orbitals (from the n shell). Both produce octahedral geometry.
+
+| Hybridisation | Geometry |
+|---|---|
+| sp³ | Tetrahedral |
+| dsp² | Square planar |
+| sp³d² or d²sp³ | Octahedral |
+
+The key idea: once you know the hybridisation, you know the shape. And hybridisation depends on how the metal's electrons rearrange to make room for ligand pairs.
+
+
+[COORD_T_019] Magnetic Properties of Coordination Compounds
+
+[Co(NH₃)₆]³⁺ has zero unpaired electrons. [CoF₆]³⁻ has four. A magnet can tell them apart instantly.
+
+A substance with unpaired electrons gets pulled toward a magnet — it's `paramagnetic`. Each unpaired electron acts like a tiny magnet. More unpaired electrons, stronger pull.
+
+When all electrons are paired, their fields cancel. The substance gets weakly pushed away. That's `diamagnetic`.
+
+Paramagnetism can be measured. The strength of attraction gives a number called the `magnetic moment`, measured in `Bohr Magnetons` (BM).
+
+For transition metal complexes, magnetic moment depends almost entirely on how many electrons are unpaired. The formula:
+
+μ = √(n(n+2)) BM
+
+where n = number of unpaired electrons.
+
+| n | μ (BM) |
+|---|---|
+| 0 | 0 |
+| 1 | 1.73 |
+| 2 | 2.83 |
+| 3 | 3.87 |
+| 4 | 4.90 |
+| 5 | 5.92 |
+
+This is called the spin-only formula — it counts only the spin contribution of electrons.
+
+Measure μ, work backwards to find n, and you know how electrons are arranged inside the complex. Magnetic data becomes a window into structure.
+
+
+[COORD_T_020] VBT: Octahedral Complexes
+
+[Co(NH₃)₆]³⁺ is diamagnetic — zero unpaired electrons. [CoF₆]³⁻ has four. Same Co³⁺, same octahedral shape. What makes the difference?
+
+Co³⁺ is d⁶ — six electrons in five 3d orbitals. In the free ion, Hund's rule gives four unpaired electrons.
+
+Now add six NH₃ ligands. [Co(NH₃)₆]³⁺ is experimentally diamagnetic — zero unpaired electrons. All six d electrons must have paired up, cramming into just three 3d orbitals. That frees up two 3d orbitals.
+
+Those two empty 3d orbitals combine with the 4s and three 4p orbitals to form six d²sp³ hybrid orbitals. Six NH₃ molecules donate their lone pairs into these six slots.
+
+The d orbitals used here are from the inner (n−1) shell — the 3d shell. So this is called an `inner orbital complex`.
+
+Because electrons were forced to pair, it's also called a `low spin` complex. μ = 0 BM.
+
+Now replace NH₃ with F⁻. [CoF₆]³⁻ is paramagnetic with four unpaired electrons. The d electrons haven't rearranged at all — they stay spread out as in the free ion. No 3d orbitals are free for hybridisation.
+
+Instead, two 4d orbitals (the outer shell) join 4s and 4p to form sp³d² hybrids. This is an `outer orbital complex` — also called `high spin`. μ = √(4×6) = 4.90 BM.
+
+vbt-orbital-boxes.chem.svg
+
+Same metal, same charge, same geometry. But NH₃ forces electron pairing while F⁻ doesn't.
+
+VBT describes this difference but can't explain *why* it happens. It just observes that some ligands cause inner orbital complexes and others cause outer orbital ones — without predicting which ligands do what.
+
+
+[COORD_T_021] VBT: Tetrahedral and Square Planar Complexes
+
+[NiCl₄]²⁻ is tetrahedral and paramagnetic. [Ni(CN)₄]²⁻ is square planar and diamagnetic. Same Ni²⁺, same coordination number 4. How does one metal give two completely different shapes?
+
+Ni²⁺ is d⁸ — eight electrons in five 3d orbitals. Three orbitals are fully paired, two hold single electrons. Two unpaired in the free ion.
+
+In [NiCl₄]²⁻, those two electrons stay unpaired. No rearrangement. The 4s and three 4p orbitals hybridise into sp³. Four Cl⁻ ligands donate into these. Geometry: tetrahedral. μ = √(2×4) = 2.83 BM — paramagnetic.
+
+[Ni(CO)₄] is different. Ni is in the zero oxidation state here — d¹⁰. All five 3d orbitals are full. No unpaired electrons. Again sp³ hybridisation, tetrahedral geometry. But now μ = 0 — diamagnetic.
+
+Now consider [Ni(CN)₄]²⁻. Ni²⁺ is still d⁸, but this complex is diamagnetic. That means the two unpaired electrons have been forced to pair. They squeeze into other 3d orbitals, freeing one 3d orbital.
+
+That freed 3d orbital joins the 4s and two 4p orbitals to form four `dsp²` hybrids. Four CN⁻ ligands donate into these. Geometry: square planar. μ = 0 BM.
+
+So Ni²⁺ with Cl⁻ is tetrahedral and paramagnetic. Ni²⁺ with CN⁻ is square planar and diamagnetic. Both have coordination number 4.
+
+ni-sp3-vs-dsp2.chem.svg
+
+VBT can describe each case *after* you know the magnetic data. But it has clear limitations.
+
+It can't predict which ligands force pairing and which don't. You must measure the magnetic moment first — only then can VBT "explain" the result.
+
+It can't explain colour. Why is [Ti(H₂O)₆]³⁺ violet? VBT has no answer — it doesn't deal with energy gaps between orbitals.
+
+It can't distinguish the relative strengths of different ligands, or predict why one geometry forms over another from first principles.
+
+These are serious gaps. Describing results after the fact is useful — but predicting outcomes is what a complete theory should do.
+
+
+[COORD_T_022] Crystal Field Theory: Octahedral Splitting
+
+In a free metal ion, all five d orbitals have the same energy. An electron in any one is equally comfortable. No orbital is special.
+
+Now surround that ion with six ligands. `Crystal Field Theory` asks one question: what do six negative charges do to those d orbitals?
+
+CFT's approach is radical. Forget bonding. Forget orbital overlap. Treat each ligand as nothing more than a point of negative charge.
+
+Six points, arranged along the x, y, and z axes — one at each end.
+
+Every d electron now faces repulsion from these six charges. All five d orbitals rise in energy. But they don't all rise equally.
+
+Why? Because d orbitals have lobes pointing in specific directions. And the ligands sit at specific spots. The match-up between lobe direction and ligand position decides everything.
+
+d-orbital-vs-ligands.chem.svg
+
+d_{x²−y²} has four lobes stretched along the x and y axes. Four ligands sit right there.
+
+An electron in this orbital spends most of its time near those ligands. Close means strong repulsion. This orbital gets pushed to high energy.
+
+d_{z²} has main lobes along the z axis — aimed at the remaining two ligands. Same story. Strong repulsion, high energy.
+
+Now d_{xy}. Its four lobes point at 45° — between the x and y axes. The ligands are on the axes, not between them.
+
+An electron here stays in the gaps, far from the ligands. Weaker repulsion, lower energy.
+
+d_{xz} and d_{yz} do the same. Lobes between axes. Electrons dodge ligands.
+
+Five d orbitals split into two groups. d_{x²−y²} and d_{z²} aim at ligands — pushed up. d_{xy}, d_{xz}, d_{yz} aim between — pushed down.
+
+oct-splitting.chem.svg
+
+The lower three are labelled `t₂g`. The upper two are labelled `eg`. The energy gap between them is `Δo` — "o" for octahedral. This separation is `crystal field splitting`.
+
+Energy is conserved. Each t₂g orbital drops by (2/5)Δo below the average. Each eg orbital rises by (3/5)Δo above it. Check: 3(−0.4Δo) + 2(+0.6Δo) = 0. ✓
+
+What decides the size of Δo? Two things.
+
+The ligand — stronger field ligands repel d electrons harder, widening the gap.
+
+The metal's charge — higher charge pulls ligands closer, so the difference between "aimed at" and "aimed between" grows.
+
+
+[COORD_T_023] Spectrochemical Series
+
+F⁻ carries a full negative charge. NH₃ is neutral. You'd expect the charged ion to grip the metal harder. Yet NH₃ produces much larger crystal field splitting than F⁻.
+
+How do we know? Measure the absorption wavelength for complexes with different ligands. Rank them by how much they split the d orbitals, and a consistent order appears.
+
+This ranking is the `spectrochemical series`, from weakest to strongest:
+
+Weak end: I⁻ < Br⁻ < SCN⁻ < Cl⁻ < S²⁻ < F⁻ < OH⁻
+
+Middle: C₂O₄²⁻ < H₂O < NCS⁻ < EDTA⁴⁻
+
+Strong end: NH₃ < en < CN⁻ < CO
+
+Most anions cluster at the weak end. Neutral molecules like NH₃ and the strong-field ligands CN⁻ and CO sit at the top.
+
+Ligands producing small splitting are `weak field ligands`. Those producing large splitting are `strong field ligands`.
+
+This ranking is experimental — measured from absorption spectra. If charge alone mattered, F⁻ would beat NH₃. It doesn't.
+
+One pattern: halides are σ-only donors — they push electrons toward the metal but nothing more. CN⁻ and CO do something extra — they accept electrons *back* from the metal's filled d orbitals into their own empty orbitals. This two-way interaction strengthens the bond and widens the splitting.
+
+sigma-vs-pi-splitting.chem.svg
+
+That's why neutral CO sits at the top while charged F⁻ stays near the bottom.
+
+The practical use is direct. Given a metal ion and its ligands, check where the ligands fall in the series. That tells you whether Δo is large or small — which predicts colour and magnetic behaviour.
+
+
+[COORD_T_024] High Spin vs Low Spin in CFT
+
+For d¹, d², d³ — no conflict. t₂g has three orbitals. Each electron gets its own space.
+
+At d⁴, a real choice appears. The three t₂g orbitals are half-filled. The fourth electron faces two options.
+
+Jump up to an empty eg orbital. That climb costs energy — exactly Δo. But the electron gets its own orbital. No crowding.
+
+Or stay in t₂g and pair up with an electron already there. No climbing cost. But forcing two electrons into the same orbital creates repulsion. That repulsion cost is the `pairing energy` (P).
+
+Two costs compete. Δo versus P. Which is smaller decides the outcome.
+
+If Δo < P, climbing is cheaper. The electron enters eg. Electrons spread across all five orbitals — more unpaired, higher magnetic moment. This is a `high spin` complex.
+
+Weak field ligands produce small Δo. Small splitting can't justify the pain of pairing. So they give high spin.
+
+If Δo > P, pairing is cheaper. The electron stays in t₂g. Fewer unpaired, lower magnetic moment. This is a `low spin` complex.
+
+Strong field ligands produce large Δo. The gap is so large that climbing costs more than pairing. So they give low spin.
+
+high-low-spin.chem.svg
+
+Same metal, same charge, same shape. The ligand alone decides. And you can tell which happened — hold the complex near a magnet.
+
+This competition matters for d⁴, d⁵, d⁶, and d⁷. These are the only configurations where high spin and low spin differ.
+
+d¹ through d³: t₂g has room. No pairing needed regardless.
+
+d⁸ through d¹⁰: t₂g is full. Electrons must enter eg regardless. Both fields give the same result.
+
+
+[COORD_T_025] Electron Filling, CFSE, and Magnetic Moments
+
+[Fe(CN)₆]³⁻ has one unpaired electron. [Fe(H₂O)₆]³⁺ has five. Same Fe³⁺, same d⁵, same octahedral shape. Only the ligand differs. Here's how to predict this from scratch.
+
+Five steps, always in this order:
+1. Find the metal's oxidation state and count its d electrons.
+2. Check the ligand — strong or weak field — using the spectrochemical series.
+3. Fill electrons into t₂g and eg accordingly.
+4. Count unpaired electrons (n).
+5. Calculate μ = √(n(n+2)) BM.
+
+Take [Fe(CN)₆]³⁻. Fe is +3, so it's d⁵. CN⁻ is a strong field ligand. All five electrons pack into t₂g: t₂g⁵ eg⁰. One electron remains unpaired. μ = √(1×3) = 1.73 BM. Weakly paramagnetic.
+
+Now take [Fe(H₂O)₆]³⁺. Same Fe³⁺, same d⁵. But H₂O is a weak field ligand. Electrons spread out: t₂g³ eg². All five are unpaired. μ = √(5×7) = 5.92 BM. Strongly paramagnetic.
+
+Same metal ion, different ligand, completely different magnetic behaviour.
+
+fe-d5-cft-filling.chem.svg
+
+Each electron placement also carries an energy cost or benefit. An electron in t₂g sits below the average energy — it stabilises the complex by −0.4Δo.
+
+An electron in eg sits above — it *destabilises* by +0.6Δo.
+
+Add up contributions from all d electrons and you get the `crystal field stabilisation energy` (**CFSE**).
+
+For [Fe(CN)₆]³⁻ (t₂g⁵ eg⁰): CFSE = 5(−0.4Δo) + 0(+0.6Δo) = −2.0Δo.
+
+For [Fe(H₂O)₆]³⁺ (t₂g³ eg²): CFSE = 3(−0.4Δo) + 2(+0.6Δo) = 0. No net stabilisation.
+
+In tetrahedral complexes, the splitting energy is Δt = (4/9)Δo. Tetrahedral CFSE values are calculated the same way but are much smaller.
+
+
+[COORD_T_026] Crystal Field Splitting in Tetrahedral Complexes
+
+Octahedral splitting pushes d_{x²-y²} and d_{z²} up because ligands aim straight at them. Move ligands to a tetrahedron's corners, and the splitting flips.
+
+Picture a cube with the metal at the centre. In a tetrahedron, ligands sit at four of the eight corners — alternating corners, so no two are on the same face.
+
+d_{x²-y²} and d_{z²} aim along the x, y, z axes — toward the *centres* of cube faces. d_{xy}, d_{yz}, d_{xz} aim toward the *edges* — closer to where the tetrahedral ligands actually sit.
+
+So the splitting inverts. d_{xy}, d_{yz}, d_{xz} feel more repulsion and go up — called `t₂` (three orbitals). d_{x²-y²} and d_{z²} go down — called `e` (two orbitals).
+
+The energy gap between them is `Δt`.
+
+Notice: no 'g' subscript. The 'g' in t₂g and eg stands for *gerade* — a symmetry label that only applies when the complex has a centre of symmetry.
+
+Octahedral and square planar complexes have one. Tetrahedral complexes don't. So the labels are simply e and t₂.
+
+tet-vs-oct-splitting.chem.svg
+
+The key fact: Δt = (4/9)Δo. That's less than half the octahedral splitting for the same metal and ligand.
+
+When splitting is small, the energy cost of jumping to the higher set is low. Electrons would rather spread out than pair up. Pairing energy almost always wins over Δt.
+
+So tetrahedral complexes are almost always high spin. Low spin tetrahedral complexes are extremely rare — the splitting is simply too small to force pairing.
+
+
+[COORD_T_027] Colour in Coordination Compounds
+
+[Ti(H₂O)₆]³⁺ is violet. [Cu(H₂O)₄]²⁺ is blue. [Ni(H₂O)₆]²⁺ is green. Where does this colour come from?
+
+The d orbitals are split. An electron sitting in t₂g can absorb a photon of light and jump up to eg. This is a `d-d transition`. The energy of the photon it absorbs equals Δo.
+
+d-d-transition.chem.svg
+
+White light is a mix of all visible wavelengths. Remove one band, and the remaining wavelengths blend into a new colour — the `complementary colour` of what was absorbed.
+
+Each absorbed colour has exactly one complement. Blue-green and violet are complementary. Red and green are complementary.
+
+[Ti(H₂O)₆]³⁺ absorbs blue-green light. The leftover wavelengths mix to give violet.
+
+complementary-colour.webp
+
+Stronger ligand means larger Δo. Larger Δo means the electron absorbs a higher-energy, *shorter-wavelength* photon. So changing the ligand changes the colour.
+
+This is why [Ni(H₂O)₆]²⁺ is green but [Ni(en)₃]²⁺ is violet. The en ligand is stronger than H₂O in the spectrochemical series.
+
+No ligand means no splitting. No splitting means no d-d transition. No transition means no colour.
+
+Anhydrous CuSO₄ is white — Cu²⁺ has no ligands to split its d orbitals. Add water and you get CuSO₄·5H₂O — blue, because H₂O ligands create a crystal field.
+
+Two special cases are always colourless. d⁰ ions have no electron to excite. d¹⁰ ions have all d orbitals full — no empty orbital to jump *into*.
+
+CFT explains colour well, but has a limitation. If ligands were pure point charges, anionic ligands like F⁻ and Cl⁻ should produce the strongest field.
+
+They don't — they sit at the weak end of the spectrochemical series. CFT ignores covalent character in the metal-ligand bond. More advanced theories fix this, but they are beyond syllabus.
+
+
+[COORD_T_028] Bonding in Metal Carbonyls
+
+CO sits at the very top of the spectrochemical series — stronger than every charged ion. A neutral molecule beating F⁻, Cl⁻, all of them. Where does that strength come from?
+
+The answer: CO bonds to the metal in two ways at once. This is what makes `metal carbonyls` — complexes with only CO ligands — so stable.
+
+First, the carbon end of CO has a lone pair. This lone pair donates into an empty metal orbital, forming a normal σ bond. The direction is C → M.
+
+This is the same kind of ligand-to-metal donation you've seen with NH₃ or H₂O.
+
+Second, something new happens. The metal has filled d orbitals. CO has empty antibonding π* orbitals.
+
+Metal d electrons flow *back* into these π* orbitals on CO. This is called `π backbonding`, and its direction is M → C.
+
+These two donations reinforce each other. When CO donates electron density to the metal through the σ bond, the metal becomes slightly electron-rich.
+
+That makes it donate *more* back through the π bond. Which in turn makes CO donate more through σ. This mutual strengthening is called `synergic bonding`.
+
+synergic-bonding.chem.svg
+
+The M−C bond gets stronger because of double bonding character. The C−O bond gets slightly weaker because electrons fill its antibonding orbital.
+
+Common metal carbonyls follow predictable geometries. Ni(CO)₄ is tetrahedral. Fe(CO)₅ is trigonal bipyramidal. Cr(CO)₆ is octahedral.
+
+Some carbonyls contain two metal atoms linked by a **metal-metal bond**. Mn₂(CO)₁₀ has a direct Mn−Mn bond joining two Mn(CO)₅ units. Co₂(CO)₈ has a Co−Co bond with two bridging CO groups.
+
+
+[COORD_T_029] Applications: Analytical and Metallurgical
+
+Your tap water might contain dissolved Ca²⁺ and Mg²⁺. How do you measure how much? Titrate with EDTA.
+
+EDTA wraps around each metal ion as a hexadentate chelate, forming a very stable complex. The endpoint tells you the total hardness.
+
+For detecting Ni²⁺ in qualitative analysis, add `DMG` (dimethylglyoxime). Ni²⁺ forms a bright rose-red chelate with DMG — a distinctive colour test.
+
+Gold extraction depends on complex formation. Crushed gold ore is treated with CN⁻ in the presence of oxygen and water. Gold dissolves as [Au(CN)₂]⁻.
+
+To recover the metal, add zinc — it displaces gold from the complex.
+
+The `Mond process` purifies nickel. Impure nickel reacts with CO to form volatile Ni(CO)₄. This gas is carried away from the impurities.
+
+Heat it and it decomposes, depositing pure nickel. The CO recycles back.
+
+Electroplating uses coordination compounds too. Silver and gold plate more smoothly from [Ag(CN)₂]⁻ and [Au(CN)₂]⁻ solutions than from simple metal ion solutions. The complex releases metal slowly, giving an even deposit.
+
+In black-and-white photography, unexposed AgBr on the film must be washed away. Hypo solution (sodium thiosulphate) dissolves it by forming the complex [Ag(S₂O₃)₂]³⁻.
+
+
+[COORD_T_030] Applications: Biological and Medicinal
+
+A coordination compound in your blood is carrying the oxygen you breathe right now. Another one in every green leaf traps sunlight. These aren't rare lab chemicals — coordination chemistry runs life.
+
+**Chlorophyll** holds Mg²⁺ at the core of a porphyrin ring. This is what drives photosynthesis.
+
+**Haemoglobin** has Fe²⁺ at the centre of a similar porphyrin called haem. The iron reversibly binds O₂ in the lungs and releases it in tissues.
+
+**Vitamin B₁₂** (cyanocobalamine) is a coordination compound of Co³⁺. Its deficiency causes pernicious anaemia.
+
+Enzymes also use metal coordination. **Carboxypeptidase A** and **carbonic anhydrase** both use coordinated zinc to catalyse biological reactions.
+
+In catalysis, `Wilkinson's catalyst` — [(Ph₃P)₃RhCl] — uses rhodium coordination to hydrogenate alkenes. The alkene and H₂ both coordinate to Rh, bringing them close enough to react.
+
+`Cis-platin` — cis-[PtCl₂(NH₃)₂] — is used in cancer treatment. It binds to DNA in tumour cells and blocks replication. Only the *cis* isomer is active; the trans form doesn't work.
+
+`Chelate therapy` treats metal poisoning by using chelating ligands to grab toxic metal ions and flush them from the body. EDTA removes excess lead. **D-penicillamine** removes excess copper. **Desferrioxime B** removes excess iron.

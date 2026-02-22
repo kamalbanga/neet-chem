@@ -1,0 +1,1424 @@
+[EQUIL_T_001] Big Picture of Equilibrium
+
+Seal hydrogen and iodine in a flask at 731 K. Purple iodine vapour, colourless hydrogen. They react:
+
+H₂ + I₂ → 2HI
+
+At first, H₂ and I₂ are everywhere. Collisions are frequent. HI forms rapidly.
+
+But HI can also break apart. Two HI molecules collide, exchange atoms, regenerate H₂ and I₂. Early on, there's barely any HI around, so this reverse reaction is negligible.
+
+Watch what happens over time. H₂ and I₂ get used up — fewer of them means fewer collisions, so the forward reaction slows. Meanwhile, HI accumulates — more of it means more collisions, so the reverse reaction speeds up.
+
+The forward reaction is braking. The reverse reaction is accelerating. At some point, they match.
+
+Now H₂ and I₂ are being consumed at exactly the rate they're being regenerated. HI is being formed at exactly the rate it's decomposing.
+
+Concentrations freeze. Not because anything stopped, but because production and consumption are perfectly balanced.
+
+This is `dynamic equilibrium`. The flask looks static. Nothing visible changes. But inside, molecules are furiously reacting in both directions, cancelling each other out.
+
+Here's the strange part: the final mixture is the same whether you started with H₂ + I₂ or with pure HI. The system finds its way to the same balance point. Something deeper than starting conditions determines where equilibrium lands.
+
+One requirement: the system must be `closed`. Nothing enters or leaves. Open the flask, and HI escapes. The balance is broken. Equilibrium needs containment.
+
+
+[EQUIL_T_002] Chemical Equilibrium
+
+Reactions that can run both ways are called `reversible reactions`. We write them with a double arrow:
+
+H₂ + I₂ ⇌ 2HI
+
+The `forward reaction` converts reactants to products (left to right). The `reverse reaction` does the opposite (right to left). Both happen simultaneously.
+
+At equilibrium, the mixture contains reactants *and* products in fixed proportions. This is the `equilibrium mixture`.
+
+Its composition depends on temperature and the nature of the reaction — not on what you started with.
+
+That last point deserves proof. Start with H₂ and I₂ at 731 K. You reach equilibrium with a certain mixture. Now start with pure HI at the same temperature. HI decomposes, H₂ and I₂ appear, and you reach... the exact same equilibrium composition.
+
+Different starting points, same destination.
+
+But how do we *know* equilibrium is truly dynamic? Maybe reactions just stop.
+
+Here's the evidence. Take an equilibrium mixture of H₂, I₂, and HI. Separately prepare another equilibrium mixture using D₂ (deuterium) instead of H₂ — you get D₂, I₂, and DI.
+
+Mix them together. If reactions had stopped, you'd find H₂ and D₂ staying separate. But analysis reveals HD, HI, DI, and every combination. Atoms scrambled between molecules.
+
+Reactions never stopped. They kept running in both directions — we just couldn't tell because the rates were equal.
+
+
+[EQUIL_T_003] Law of Chemical Equilibrium (Kc)
+
+At equilibrium, concentrations are constant. But is there a pattern linking them?
+
+Chemists ran H₂ + I₂ ⇌ 2HI at 731 K many times. Different starting amounts each time. Different equilibrium concentrations each time.
+
+But when they calculated [HI]² ÷ ([H₂] × [I₂]), they got the same number — about 49. Every single time.
+
+Start with 1 M each of H₂ and I₂? The ratio is 49. Start with 3 M of pure HI? Still 49. Individual concentrations vary wildly, but this specific ratio stays fixed.
+
+This is the `law of mass action`. For any reaction at equilibrium, a particular combination of concentrations gives a constant value.
+
+The ratio is called the `equilibrium constant`, written `Kc`. For a general reaction:
+
+aA + bB ⇌ cC + dD
+
+Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ
+
+Products on top, reactants on bottom. Each concentration raised to its coefficient.
+
+At fixed temperature, Kc doesn't change — no matter what starting amounts you use. Change the temperature, and Kc changes.
+
+What does Kc tell you? Look at the formula. Products in numerator, reactants in denominator.
+
+If Kc is 10⁵, products must vastly outnumber reactants at equilibrium. The reaction "goes nearly to completion."
+
+If Kc is 10⁻⁵, reactants dominate. The reaction barely proceeds.
+
+H₂ + Cl₂ ⇌ 2HCl has Kc ≈ 10³¹ at 300 K. Essentially all HCl, negligible H₂ and Cl₂.
+
+N₂ + O₂ ⇌ 2NO has Kc ≈ 10⁻³⁰ at 298 K. Essentially all N₂ and O₂, negligible NO.
+
+H₂ + I₂ ⇌ 2HI has Kc ≈ 49 at 731 K. Appreciable amounts of all three species coexist.
+
+
+[EQUIL_T_004] Equilibrium in Gaseous Systems (Kp)
+
+For gas-phase reactions, concentrations aren't always convenient. Pressure is often easier to measure.
+
+In a mixture of gases, each gas contributes to the total pressure. Nitrogen in air pushes on the walls; so does oxygen; so does argon. Each gas's contribution is its `partial pressure` — the pressure it would exert if it alone occupied the container.
+
+Fortunately, partial pressure and concentration are directly linked. For an ideal gas:
+
+p = (n/V) × RT = c × RT
+
+Pressure is proportional to concentration. Higher concentration means more molecules hitting the walls, hence higher pressure.
+
+So we can write equilibrium constants using partial pressures instead of concentrations. This gives us `Kp`:
+
+For N₂ + 3H₂ ⇌ 2NH₃:
+
+Kp = (pNH₃)² / (pN₂)(pH₂)³
+
+Same structure as Kc — products over reactants, coefficients as powers — but using `partial pressures` instead of molar concentrations.
+
+How do Kp and Kc relate? Substitute p = cRT into the Kp expression:
+
+Kp = Kc × (RT)^Δn
+
+where `Δn` = (moles of gaseous products) − (moles of gaseous reactants).
+
+For H₂ + I₂ ⇌ 2HI: Δn = 2 − 2 = 0. So Kp = Kc.
+
+For N₂ + 3H₂ ⇌ 2NH₃: Δn = 2 − 4 = −2. So Kp = Kc × (RT)⁻².
+
+For PCl₅ ⇌ PCl₃ + Cl₂: Δn = 2 − 1 = +1. So Kp = Kc × RT.
+
+When Δn = 0, the number of gas molecules doesn't change during reaction. Then Kp = Kc numerically.
+
+When Δn ≠ 0, Kp and Kc have different values. Always specify which you're using.
+
+
+[EQUIL_T_005] Heterogeneous Equilibria
+
+So far, all species were in the same phase — all gases, or all dissolved in solution. That's `homogeneous equilibrium`.
+
+But what about reactions where phases mix?
+
+CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+
+Two solids and a gas. This is `heterogeneous equilibrium`.
+
+The naive equilibrium expression would be:
+
+Kc = [CaO][CO₂] / [CaCO₃]
+
+But think about what "concentration" means for a solid. Concentration is moles per liter — how densely packed the molecules are in a given space. For a gas, you can change this by compressing or expanding. For a solution, you can dilute or concentrate.
+
+For a solid? The packing is fixed by the crystal structure. Calcium carbonate has a certain density. Add more calcium carbonate to the flask, and you have a bigger pile — but the *concentration* within that pile is unchanged. It's a property of the substance, not something you can adjust.
+
+Same for pure liquids. Water is always 55.5 M at 25°C. Whether you have a drop or an ocean, the molecules are packed the same way.
+
+Since [CaCO₃] and [CaO] can't change, they're constants. We absorb them into the equilibrium constant itself:
+
+Kc = [CO₂]
+
+Or in terms of pressure:
+
+Kp = pCO₂
+
+At 1100 K, CO₂ pressure in equilibrium with CaCO₃ and CaO is about 2 bar. That's the Kp value. Add more calcium carbonate — the CO₂ pressure stays the same (as long as some CaCO₃ remains). The solid's "concentration" isn't driving anything.
+
+The rule: pure solids and pure liquids don't appear in equilibrium expressions. Only gases and dissolved species have concentrations that can vary and therefore matter.
+
+For Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g):
+
+Kc = [Ni(CO)₄] / [CO]⁴
+
+The solid nickel drops out.
+
+
+[EQUIL_T_006] Manipulating Equilibrium Constants
+
+The equilibrium constant depends on how you write the equation. Change the equation, change K. But the changes follow logical rules.
+
+**Reverse the reaction**
+
+For H₂ + I₂ ⇌ 2HI, Kc = 49 at 731 K. Products dominate over reactants by a factor of 49.
+
+Now flip the equation: 2HI ⇌ H₂ + I₂. Same reaction, but now we're calling HI the "reactant" and H₂ + I₂ the "products."
+
+If products dominated before, reactants dominate now. And by the same factor. K for the reverse reaction is 1/49 ≈ 0.02.
+
+The math confirms this. Forward: K = [HI]²/[H₂][I₂]. Reverse: K = [H₂][I₂]/[HI]². One is literally the reciprocal of the other.
+
+**Multiply coefficients**
+
+Write the reaction as ½H₂ + ½I₂ ⇌ HI (all coefficients halved).
+
+The chemistry is identical — same molecules reacting. But now the K expression uses different powers:
+
+K = [HI] / [H₂]^½[I₂]^½
+
+Compare to the original: K = [HI]² / [H₂][I₂]
+
+The new expression is the square root of the old one. √49 = 7.
+
+Why? When you halve the coefficients, you're describing "half a reaction" — half as many molecules reacting. The equilibrium constant adjusts accordingly.
+
+Double the coefficients (2H₂ + 2I₂ ⇌ 4HI), and K becomes 49² = 2401. Triple them, K cubes. The general rule: multiply coefficients by n, K becomes Kⁿ.
+
+**Add reactions**
+
+What if you chain two equilibria?
+
+A ⇌ B has K₁ = 10. At equilibrium, [B]/[A] = 10.
+B ⇌ C has K₂ = 5. At equilibrium, [C]/[B] = 5.
+
+For the overall A ⇌ C, what's K?
+
+At equilibrium: [C]/[A] = [C]/[B] × [B]/[A] = 5 × 10 = 50.
+
+The K values multiply because equilibrium concentrations multiply. Add reactions, multiply their K values.
+
+**The bottom line**
+
+A K value means nothing without its equation. K = 49 for H₂ + I₂ ⇌ 2HI. K = 7 for ½H₂ + ½I₂ ⇌ HI. K = 0.02 for 2HI ⇌ H₂ + I₂. Same system, different K values. Always specify the equation.
+
+
+[EQUIL_T_007] Reaction Quotient and Direction
+
+You know K — the ratio of concentrations at equilibrium. But what if you're *not* at equilibrium? How do you know which way the reaction will go?
+
+Use the same formula, but with current concentrations instead of equilibrium ones. This gives you `Q`, the `reaction quotient`.
+
+For aA + bB ⇌ cC + dD:
+
+Qc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ (at any moment)
+
+Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ (at equilibrium)
+
+Same expression, different concentrations. Q is a snapshot; K is the destination.
+
+Now compare them:
+
+**Q < K**: The ratio is too small. Products in the numerator are too low, or reactants in the denominator are too high. Reaction proceeds forward to make more products.
+
+**Q > K**: The ratio is too large. Too much product, not enough reactant. Reaction proceeds backward.
+
+**Q = K**: You're at equilibrium. No net change.
+
+Concrete example. H₂ + I₂ ⇌ 2HI has Kc = 57 at 700 K.
+
+Suppose current concentrations are [H₂] = 0.1 M, [I₂] = 0.2 M, [HI] = 0.4 M.
+
+Qc = (0.4)² / (0.1)(0.2) = 0.16 / 0.02 = 8
+
+Q (8) < K (57). The system has too little HI relative to equilibrium. Reaction goes forward — more HI forms until Q climbs to 57.
+
+If instead [HI] = 2.0 M with the same H₂ and I₂:
+
+Qc = (2.0)² / (0.1)(0.2) = 4 / 0.02 = 200
+
+Q (200) > K (57). Too much HI. Reaction goes backward — HI decomposes until Q falls to 57.
+
+Q is your compass. Compare it to K, and you know which way you're headed.
+
+
+[EQUIL_T_008] Le Chatelier: Concentration Changes
+
+What happens when you disturb an equilibrium? Add more reactant? Remove some product?
+
+`Le Chatelier's principle`: When a system at equilibrium is stressed, it shifts to partially counteract the stress.
+
+Not completely — *partially*. The system pushes back, but doesn't fully undo your change.
+
+**Adding a reactant**
+
+Take H₂ + I₂ ⇌ 2HI at equilibrium. Now inject more H₂.
+
+Suddenly [H₂] is higher. Q drops below K (denominator increased). The system responds by consuming the excess H₂ — forward reaction speeds up. More HI forms.
+
+New equilibrium: [H₂] higher than before (but lower than right after addition), [I₂] lower, [HI] higher.
+
+**Removing a product**
+
+Remove some HI from the mixture. Now Q < K (numerator decreased). Forward reaction accelerates to replenish HI. More H₂ and I₂ get consumed.
+
+This is exploited industrially. In ammonia synthesis, NH₃ is continuously liquefied and removed. The equilibrium keeps shifting forward, converting more N₂ and H₂.
+
+**Adding a product or removing a reactant**
+
+Add HI? Q > K. Reverse reaction speeds up. HI decomposes.
+
+Remove H₂? Q > K. Reverse reaction speeds up. HI decomposes to replenish H₂.
+
+The pattern: the system always shifts toward whichever side counteracts your change. Add something, it gets consumed. Remove something, it gets replenished.
+
+
+[EQUIL_T_009] Le Chatelier: Pressure and Volume Changes
+
+Pressure changes matter for gas-phase equilibria — but only when the reaction changes the number of gas molecules.
+
+Consider N₂ + 3H₂ ⇌ 2NH₃
+
+Reactant side: 1 + 3 = 4 moles of gas.
+Product side: 2 moles of gas.
+
+Fewer molecules on the right. This matters.
+
+**Increase pressure (compress the container)**
+
+Squeeze the gas into a smaller volume. All concentrations increase, but the system can relieve some pressure by shifting toward the side with fewer molecules.
+
+Fewer molecules = fewer collisions with walls = lower pressure.
+
+So equilibrium shifts right — toward NH₃. This is why ammonia synthesis uses high pressure (around 200 atm).
+
+**Decrease pressure (expand the container)**
+
+The system shifts toward more molecules to fill the space. Equilibrium shifts left — NH₃ decomposes.
+
+**What if Δn = 0?**
+
+For H₂ + I₂ ⇌ 2HI, both sides have 2 moles of gas. Pressure changes affect all concentrations equally. No direction is favored. Equilibrium composition doesn't change.
+
+**Adding an inert gas**
+
+At constant volume, adding argon (or any non-reactive gas) doesn't change partial pressures of reactants or products. Total pressure increases, but equilibrium is unaffected.
+
+At constant pressure (container expands), adding inert gas dilutes everything. Equilibrium shifts toward the side with more moles of gas.
+
+
+[EQUIL_T_010] Le Chatelier: Temperature Changes
+
+When you add reactant or change pressure, the system shifts to restore Q = K. The equilibrium constant K stays fixed — only concentrations adjust.
+
+Temperature breaks this pattern. Change the temperature, and K itself changes. The system shifts to a *new* equilibrium defined by a different K.
+
+Why? Every reaction involves energy. Exothermic reactions release heat to the surroundings. Endothermic reactions absorb heat from the surroundings. Temperature determines how much thermal energy is available, which tilts the balance.
+
+N₂ + 3H₂ ⇌ 2NH₃ is `exothermic` — forming ammonia releases 92 kJ/mol.
+
+At 298 K, Kp ≈ 6 × 10⁵. Products strongly favored.
+At 500 K, Kp ≈ 0.04. Reactants favored.
+
+Heating slashed K by seven orders of magnitude. The reaction that "went to completion" at room temperature barely proceeds at high temperature.
+
+N₂O₄ ⇌ 2NO₂ is `endothermic` — breaking N₂O₄ absorbs 57 kJ/mol.
+
+At 298 K, Kp ≈ 0.98.
+At 400 K, Kp ≈ 48.
+
+Heating increased K fifty-fold. More NO₂ at equilibrium.
+
+The pattern: heating favors the endothermic direction. Cooling favors the exothermic direction.
+
+You can watch this happen. NO₂ is brown; N₂O₄ is colorless. Seal some NO₂ in a tube.
+
+Dip it in ice water — the brown fades. Equilibrium shifts toward colorless N₂O₄ (exothermic direction favored at low temperature).
+
+Dip it in hot water — brown intensifies. Equilibrium shifts toward NO₂ (endothermic direction favored at high temperature).
+
+For industry, this creates a dilemma. Ammonia synthesis is exothermic — low temperature gives high K, better yield. But low temperature means slow reaction.
+
+The compromise: moderate temperature (~500°C) plus a catalyst to speed things up without sacrificing too much yield.
+
+
+[EQUIL_T_011] Effect of Catalyst
+
+A `catalyst` speeds up a reaction. But what does it do to equilibrium?
+
+Nothing. And here's why.
+
+A catalyst works by providing an alternative pathway — a different route from reactants to products with a lower energy barrier. Think of it like a mountain pass instead of climbing over the summit.
+
+But that same pass works in both directions. If the catalyst makes it easier to go from A to B, it equally makes it easier to go from B to A. The pathway doesn't care which way you're traveling.
+
+So if the forward reaction becomes 1000× faster, the reverse reaction also becomes 1000× faster. Both rates increase by the same factor. If they were equal before (at equilibrium), they're still equal after. The catalyst doesn't shift the balance — it just helps the system reach that balance faster.
+
+The equilibrium constant K is unchanged. The equilibrium composition is unchanged. You just get there faster.
+
+Why does this matter? Some reactions have favorable K values but take forever to reach equilibrium.
+
+2SO₂ + O₂ ⇌ 2SO₃ has Kc ≈ 10²⁶ at 298 K. Thermodynamics says: essentially complete conversion. Kinetics says: you'll wait centuries.
+
+Heat it up? The reaction speeds up, but K drops (reaction is exothermic). You sacrifice yield for speed.
+
+Use a catalyst (V₂O₅ or Pt)? You get speed without sacrificing K. The catalyst makes both directions faster, but the equilibrium position — where those faster rates balance — stays the same.
+
+Ammonia synthesis faces the same dilemma. Favorable K at low temperature, but too slow. Iron catalyst allows reasonable rates at moderate temperatures.
+
+One caution: if K is extremely small, a catalyst won't help your yield. You'll reach equilibrium faster, but equilibrium still favors reactants. Catalysts accelerate the journey; they don't change the destination.
+
+
+[EQUIL_T_012] Gibbs Energy and Equilibrium
+
+Why does a reaction favor products or reactants? Why is K large for some reactions and tiny for others?
+
+Two factors push reactions forward. Energy: systems tend toward lower energy, so exothermic reactions have an advantage. Disorder: systems tend toward greater randomness, so reactions that scatter molecules or break ordered structures have an advantage.
+
+Sometimes both factors push the same way:
+
+2H₂(g) + O₂(g) → 2H₂O(l)
+
+Exothermic (releases energy) AND creates more order? Wait — gases becoming liquid is *less* disordered. But the energy release is so enormous (−572 kJ) that it overwhelms the entropy penalty. K is gigantic. Reaction essentially goes to completion.
+
+Sometimes they oppose:
+
+NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq)
+
+This is *endothermic* — the pack gets cold when you dissolve ammonium nitrate. Energy says "don't do it." But a solid scattering into mobile ions is a huge entropy gain. Disorder wins. The salt dissolves spontaneously despite absorbing heat.
+
+`Gibbs energy`, G, combines both factors into one number. A reaction proceeds spontaneously in whichever direction lowers Gibbs energy.
+
+Think of ΔG° — the *standard* Gibbs energy change — as the reaction's natural tendency under standard conditions (all species at 1 M or 1 bar). It's a property of the reaction itself.
+
+If ΔG° is negative, the reaction "wants" to go forward. Products are more stable than reactants. K > 1.
+
+If ΔG° is positive, the reaction "wants" to go backward. Reactants are more stable. K < 1.
+
+The exact relationship:
+
+ΔG° = −RT ln K
+
+The more negative ΔG°, the larger K. A reaction with ΔG° = −57 kJ/mol at 298 K has K ≈ 10¹⁰. Essentially complete conversion to products.
+
+A reaction with ΔG° = +57 kJ/mol has K ≈ 10⁻¹⁰. It barely proceeds.
+
+What about ΔG (without the °)? That's the driving force at any moment, not just standard conditions:
+
+ΔG = ΔG° + RT ln Q
+
+When Q < K, the system hasn't reached equilibrium yet. ΔG is negative — reaction moves forward.
+When Q > K, you've overshot. ΔG is positive — reaction moves backward.
+When Q = K, ΔG = 0 — equilibrium. No net driving force.
+
+One caution: `spontaneity` means the reaction *can* proceed without external driving — not that it *will* proceed fast. A spontaneous reaction might take centuries if the activation energy is high. ΔG tells you where equilibrium lies; activation energy tells you when you'll get there.
+
+
+[EQUIL_T_013] Calculating K from Equilibrium Data
+
+Given equilibrium concentrations or pressures, finding K is straightforward: plug into the expression.
+
+**Finding Kc from concentrations**
+
+At equilibrium for H₂ + I₂ ⇌ 2HI at 731 K:
+[H₂] = 0.0222 M, [I₂] = 0.0222 M, [HI] = 0.156 M
+
+Kc = [HI]² / [H₂][I₂] = (0.156)² / (0.0222)(0.0222) = 0.0243 / 0.000493 = 49.3
+
+**Finding Kp from partial pressures**
+
+At equilibrium for N₂O₄ ⇌ 2NO₂ at 400 K:
+pN₂O₄ = 0.5 bar, pNO₂ = 4.9 bar
+
+Kp = (pNO₂)² / pN₂O₄ = (4.9)² / 0.5 = 24.0 / 0.5 = 48
+
+**Converting between Kp and Kc**
+
+Use Kp = Kc(RT)^Δn where Δn = moles of gaseous products − moles of gaseous reactants.
+
+For N₂O₄ ⇌ 2NO₂: Δn = 2 − 1 = +1
+
+If Kp = 48 at 400 K:
+Kc = Kp / (RT) = 48 / (0.0831 × 400) = 48 / 33.2 = 1.44 mol/L
+
+**Combining K values**
+
+For a reaction that's the sum of two others, multiply their K values.
+
+Given:
+- 2NOBr ⇌ 2NO + Br₂, K₁ = 0.014
+- Br₂ + Cl₂ ⇌ 2BrCl, K₂ = 7.2
+
+For 2NOBr + Cl₂ ⇌ 2NO + 2BrCl:
+K = K₁ × K₂ = 0.014 × 7.2 = 0.10
+
+
+[EQUIL_T_014] Calculating Equilibrium Concentrations from K
+
+Given K and initial concentrations, find equilibrium amounts. This requires setting up an ICE table — Initial, Change, Equilibrium.
+
+**The method**
+
+For H₂ + I₂ ⇌ 2HI at 731 K, Kc = 49. Initial: [H₂] = [I₂] = 0.1 M, [HI] = 0.
+
+Let x = moles/L of H₂ that react.
+
+|  | H₂ | I₂ | HI |
+|--|----|----|-----|
+| Initial | 0.1 | 0.1 | 0 |
+| Change | −x | −x | +2x |
+| Equilibrium | 0.1−x | 0.1−x | 2x |
+
+The change row follows stoichiometry: 1 H₂ reacts with 1 I₂ to form 2 HI.
+
+Substitute into Kc:
+
+49 = (2x)² / (0.1−x)(0.1−x) = (2x)² / (0.1−x)²
+
+Take square root: 7 = 2x / (0.1−x)
+
+Solve: 0.7 − 7x = 2x → 0.7 = 9x → x = 0.078 M
+
+Equilibrium concentrations: [H₂] = [I₂] = 0.022 M, [HI] = 0.156 M
+
+**When K is very small**
+
+For N₂ + O₂ ⇌ 2NO, Kc = 4.8 × 10⁻³¹ at 298 K. The reaction barely proceeds.
+
+If initial [N₂] = [O₂] = 1 M, then x will be tiny. The approximation 1 − x ≈ 1 is valid.
+
+Kc = (2x)² / (1)(1) = 4x²
+
+x = √(Kc/4) = √(1.2 × 10⁻³¹) ≈ 10⁻¹⁵·⁵ M
+
+Essentially zero NO forms. The approximation was justified.
+
+**Common trap**
+
+For 2A ⇌ B, if x moles of B form, then 2x moles of A are consumed — not x. Match stoichiometry carefully. If the coefficient is 2, the change is 2x.
+
+
+[EQUIL_T_015] Big Picture of Ionic Equilibrium
+
+Dissolve hydrogen chloride in water. Every HCl molecule releases an H⁺ ion. The solution is strongly acidic.
+
+Dissolve acetic acid in water. Most CH₃COOH molecules stay intact. Only a few release H⁺. The solution is weakly acidic.
+
+Why the difference? Both are acids. Both can donate protons. But acetic acid establishes an equilibrium:
+
+CH₃COOH ⇌ CH₃COO⁻ + H⁺
+
+The equilibrium lies far to the left. Most molecules remain undissociated. The equilibrium constant for this process — called Ka — is small (1.8 × 10⁻⁵).
+
+HCl doesn't establish equilibrium in water. It dissociates completely. We call it a strong acid. Acetic acid, with its small Ka, is a weak acid.
+
+The same logic applies to bases. NaOH dissociates completely — strong base. NH₃ partially accepts protons from water — weak base, characterized by Kb.
+
+Water itself participates. It ionizes slightly:
+
+H₂O ⇌ H⁺ + OH⁻
+
+The equilibrium constant Kw = [H⁺][OH⁻] = 10⁻¹⁴ at 25°C. In pure water, [H⁺] = [OH⁻] = 10⁻⁷ M.
+
+Even "insoluble" salts establish equilibria. Silver chloride barely dissolves, but the tiny amount that does dissociates completely:
+
+AgCl(s) ⇌ Ag⁺ + Cl⁻
+
+The equilibrium constant Ksp (solubility product) governs how much dissolves.
+
+Ka, Kb, Kw, Ksp — these aren't new concepts. They're equilibrium constants for specific ionization processes. Everything from the first half of the chapter applies: the meaning of large vs small K, Le Chatelier shifts, Q vs K predictions. The chemistry is different, the mathematics is identical.
+
+
+[EQUIL_T_016] Electrolytes and Ionization
+
+Dissolve sugar in water. The solution doesn't conduct electricity. Dissolve salt, and it does. Why?
+
+Sugar molecules stay intact in water. No charged particles, no conduction. Sugar is a `non-electrolyte`.
+
+Salt — sodium chloride — splits into Na⁺ and Cl⁻ ions. These charged particles carry current. NaCl is an `electrolyte`.
+
+But not all electrolytes behave equally.
+
+HCl in water: every molecule becomes H⁺ and Cl⁻. Complete `dissociation`. High conductivity. HCl is a `strong electrolyte`.
+
+CH₃COOH in water: most molecules stay as CH₃COOH. Only ~1% become CH₃COO⁻ and H⁺. Partial `ionization`. Lower conductivity. Acetic acid is a `weak electrolyte`.
+
+The distinction matters:
+
+Strong electrolytes — strong acids (HCl, HNO₃, H₂SO₄), strong bases (NaOH, KOH), and most salts — dissociate completely. No equilibrium; the reaction goes to completion.
+
+Weak electrolytes — weak acids (CH₃COOH, HF, HCN), weak bases (NH₃, amines) — establish equilibrium between ionized and unionized forms.
+
+For weak electrolytes, the extent of ionization depends on concentration. Dilute a weak acid, and a larger *fraction* ionizes (though total ions may decrease).
+
+This is Le Chatelier at work — adding water shifts equilibrium toward more ions.
+
+
+[EQUIL_T_017] Acids and Bases: Proton Transfer
+
+What makes something an acid?
+
+`Arrhenius` answered simply: acids produce H⁺ in water, bases produce OH⁻. HCl is an acid because it gives H⁺. NaOH is a base because it gives OH⁻.
+
+This works for HCl, H₂SO₄, HNO₃ — they all release H⁺. It works for NaOH, KOH, Ca(OH)₂ — they all release OH⁻.
+
+But ammonia breaks the model. NH₃ makes solutions basic — litmus turns blue, pH rises above 7. Yet look at the formula: no OH⁻ anywhere. Where does the basicity come from?
+
+`Brønsted and Lowry` refined the definition: acids are `proton donors`, bases are `proton acceptors`.
+
+When NH₃ dissolves in water:
+
+NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+
+Ammonia *accepts* a proton from water. It's a Brønsted-Lowry base. Water *donates* a proton. It's acting as a Brønsted-Lowry acid.
+
+This framework reveals conjugate pairs. When an acid donates a proton, what remains is its `conjugate base`. When a base accepts a proton, what forms is its `conjugate acid`.
+
+HCl donates H⁺ → Cl⁻ is its conjugate base
+NH₃ accepts H⁺ → NH₄⁺ is its conjugate acid
+
+A conjugate pair differs by exactly one proton.
+
+Strong acids have weak conjugate bases. HCl is strong; Cl⁻ has almost no tendency to grab a proton back. Weak acids have stronger conjugate bases. CH₃COOH is weak; CH₃COO⁻ can accept protons.
+
+The `hydronium ion`, H₃O⁺, is what H⁺ actually becomes in water. A bare proton is too reactive to exist alone — it immediately bonds to a water molecule. When we write H⁺(aq), we mean H₃O⁺.
+
+
+[EQUIL_T_018] Lewis Acids and Bases
+
+Brønsted-Lowry theory centers on proton transfer. But some reactions look like acid-base chemistry without any protons involved.
+
+BF₃ + NH₃ → F₃B-NH₃
+
+No proton moved. Yet this feels like an acid-base reaction — two species combining, one electron-rich, one electron-poor.
+
+`Lewis` generalized further: a `Lewis base` donates an electron pair; a `Lewis acid` accepts an electron pair.
+
+Why is BF₃ hungry for electrons? Boron has only 3 valence electrons. It forms 3 bonds with fluorine, using all 3. That leaves an empty orbital — room for 2 more electrons that boron doesn't have.
+
+Compare to methane, CH₄. Carbon has 4 valence electrons, forms 4 bonds, fills its outer shell completely. No empty orbital. CH₄ isn't a Lewis acid — it has no vacancy to fill.
+
+Ammonia has the opposite situation. Nitrogen has 5 valence electrons, forms 3 bonds with hydrogen, but has 2 electrons left over as a lone pair. Those electrons can be donated to something with a vacancy.
+
+NH₃ donates its lone pair to BF₃'s empty orbital. A new bond forms. Ammonia is the `Lewis base` (electron pair donor); boron trifluoride is the `Lewis acid` (electron pair acceptor).
+
+This definition is broader than Brønsted-Lowry. Every Brønsted-Lowry base is also a Lewis base — when NH₃ accepts H⁺, it's really donating its lone pair to form an N-H bond. But Lewis acids don't need protons.
+
+Examples of Lewis acids:
+- BF₃, AlCl₃ — electron-deficient (fewer than 8 electrons around central atom)
+- Metal cations like Fe³⁺, Cu²⁺, Zn²⁺ — positive charge attracts electron pairs from ligands
+- H⁺ itself — it accepts an electron pair when forming H₃O⁺
+
+Examples of Lewis bases:
+- NH₃, H₂O, OH⁻ — species with lone pairs available for donation
+- Halide ions like Cl⁻, Br⁻ — negative charge and lone pairs
+
+The Lewis concept unifies acid-base chemistry, coordination chemistry, and organic reaction mechanisms. Nucleophiles are Lewis bases; electrophiles are Lewis acids.
+
+
+[EQUIL_T_019] Ionization of Water and Kw
+
+Pure water conducts electricity — barely. Even without dissolved acids or bases, some ions exist.
+
+Water molecules occasionally transfer protons to each other:
+
+H₂O + H₂O ⇌ H₃O⁺ + OH⁻
+
+One water acts as acid (donates H⁺), another as base (accepts H⁺). This is `auto-ionization`.
+
+The equilibrium lies far to the left. In pure water at 25°C, only about 2 molecules in a billion are ionized at any instant.
+
+The equilibrium expression:
+
+K = [H₃O⁺][OH⁻] / [H₂O]²
+
+Since water's concentration is essentially constant (55.5 M), we fold it into the constant:
+
+`Kw` = [H₃O⁺][OH⁻] = 10⁻¹⁴ at 25°C
+
+This is the `ionic product of water`.
+
+In pure water, every H₃O⁺ comes paired with an OH⁻. So:
+
+[H₃O⁺] = [OH⁻] = √(10⁻¹⁴) = 10⁻⁷ M
+
+Add acid? [H₃O⁺] rises, but [H₃O⁺][OH⁻] must still equal 10⁻¹⁴. So [OH⁻] falls.
+
+Add base? [OH⁻] rises, [H₃O⁺] falls.
+
+The product stays constant. If [H₃O⁺] = 10⁻³ M, then [OH⁻] = 10⁻¹¹ M.
+
+Kw is temperature-dependent. At 60°C, Kw ≈ 10⁻¹³. More ionization at higher temperature — water's auto-ionization is endothermic.
+
+
+[EQUIL_T_020] The pH Scale
+
+Hydrogen ion concentrations span an enormous range. Stomach acid: ~0.01 M. Pure water: 10⁻⁷ M. Blood: ~4 × 10⁻⁸ M. Household ammonia: ~10⁻¹² M.
+
+That's a factor of 10 billion from stomach to ammonia. Try putting that on a graph. Or comparing numbers like 0.00000001 and 0.0000000001. The human brain isn't built for it.
+
+The `pH scale` converts these unwieldy numbers into something manageable:
+
+`pH` = −log[H⁺]
+
+The logarithm counts powers of ten. If [H⁺] = 10⁻⁷ M, the exponent is −7, so pH = 7. If [H⁺] = 10⁻³ M, pH = 3. If [H⁺] = 10⁻¹¹ M, pH = 11.
+
+The minus sign makes acids positive. Without it, acidic solutions (high [H⁺]) would have negative pH values. The convention gives us a scale from roughly 0 to 14 for everyday solutions.
+
+Lower pH means more H⁺ — more acidic.
+Higher pH means less H⁺ — more basic.
+pH 7 (at 25°C) is neutral — the [H⁺] of pure water.
+
+Because it's logarithmic, each pH unit represents a tenfold change. pH 3 has ten times more H⁺ than pH 4. And a hundred times more than pH 5. And a thousand times more than pH 6.
+
+The same logic applies to hydroxide. `pOH` = −log[OH⁻].
+
+Since [H⁺][OH⁻] = 10⁻¹⁴ at 25°C, taking the negative log of both sides:
+
+pH + pOH = 14
+
+If pH = 3, then pOH = 11.
+If pH = 9, then pOH = 5.
+
+The "p" notation extends to any quantity that spans orders of magnitude:
+
+`pKa` = −log Ka
+`pKb` = −log Kb
+`pKw` = −log Kw = 14 at 25°C
+
+A strong acid with Ka = 10⁷ has pKa = −7.
+A weak acid with Ka = 10⁻⁵ has pKa = 5.
+
+Smaller pKa = stronger acid. The minus sign flips the relationship: big Ka becomes small pKa.
+
+
+[EQUIL_T_021] pH of Strong Acids and Bases
+
+Strong acids dissociate completely. No equilibrium, no Ka needed.
+
+0.01 M HCl means [H⁺] = 0.01 M = 10⁻² M.
+
+pH = −log(10⁻²) = 2
+
+That's it. Concentration equals [H⁺].
+
+For diprotic strong acids like H₂SO₄, the first proton dissociates completely. The second is weaker but often treated as complete for simplicity:
+
+0.01 M H₂SO₄ gives [H⁺] ≈ 0.02 M, so pH ≈ 1.7
+
+**Strong bases**
+
+Strong bases dissociate completely into OH⁻.
+
+0.01 M NaOH means [OH⁻] = 0.01 M = 10⁻² M.
+
+pOH = −log(10⁻²) = 2
+pH = 14 − 2 = 12
+
+For Ba(OH)₂, each formula unit gives two OH⁻:
+
+0.01 M Ba(OH)₂ gives [OH⁻] = 0.02 M
+pOH = −log(0.02) = 1.7
+pH = 14 − 1.7 = 12.3
+
+**Mixing strong acid and strong base**
+
+They neutralize: H⁺ + OH⁻ → H₂O
+
+Find which is in excess.
+
+Mix 50 mL of 0.1 M HCl with 30 mL of 0.1 M NaOH.
+
+Moles H⁺ = 0.05 × 0.1 = 0.005 mol
+Moles OH⁻ = 0.03 × 0.1 = 0.003 mol
+
+Excess H⁺ = 0.005 − 0.003 = 0.002 mol
+Total volume = 80 mL = 0.08 L
+
+[H⁺] = 0.002 / 0.08 = 0.025 M
+pH = −log(0.025) = 1.6
+
+**Trap**: For strong bases, find [OH⁻] first, then convert to pH. Don't try to find [H⁺] directly.
+
+
+[EQUIL_T_022] Ionization of Weak Acids
+
+HCl in water: every molecule releases its proton. Complete ionization. Strong acid.
+
+Acetic acid in water: most molecules keep their protons. Only about 1 in 100 let go. Why?
+
+The conjugate base matters. When HCl loses H⁺, it becomes Cl⁻ — a very stable ion with no desire to grab the proton back. But when acetic acid loses H⁺, it becomes acetate — which *does* want that proton back.
+
+So acetic acid establishes an equilibrium:
+
+CH₃COOH ⇌ H⁺ + CH₃COO⁻
+
+Some molecules ionize. But the conjugate base keeps recapturing protons. The system settles at a balance where most acid stays intact.
+
+The equilibrium constant for this process is the `acid ionization constant`, `Ka`:
+
+Ka = [H⁺][A⁻] / [HA]
+
+Larger Ka means the equilibrium lies further right — more dissociation, stronger acid. Smaller Ka means equilibrium lies left — less dissociation, weaker acid.
+
+Acetic acid: Ka = 1.8 × 10⁻⁵ (weak)
+Hydrofluoric acid: Ka = 6.8 × 10⁻⁴ (stronger, but still weak)
+Hydrocyanic acid: Ka = 4.9 × 10⁻¹⁰ (very weak)
+
+The `degree of ionization`, α, is the fraction that dissociates:
+
+α = [A⁻] / initial [HA] = [H⁺] / initial [HA]
+
+For a weak acid at concentration c:
+
+[H⁺] = [A⁻] = cα
+[HA] = c(1 − α)
+
+Substituting into Ka:
+
+Ka = (cα)(cα) / c(1 − α) = cα² / (1 − α)
+
+If α is small (weak acid, not too dilute), then 1 − α ≈ 1:
+
+Ka ≈ cα²
+α ≈ √(Ka/c)
+
+This reveals something important: α depends on concentration. Dilute the acid, and a larger fraction ionizes. At 0.1 M, acetic acid is ~1.3% ionized. At 0.001 M, it's ~13% ionized.
+
+`pKa` = −log Ka. For acetic acid, pKa = 4.74. Lower pKa means stronger acid.
+
+
+[EQUIL_T_023] pH of Weak Acids
+
+Given Ka and initial concentration, find pH using an ICE approach.
+
+**Example**: 0.1 M acetic acid, Ka = 1.8 × 10⁻⁵
+
+CH₃COOH ⇌ CH₃COO⁻ + H⁺
+
+|  | CH₃COOH | CH₃COO⁻ | H⁺ |
+|--|---------|---------|-----|
+| Initial | 0.1 | 0 | 0 |
+| Change | −x | +x | +x |
+| Equilibrium | 0.1−x | x | x |
+
+Ka = x² / (0.1 − x) = 1.8 × 10⁻⁵
+
+**The approximation**: If Ka is small and c is not too low, x << 0.1. Then 0.1 − x ≈ 0.1.
+
+1.8 × 10⁻⁵ = x² / 0.1
+x² = 1.8 × 10⁻⁶
+x = 1.34 × 10⁻³ M
+
+Check: x/0.1 = 1.3% — much less than 5%, approximation valid.
+
+[H⁺] = 1.34 × 10⁻³ M
+pH = −log(1.34 × 10⁻³) = 2.87
+
+**When approximation fails**
+
+If Ka is larger or concentration is very low, x might not be negligible. Solve the quadratic:
+
+x² + Ka·x − Ka·c = 0
+
+Or use successive approximation: calculate x with the approximation, substitute back, recalculate.
+
+**From pH to Ka**
+
+If 0.1 M weak acid has pH = 3.2:
+
+[H⁺] = 10⁻³·² = 6.3 × 10⁻⁴ M
+α = 6.3 × 10⁻⁴ / 0.1 = 6.3 × 10⁻³
+
+Ka = cα² / (1 − α) ≈ 0.1 × (6.3 × 10⁻³)² = 4.0 × 10⁻⁶
+
+**Trap**: Don't use pH = −log(c) for weak acids. That's only for strong acids where [H⁺] = c.
+
+
+[EQUIL_T_024] Ionization of Weak Bases
+
+NaOH in water: every formula unit releases OH⁻. Complete dissociation. Strong base.
+
+Ammonia in water: it doesn't *have* OH⁻ to release. So where does the basicity come from?
+
+Ammonia grabs protons from water:
+
+NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+
+Water donates H⁺, becoming OH⁻. That's where the hydroxide comes from.
+
+But ammonia isn't greedy. The NH₄⁺ that forms can donate its proton back to OH⁻. Equilibrium is established. Only a small fraction of ammonia molecules are protonated at any moment.
+
+The equilibrium constant for this process is the `base ionization constant`, `Kb`:
+
+Kb = [BH⁺][OH⁻] / [B]
+
+Larger Kb means equilibrium lies further right — more proton-grabbing, stronger base. Smaller Kb means weaker base.
+
+Ammonia: Kb = 1.8 × 10⁻⁵
+Methylamine: Kb = 4.4 × 10⁻⁴ (stronger — the CH₃ group helps stabilize the positive charge)
+Aniline: Kb = 4.3 × 10⁻¹⁰ (much weaker — the benzene ring pulls electrons away)
+
+The math mirrors weak acids. For concentration c and degree of ionization α:
+
+[OH⁻] = [BH⁺] = cα
+[B] = c(1 − α)
+
+Kb = cα² / (1 − α)
+
+With the small-α approximation:
+
+α ≈ √(Kb/c)
+
+The key difference from acids: weak bases produce OH⁻, not H⁺. You find pOH first, then convert to pH.
+
+`pKb` = −log Kb. For ammonia, pKb = 4.74. Lower pKb means stronger base.
+
+Note that ammonia and acetic acid have the same ionization constant magnitude (1.8 × 10⁻⁵). One produces H⁺, the other OH⁻. Same math, opposite ions.
+
+
+[EQUIL_T_025] pH of Weak Bases
+
+The approach is identical to weak acids, but you find [OH⁻] and convert to pH.
+
+**Example**: 0.1 M ammonia, Kb = 1.8 × 10⁻⁵
+
+NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+
+|  | NH₃ | NH₄⁺ | OH⁻ |
+|--|-----|------|------|
+| Initial | 0.1 | 0 | 0 |
+| Change | −x | +x | +x |
+| Equilibrium | 0.1−x | x | x |
+
+Kb = x² / (0.1 − x) = 1.8 × 10⁻⁵
+
+Using the approximation (x << 0.1):
+
+x² = 1.8 × 10⁻⁶
+x = 1.34 × 10⁻³ M = [OH⁻]
+
+pOH = −log(1.34 × 10⁻³) = 2.87
+pH = 14 − 2.87 = 11.13
+
+**From percent ionization to Kb**
+
+If 0.2 M weak base is 0.5% ionized:
+
+α = 0.005
+[OH⁻] = 0.2 × 0.005 = 0.001 M
+
+Kb = cα² / (1 − α) ≈ 0.2 × (0.005)² = 5 × 10⁻⁶
+
+**Trap**: The weak base gives OH⁻, not H⁺. Don't forget to convert pOH to pH. A common error is reporting pOH as the answer.
+
+
+[EQUIL_T_026] Ka-Kb Relationship
+
+When HCl donates a proton, it becomes Cl⁻. Does chloride want that proton back?
+
+Barely. HCl is a strong acid precisely because Cl⁻ is stable without the proton. The conjugate base has no urge to reclaim what was lost.
+
+When acetic acid donates a proton, it becomes acetate. Does acetate want the proton back?
+
+Yes — somewhat. That's why acetic acid is a weak acid. The equilibrium favors the undissociated form because acetate keeps grabbing protons back.
+
+This reveals a fundamental relationship: the stronger an acid, the weaker its conjugate base. The easier an acid releases its proton, the less its conjugate base wants it back. These aren't independent properties — they're two sides of the same coin.
+
+The math confirms it. Take acetic acid and acetate:
+
+CH₃COOH ⇌ CH₃COO⁻ + H⁺ (Ka = 1.8 × 10⁻⁵)
+CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻ (Kb = ?)
+
+Add these reactions and you get water's auto-ionization:
+
+H₂O ⇌ H⁺ + OH⁻ (Kw = 10⁻¹⁴)
+
+When reactions add, K values multiply:
+
+Ka × Kb = Kw
+
+So: Kb = Kw / Ka = 10⁻¹⁴ / 1.8 × 10⁻⁵ = 5.6 × 10⁻¹⁰
+
+Acetate is a weak base — much weaker than ammonia. It will accept protons, but reluctantly.
+
+In pK terms: pKa + pKb = 14 (at 25°C)
+
+**The pattern in action**:
+
+Strong acid → very weak conjugate base
+HCl has Ka ≈ 10⁷. Chloride has Kb ≈ 10⁻²¹. Cl⁻ has essentially no tendency to grab protons from water.
+
+Weak acid → weak conjugate base
+CH₃COOH has Ka = 1.8 × 10⁻⁵. Acetate has Kb = 5.6 × 10⁻¹⁰. Acetate is weakly basic — it will grab protons, but the equilibrium lies far left.
+
+Very weak acid → stronger conjugate base
+HCN has Ka = 4.9 × 10⁻¹⁰. Cyanide has Kb = 2 × 10⁻⁵. CN⁻ is noticeably basic because HCN barely wanted to let go of its proton in the first place.
+
+
+[EQUIL_T_027] Polyprotic Acids
+
+Hydrochloric acid has one hydrogen: HCl. It donates that proton and becomes Cl⁻. Done. One acid, one proton, one conjugate base.
+
+Now look at sulfuric acid: H₂SO₄. Two hydrogens attached to oxygen. Can both come off?
+
+Yes — but not equally.
+
+The first proton leaves easily. H₂SO₄ is a strong acid for this step; it fully dissociates:
+
+H₂SO₄ → HSO₄⁻ + H⁺
+
+But HSO₄⁻ still has a proton. Can it donate too?
+
+It can, but reluctantly. The second dissociation is an equilibrium:
+
+HSO₄⁻ ⇌ SO₄²⁻ + H⁺ (Ka2 = 1.2 × 10⁻²)
+
+The first proton flew off. The second one clings. Why?
+
+After the first proton leaves, the ion carries a negative charge. Now you're trying to pull a *positive* proton away from a *negative* ion. Electrostatic attraction fights you. It takes more energy.
+
+Phosphoric acid makes this even clearer. Three protons, three dissociations:
+
+H₃PO₄ → H⁺ + H₂PO₄⁻ (Ka1 = 7.5 × 10⁻³)
+H₂PO₄⁻ → H⁺ + HPO₄²⁻ (Ka2 = 6.2 × 10⁻⁸)
+HPO₄²⁻ → H⁺ + PO₄³⁻ (Ka3 = 4.2 × 10⁻¹³)
+
+Each Ka drops by roughly 10⁵. Ka1 >> Ka2 >> Ka3. Each successive proton is harder to remove.
+
+Acids with more than one ionizable proton are called `polyprotic acids`. Two protons = `diprotic` (H₂SO₄, H₂CO₃). Three = triprotic (H₃PO₄).
+
+For pH calculations, this hierarchy saves you work. In 0.1 M H₃PO₄, nearly all H⁺ comes from the first dissociation. Ka1 is 100,000 times larger than Ka2. The second and third steps contribute almost nothing. Treat it as monoprotic with Ka = Ka1.
+
+
+[EQUIL_T_028] Common Ion Effect on Ionization
+
+Acetic acid in water partially ionizes:
+
+CH₃COOH ⇌ CH₃COO⁻ + H⁺
+
+In 0.1 M acetic acid, about 1.3% ionizes. [H⁺] ≈ 1.3 × 10⁻³ M, pH ≈ 2.9.
+
+Now dissolve sodium acetate in the same solution. Sodium acetate dissociates completely:
+
+CH₃COONa → CH₃COO⁻ + Na⁺
+
+Suddenly there's extra acetate — the same ion that acetic acid produces when it ionizes.
+
+What happens to the equilibrium?
+
+Le Chatelier answers: you've added a product (CH₃COO⁻). The equilibrium shifts left. Fewer acetic acid molecules ionize. [H⁺] drops. pH rises.
+
+Add 0.1 M sodium acetate to 0.1 M acetic acid, and pH jumps from 2.9 to about 4.7. The acetate suppressed ionization.
+
+This is the `common ion effect` — adding an ion that's already part of an equilibrium shifts that equilibrium away from producing more of it.
+
+It works for weak bases too. Ammonia in water:
+
+NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+
+Add ammonium chloride (which provides NH₄⁺), and equilibrium shifts left. Less OH⁻ forms. The solution becomes less basic.
+
+The common ion effect isn't a new principle. It's Le Chatelier applied to ionic equilibria. Add a product, shift left. The math stays the same — just include the initial concentration of the common ion in your ICE table.
+
+
+[EQUIL_T_029] Hydrolysis of Salts
+
+Dissolve NaCl in water. Test the pH. It's 7 — neutral.
+
+Dissolve sodium acetate (CH₃COONa) in water. Test the pH. It's above 7 — basic.
+
+Dissolve ammonium chloride (NH₄Cl) in water. Test the pH. It's below 7 — acidic.
+
+All three are salts. All dissociate completely. Why do their solutions have different pH values?
+
+The answer lies in what happens *after* dissociation.
+
+**Sodium chloride**: Na⁺ and Cl⁻ in water. Neither ion reacts with water. Na⁺ is the cation of a strong base (NaOH) — it has no tendency to grab OH⁻. Cl⁻ is the anion of a strong acid (HCl) — it has no tendency to grab H⁺. Both ions just float there. Water's [H⁺] and [OH⁻] stay balanced. Neutral solution.
+
+**Sodium acetate**: Na⁺ and CH₃COO⁻ in water. Na⁺ still does nothing. But acetate is the conjugate base of a weak acid. It *can* grab protons:
+
+CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻
+
+Acetate steals H⁺ from water, leaving OH⁻ behind. The solution turns basic.
+
+**Ammonium chloride**: NH₄⁺ and Cl⁻ in water. Cl⁻ does nothing. But ammonium is the conjugate acid of a weak base. It can donate protons:
+
+NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺
+
+Ammonium donates H⁺ to water. The solution turns acidic.
+
+This reaction of salt ions with water is called `hydrolysis`.
+
+The pattern:
+- Salt of strong acid + strong base → neutral (neither ion hydrolyzes)
+- Salt of weak acid + strong base → basic (anion hydrolyzes)
+- Salt of strong acid + weak base → acidic (cation hydrolyzes)
+- Salt of weak acid + weak base → depends on relative Ka and Kb
+
+
+[EQUIL_T_030] Salt Hydrolysis pH
+
+Predicting acidic/basic/neutral is qualitative. Can we calculate the actual pH?
+
+**Weak acid + strong base salt** (e.g., CH₃COONa)
+
+The acetate ion hydrolyzes:
+
+CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻
+
+This is a base equilibrium. The equilibrium constant is Kb for acetate:
+
+Kb = Kw / Ka = 10⁻¹⁴ / 1.8 × 10⁻⁵ = 5.6 × 10⁻¹⁰
+
+Treat it like any weak base. For 0.1 M sodium acetate:
+
+[OH⁻] = √(Kb × c) = √(5.6 × 10⁻¹⁰ × 0.1) = 7.5 × 10⁻⁶ M
+pOH = 5.1
+pH = 8.9
+
+**Strong acid + weak base salt** (e.g., NH₄Cl)
+
+The ammonium ion hydrolyzes:
+
+NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺
+
+This is an acid equilibrium. Ka for ammonium:
+
+Ka = Kw / Kb = 10⁻¹⁴ / 1.8 × 10⁻⁵ = 5.6 × 10⁻¹⁰
+
+For 0.1 M ammonium chloride:
+
+[H⁺] = √(Ka × c) = √(5.6 × 10⁻¹⁰ × 0.1) = 7.5 × 10⁻⁶ M
+pH = 5.1
+
+**Weak acid + weak base salt** (e.g., CH₃COONH₄)
+
+Both ions hydrolyze. The pH depends on which wins:
+
+pH = 7 + ½(pKa − pKb)
+
+For ammonium acetate: pKa (acetic acid) = 4.74, pKb (ammonia) = 4.74.
+
+pH = 7 + ½(4.74 − 4.74) = 7
+
+Equal strengths, neutral solution. If the acid were stronger (lower pKa), the solution would be acidic. If the base were stronger (lower pKb), basic.
+
+
+[EQUIL_T_031] Buffer Solutions
+
+Add a drop of strong acid to pure water. pH plummets from 7 to 3 or lower.
+
+Add that same drop to blood. pH barely budges — stays at 7.4.
+
+Blood resists pH change. So do many biological fluids, industrial processes, and chemical reactions that need stable conditions. How?
+
+The secret is having both a weak acid *and* its conjugate base present together.
+
+Take a mixture of acetic acid and sodium acetate. Both are in solution:
+
+CH₃COOH (weak acid, proton donor)
+CH₃COO⁻ (conjugate base, proton acceptor)
+
+Add strong acid (H⁺). The acetate ions grab those protons:
+
+CH₃COO⁻ + H⁺ → CH₃COOH
+
+The added H⁺ gets consumed. pH barely changes.
+
+Add strong base (OH⁻). The acetic acid molecules donate protons to neutralize it:
+
+CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O
+
+The added OH⁻ gets consumed. pH barely changes.
+
+The mixture absorbs both acid and base attacks. This is a `buffer solution`.
+
+A buffer needs two components: a weak acid to neutralize added base, and its conjugate base to neutralize added acid. Neither component alone works — you need both.
+
+Acidic buffers (pH < 7): weak acid + its salt (e.g., CH₃COOH + CH₃COONa)
+Basic buffers (pH > 7): weak base + its salt (e.g., NH₃ + NH₄Cl)
+
+The `Henderson-Hasselbalch equation` gives the pH:
+
+pH = pKa + log([A⁻]/[HA])
+
+When [A⁻] = [HA], the log term is zero, and pH = pKa. An acetic acid/acetate buffer with equal concentrations has pH = 4.74 (the pKa of acetic acid).
+
+Change the ratio, shift the pH. More conjugate base → higher pH. More acid → lower pH. But the buffer still resists changes from external acid or base.
+
+
+[EQUIL_T_032] Buffer pH Calculations
+
+A buffer contains a weak acid and its conjugate base. The pH depends on two things: how strong the acid is (pKa), and the ratio of base to acid.
+
+Start with the equilibrium:
+
+HA ⇌ H⁺ + A⁻
+
+Ka = [H⁺][A⁻] / [HA]
+
+Rearrange to isolate [H⁺]:
+
+[H⁺] = Ka × [HA] / [A⁻]
+
+Take the negative log of both sides:
+
+pH = pKa + log([A⁻] / [HA])
+
+This is the Henderson-Hasselbalch equation we saw earlier. Buffer pH equals the pKa of the weak acid, adjusted by the log of the base-to-acid ratio.
+
+**What does this mean practically?**
+
+When [A⁻] = [HA] — equal amounts of acid and conjugate base — the log term vanishes. pH = pKa.
+
+An acetic acid/acetate buffer with equal concentrations sits at pH 4.74 (acetic acid's pKa). A formic acid/formate buffer with equal concentrations sits at pH 3.75 (formic acid's pKa).
+
+Want a buffer at a specific pH? Pick an acid whose pKa is close to your target.
+
+**Changing the ratio shifts pH**
+
+More conjugate base than acid? [A⁻]/[HA] > 1, log is positive, pH > pKa.
+More acid than conjugate base? [A⁻]/[HA] < 1, log is negative, pH < pKa.
+
+A 10:1 ratio of acetate to acetic acid:
+pH = 4.74 + log(10) = 4.74 + 1 = 5.74
+
+A 1:10 ratio:
+pH = 4.74 + log(0.1) = 4.74 − 1 = 3.74
+
+Each tenfold change in ratio shifts pH by 1 unit.
+
+**Basic buffers**
+
+For a weak base and its conjugate acid (like NH₃ + NH₄Cl), use:
+
+pOH = pKb + log([BH⁺] / [B])
+
+Then convert: pH = 14 − pOH.
+
+Or use the acid form directly. NH₄⁺ is a weak acid with pKa = 9.26:
+
+pH = 9.26 + log([NH₃] / [NH₄⁺])
+
+Same answer, different route.
+
+**The trap**
+
+Students often flip the ratio — putting acid over base instead of base over acid. Remember: conjugate base goes on top. If you're unsure, think about it: more base should mean higher pH, so [base] in the numerator makes the log positive when base dominates.
+
+
+[EQUIL_T_033] Solubility Product (Ksp)
+
+Sodium chloride dissolves readily — drop a spoonful in water and it vanishes. Potassium nitrate, ammonium sulfate, the same. These are soluble salts.
+
+Now try silver chloride. Add it to water and... it just sits there. A white powder at the bottom, apparently unchanged. Silver chloride is called "insoluble."
+
+But "insoluble" is an exaggeration.
+
+Look closely at that water above the settled AgCl. Test it for silver ions. You'll find some — not much, but some. Test for chloride ions. Present as well.
+
+A tiny amount of silver chloride *did* dissolve. The solid reached an equilibrium with its ions:
+
+AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq)
+
+This is a heterogeneous equilibrium. The solid's concentration is constant (it's a pure substance), so it folds into the equilibrium constant:
+
+Ksp = [Ag⁺][Cl⁻]
+
+`Ksp` — the `solubility product` — is just an equilibrium constant for dissolution. The "product" refers to multiplying the ion concentrations.
+
+For AgCl at 25°C, Ksp = 1.8 × 10⁻¹⁰. Tiny. That's why so little dissolves.
+
+For BaSO₄, Ksp = 1.1 × 10⁻¹⁰. Similar story — `sparingly soluble`.
+
+For CaF₂, Ksp = 3.9 × 10⁻¹¹. Even smaller.
+
+Compare to a "soluble" salt: if we could write Ksp for NaCl, it would be enormous — the equilibrium lies so far toward ions that essentially all of it dissolves.
+
+**What Ksp tells you**
+
+Ksp connects to `molar solubility` — how many moles dissolve per liter.
+
+For AgCl, if S moles per liter dissolve, then [Ag⁺] = S and [Cl⁻] = S.
+
+Ksp = S × S = S²
+
+S = √Ksp = √(1.8 × 10⁻¹⁰) = 1.3 × 10⁻⁵ M
+
+About 0.000013 moles per liter. In grams: 1.3 × 10⁻⁵ × 143.3 g/mol ≈ 0.002 g/L. Almost nothing — but not zero.
+
+**Ksp is an equilibrium constant**
+
+Everything you learned about equilibrium applies. Le Chatelier works here. Q vs K predicts precipitation or dissolution. Temperature changes Ksp (most salts dissolve more at higher temperature, so Ksp increases).
+
+The tools are the same. Only the context — dissolution of ionic solids — is new.
+
+
+[EQUIL_T_034] Ksp Calculations: Simple Salts
+
+For salts that dissociate into one cation and one anion in a 1:1 ratio, the math is straightforward.
+
+**From solubility to Ksp**
+
+Silver bromide has a molar solubility of 7.3 × 10⁻⁷ M at 25°C. What's its Ksp?
+
+AgBr(s) ⇌ Ag⁺(aq) + Br⁻(aq)
+
+If 7.3 × 10⁻⁷ M dissolves, then:
+[Ag⁺] = 7.3 × 10⁻⁷ M
+[Br⁻] = 7.3 × 10⁻⁷ M
+
+Ksp = [Ag⁺][Br⁻] = (7.3 × 10⁻⁷)² = 5.3 × 10⁻¹³
+
+**From Ksp to solubility**
+
+Barium sulfate has Ksp = 1.1 × 10⁻¹⁰. How much dissolves?
+
+BaSO₄(s) ⇌ Ba²⁺(aq) + SO₄²⁻(aq)
+
+Let S = molar solubility. Then [Ba²⁺] = S and [SO₄²⁻] = S.
+
+Ksp = S² = 1.1 × 10⁻¹⁰
+S = √(1.1 × 10⁻¹⁰) = 1.05 × 10⁻⁵ M
+
+In grams per liter: 1.05 × 10⁻⁵ mol/L × 233.4 g/mol = 0.0025 g/L
+
+**Solubility given in g/L**
+
+Lead(II) chloride dissolves to the extent of 0.99 g/L at 20°C. Find Ksp.
+
+First convert to molar solubility:
+Molar mass of PbCl₂ = 278.1 g/mol
+S = 0.99 / 278.1 = 3.56 × 10⁻³ M
+
+But wait — PbCl₂ isn't 1:1. It's 1:2. One Pb²⁺, two Cl⁻.
+
+PbCl₂(s) ⇌ Pb²⁺(aq) + 2Cl⁻(aq)
+
+[Pb²⁺] = S = 3.56 × 10⁻³ M
+[Cl⁻] = 2S = 7.12 × 10⁻³ M
+
+Ksp = [Pb²⁺][Cl⁻]² = (3.56 × 10⁻³)(7.12 × 10⁻³)² = 1.8 × 10⁻⁷
+
+That's not a 1:1 salt — it belongs in the next topic. But the trap is common: always check the formula before assuming S² works.
+
+
+[EQUIL_T_035] Ksp Calculations: Complex Salts
+
+Not all salts split 1:1. When the cation-to-anion ratio isn't equal, the Ksp expression — and the solubility calculation — changes.
+
+**1:2 salts (one cation, two anions)**
+
+Calcium fluoride: CaF₂ ⇌ Ca²⁺ + 2F⁻
+
+If S moles of CaF₂ dissolve:
+[Ca²⁺] = S
+[F⁻] = 2S (two fluorides per formula unit)
+
+Ksp = [Ca²⁺][F⁻]² = S × (2S)² = S × 4S² = 4S³
+
+Given Ksp = 3.9 × 10⁻¹¹:
+4S³ = 3.9 × 10⁻¹¹
+S³ = 9.75 × 10⁻¹²
+S = 2.1 × 10⁻⁴ M
+
+**2:1 salts (two cations, one anion)**
+
+Silver chromate: Ag₂CrO₄ ⇌ 2Ag⁺ + CrO₄²⁻
+
+If S moles dissolve:
+[Ag⁺] = 2S
+[CrO₄²⁻] = S
+
+Ksp = [Ag⁺]²[CrO₄²⁻] = (2S)² × S = 4S³
+
+Same form as 1:2 — both give Ksp = 4S³. The coefficient 4 comes from the squared term having a coefficient of 2.
+
+Given Ksp = 1.1 × 10⁻¹² for Ag₂CrO₄:
+S = ∛(Ksp/4) = ∛(2.75 × 10⁻¹³) = 6.5 × 10⁻⁵ M
+
+**1:3 salts**
+
+Aluminum hydroxide: Al(OH)₃ ⇌ Al³⁺ + 3OH⁻
+
+[Al³⁺] = S
+[OH⁻] = 3S
+
+Ksp = [Al³⁺][OH⁻]³ = S × (3S)³ = S × 27S³ = 27S⁴
+
+Given Ksp = 1.3 × 10⁻³³:
+S⁴ = Ksp/27 = 4.8 × 10⁻³⁵
+S = 2.6 × 10⁻⁹ M
+
+**The pattern**
+
+For MₓAᵧ dissolving into x cations and y anions:
+
+Ksp = (xS)ˣ × (yS)ʸ = xˣ × yʸ × S^(x+y)
+
+The exponent on S is the total number of ions produced. The coefficient depends on the stoichiometry.
+
+**The trap**
+
+Using Ksp = S² for everything. It only works for 1:1 salts. Always write out the dissociation equation and match ion concentrations to stoichiometry.
+
+
+[EQUIL_T_036] Common Ion Effect on Solubility
+
+How much silver chloride dissolves in pure water? We calculated this: about 1.3 × 10⁻⁵ M.
+
+Now try dissolving AgCl in 0.1 M sodium chloride solution instead of pure water.
+
+The NaCl is already there, fully dissociated. The solution contains 0.1 M Cl⁻ before any AgCl dissolves.
+
+AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq)
+
+Le Chatelier speaks: the product (Cl⁻) is already abundant. The equilibrium shifts left. Less AgCl dissolves than in pure water.
+
+Let's calculate. If S moles of AgCl dissolve:
+
+[Ag⁺] = S
+[Cl⁻] = 0.1 + S
+
+But S will be tiny (common ion suppresses it), so 0.1 + S ≈ 0.1.
+
+Ksp = [Ag⁺][Cl⁻] = S × 0.1 = 1.8 × 10⁻¹⁰
+
+S = 1.8 × 10⁻¹⁰ / 0.1 = 1.8 × 10⁻⁹ M
+
+In pure water: 1.3 × 10⁻⁵ M dissolved.
+In 0.1 M NaCl: 1.8 × 10⁻⁹ M dissolves.
+
+The common ion reduced solubility by a factor of nearly 10,000.
+
+**Using pH to find solubility of hydroxides**
+
+Magnesium hydroxide: Mg(OH)₂ ⇌ Mg²⁺ + 2OH⁻
+
+In pure water, [OH⁻] comes only from dissolution. But what if the solution is buffered at pH 12?
+
+pH 12 means pOH = 2, so [OH⁻] = 10⁻² M = 0.01 M.
+
+That's a common ion. Let S = solubility of Mg(OH)₂.
+
+[Mg²⁺] = S
+[OH⁻] ≈ 0.01 M (the S contribution is negligible)
+
+Ksp = [Mg²⁺][OH⁻]² = S × (0.01)² = 1.8 × 10⁻¹¹
+
+S = 1.8 × 10⁻¹¹ / 10⁻⁴ = 1.8 × 10⁻⁷ M
+
+Compare to pure water where S ≈ 1.6 × 10⁻⁴ M. The high pH (high [OH⁻]) slashes solubility by 1000×.
+
+**The principle**
+
+Any ion already in solution that matches one of the ions from the salt will suppress dissolution. The more common ion present, the less salt dissolves. This is Le Chatelier applied to solubility equilibria.
+
+**The trap**
+
+Forgetting that the common ion concentration dominates. If [Cl⁻] from NaCl is 0.1 M and S is 10⁻⁹ M, don't write [Cl⁻] = 0.1 + S and then worry about S. Just use 0.1 M. The approximation is nearly always valid when a common ion is deliberately added.

@@ -1,0 +1,997 @@
+[DF_T_001] Big Picture of d- and f-Block Elements
+
+Sodium loses one electron. Na⁺, every time. Magnesium loses two. Mg²⁺, always. s-block metals have one trick each.
+
+Iron is different. In one reaction it loses two electrons — Fe²⁺, pale green. In another, three — Fe³⁺, yellow-brown. Same metal, two different ions, two different colours.
+
+Manganese pushes this further: +2, +3, +4, +5, +6, +7. Seven oxidation states from one metal.
+
+Why can iron and manganese do what sodium can't?
+
+@continue
+
+na-vs-fe-config.chem.svg
+
+@continue
+
+Sodium has one electron in 3s. Once it's gone, the next shell is full and tightly held. No flexibility.
+
+Iron has electrons in *two* subshells — six in 3d, two in 4s. Both can be lost. Lose just the 4s pair → Fe²⁺. Lose 4s plus one 3d → Fe³⁺. More sources of electrons, more combinations, more chemistry.
+
+@continue
+
+This ability — losing different numbers of electrons — is **variable oxidation states**. It's the single idea that drives everything in this chapter.
+
+@continue
+
+Partially filled d orbitals absorb visible light. An electron jumps between d orbitals of different energy, and the ion swallows a specific colour. You see what's left — **coloured ions**. CuSO₄ is blue. FeCl₃ is yellow. KMnO₄ is deep purple.
+
+@continue
+
+Unpaired d electrons each act as a tiny magnet. The ion gets pulled toward an external field — **paramagnetic behaviour**.
+
+Switching between oxidation states lets the metal shuttle electrons from one reactant to another. It's regenerated at the end — **catalytic activity**. V₂O₅ in the Contact Process, iron in Haber's Process, nickel in hydrogenation.
+
+Empty d orbitals accept bonds from surrounding molecules or ions, forming **complex compounds** with properties the bare metal doesn't have.
+
+@continue
+
+One cause — partially filled d orbitals. Four consequences — colour, magnetism, catalysis, complex formation.
+
+@continue
+
+d-f-block-map.webp
+
+@continue
+
+These metals sit between the s- and p-blocks — the `d-block`. Their electrons enter d orbitals of the inner shell. General configuration: (n−1)d¹⁻¹⁰ ns¹⁻².
+
+Four d-series exist: 3d, 4d, 5d, 6d. This chapter focuses on the **3d series** — scandium to zinc — plus two powerful oxidising agents: **K₂Cr₂O₇** and **KMnO₄**.
+
+@continue
+
+Not every d-block element qualifies as a `transition element`. That distinction turns on whether d orbitals are *partially filled* — a question for the next topic.
+
+Below the main table sit two more rows — the `f-block`. **Lanthanoids** (Ce to Lu) fill 4f orbitals. **Actinoids** (Th to Lr) fill 5f. Same core idea: partially filled inner orbitals give chemical versatility that outer-shell-only elements lack.
+
+
+[DF_T_002] Electronic Configuration of d-Block Elements
+
+The **3d series** runs from scandium (Z = 21) to zinc (Z = 30). Each element adds one electron to 3d while keeping two in 4s.
+
+The filling pattern starts clean. Sc is 3d¹4s², Ti is 3d²4s², V is 3d³4s². You'd expect chromium to be 3d⁴4s².
+
+It isn't. Chromium is 3d⁵4s¹.
+
+@continue
+
+cr-exception.chem.svg
+
+@continue
+
+Look at the d orbitals. The expected 3d⁴ leaves one orbital empty — four electrons in five boxes. The actual 3d⁵ fills every orbital with exactly one electron, all spinning the same way.
+
+That half-filled arrangement is extra stable. Chromium steals one 4s electron to complete it. The 3d and 4s orbitals sit close enough in energy that this costs less than the stability it gains.
+
+@continue
+
+Copper does the same thing. Expected: 3d⁹4s². Actual: 3d¹⁰4s¹. A fully filled d¹⁰ is also extra stable — all ten slots occupied.
+
+In the 4d series, palladium takes this further — 4d¹⁰5s⁰. Both s electrons migrate into d orbitals.
+
+@continue
+
+A crucial rule for forming ions: **ns electrons are removed first**, before (n−1)d electrons.
+
+@continue
+
+fe-ion-formation.chem.svg
+
+@continue
+
+Iron is 3d⁶4s². To form Fe²⁺, remove the two 4s electrons. The ion is 3d⁶ — d electrons untouched.
+
+Cu (3d¹⁰4s¹) → Cu²⁺ (3d⁹). Remove the one 4s electron, then one 3d.
+
+Every time we count unpaired electrons later in this chapter, we count them in the *ion's* dⁿ configuration — never the atom's.
+
+@continue
+
+The full 3d series: Sc (d¹s²), Ti (d²s²), V (d³s²), Cr (d⁵s¹), Mn (d⁵s²), Fe (d⁶s²), Co (d⁷s²), Ni (d⁸s²), Cu (d¹⁰s¹), Zn (d¹⁰s²).
+
+
+[DF_T_003] What Makes a Transition Element
+
+Zinc sits in the d-block. Yet ZnSO₄ is colourless, Zn²⁺ isn't paramagnetic, and zinc shows only +2. The four properties from the d-block story are all missing.
+
+Why? Because Zn²⁺ has d¹⁰ — every d orbital full. No empty orbital to jump into. No unpaired electron. No flexibility.
+
+@continue
+
+zn-vs-ag-transition.chem.svg
+
+@continue
+
+A **transition element** has an incompletely filled d subshell in its ground state or in any common oxidation state.
+
+Zinc, cadmium, and mercury have d¹⁰ in *every* state — ground state, +2, everything. Their d orbitals never open up. d-block, yes. Transition elements, no.
+
+@continue
+
+Silver looks the same at first — ground state is 4d¹⁰5s¹, d orbitals full. But Ag²⁺ has 4d⁹. One d electron gone, one orbital partially filled. Silver *is* a transition element.
+
+The key isn't just the ground state. If *any* common oxidation state has partially filled d orbitals, the element qualifies.
+
+@continue
+
+Every property from the epitome — colour, magnetism, catalysis, complex formation — needs partially filled d orbitals. With d¹⁰ or d⁰, they vanish.
+
+
+[DF_T_004] Physical Properties and Enthalpies of Atomisation
+
+You can cut sodium with a butter knife. Try that with iron. Transition metals are hard, tough, and have some of the highest melting points in the periodic table.
+
+They're also ductile, malleable, and excellent conductors of heat and electricity. All show metallic lustre. Why so much stronger than s-block metals?
+
+@continue
+
+In sodium, only one 3s electron participates in metallic bonding. In transition metals, both ns *and* (n−1)d electrons contribute. More bonding electrons = stronger interatomic forces.
+
+`Enthalpy of atomisation` measures this — the energy to convert one mole of solid metal into gaseous atoms. Higher value = stronger bonding between atoms in the solid.
+
+@continue
+
+atomisation-enthalpies.chem.svg
+
+@continue
+
+Across the 3d series, atomisation enthalpies rise toward the middle, then fall. The peak corresponds to about one unpaired electron per d orbital — maximum interatomic bonding.
+
+@continue
+
+Two elements break the trend. Manganese has an anomalously low value (281 kJ/mol) despite sitting mid-series with d⁵. The half-filled configuration is internally so stable that the d electrons resist bonding with neighbours. Internal stability wins over interatomic bonding.
+
+Zinc has the *lowest* value in the series (126 kJ/mol). With d¹⁰, all d electrons are paired and contribute little to metallic bonding.
+
+@continue
+
+Metals of the 2nd and 3rd d-series have higher atomisation enthalpies than the 1st series — heavier transition metals form more metal-metal bonds.
+
+One practical consequence: metals with very high atomisation enthalpies resist reacting. Separating their atoms costs too much energy — they tend to be noble metals.
+
+
+[DF_T_005] Atomic and Ionic Radii
+
+Zirconium: 160 pm. Hafnium: 159 pm. Nearly identical.
+
+But Hf sits a full period below Zr — an entire extra shell of electrons. How can they be the same size?
+
+The answer builds from something simpler.
+
+@continue
+
+Walk across the 3d series from Sc to Zn. Each step adds one proton and one d electron. More nuclear charge should mean smaller atoms. They do shrink — but only slightly.
+
+Think of shielding like an umbrella. s and p electrons form a solid canopy between the nucleus and the outer electrons. Nuclear pull barely gets through.
+
+@continue
+
+d electrons are different. Their orbitals point in specific directions — like an umbrella full of holes. Nuclear pull leaks through the gaps.
+
+This is `imperfect shielding`. d electrons block *some* nuclear charge, but not enough to cancel each new proton. So **atomic radii** shrink gently — not dramatically — across the series.
+
+@continue
+
+Shrinking radii plus growing atomic mass mean **density** rises steadily from Ti to Cu.
+
+**Ionic radii** (M²⁺ and M³⁺) follow the same gentle decrease from left to right.
+
+@continue
+
+Now zoom out. Compare the three transition series.
+
+4d elements are bigger than 3d. Expected — one more shell, electrons sit farther out.
+
+5d elements should be bigger still.
+
+But they're not. They're almost the *same size* as 4d.
+
+@continue
+
+Between the 4d and 5d series, 14 lanthanoid elements squeeze in. They fill 4f orbitals. And 4f electrons shield even worse than d — the umbrella has even bigger holes.
+
+Fourteen elements. Fourteen extra protons. Almost no shielding to soften the blow.
+
+@continue
+
+The outer electrons get pulled tighter across all 14 lanthanoids. This steady, cumulative shrinkage is `lanthanoid contraction`.
+
+By the time the 5d series begins, **lanthanoid contraction** has shrunk atoms so much that the expected size gain from the extra shell is almost exactly cancelled.
+
+@continue
+
+radii-contraction.chem.svg
+
+@continue
+
+That's the answer. Zr (160 pm) and Hf (159 pm) end up identical — not by coincidence, but because 14 poorly-shielding lanthanoids sat between them and squeezed the size back down.
+
+They occur together in nature and are very difficult to separate.
+
+
+[DF_T_006] Ionisation Enthalpies
+
+Mn²⁺ is d⁵ — five electrons, each alone in a separate d orbital, all spinning the same way. Try to rip one out and you meet fierce resistance. Mn²⁺ has the highest IE₃ in the 3d series.
+
+Zn is d¹⁰4s² — every d orbital full. It has the highest IE₁ of all 3d metals (906 kJ mol⁻¹).
+
+What makes d⁵ and d¹⁰ so hard to break apart?
+
+@continue
+
+Electrons with parallel spins in separate orbitals avoid each other naturally — quantum mechanics keeps them apart. Less repulsion means lower energy — greater stability. This stabilisation is called `exchange energy`.
+
+How much stabilisation? It depends on the number of same-spin pairs. Each pair contributes one unit of exchange energy.
+
+@continue
+
+exchange-energy.chem.svg
+
+@continue
+
+Count the pairs in d⁵: five parallel electrons give ⁵C₂ = 10 exchange pairs. That's the maximum for any d configuration — no arrangement beats it.
+
+Remove one electron to get d⁴. Now ⁴C₂ = 6 pairs. Four pairs lost in one step — a massive stability penalty. That's why d⁵ configurations fiercely resist losing an electron.
+
+@continue
+
+d¹⁰ is similarly stubborn. All orbitals are full, every electron maximally paired. Removing one electron destroys this completeness, so Zn's IE₁ is the highest in the series.
+
+@continue
+
+Now the overall trend. Across the 3d series, **ionisation enthalpy** generally increases left to right. More protons pull harder on the outermost electron.
+
+But the increase is gentle — not steep like in s- and p-blocks. Each added 3d electron partially shields the 4s electron being removed. These effects nearly cancel, so IE₁ climbs slowly.
+
+@continue
+
+IE₂ and IE₃ increase more steeply. After both 4s electrons are gone, ionisation pulls from the dⁿ shell directly.
+
+d electrons shield each other poorly, so each extra proton grips the remaining electrons much harder.
+
+
+[DF_T_007] Oxidation States of Transition Elements
+
+s-block metals show one oxidation state — Na is always +1, Mg always +2. p-block elements vary, but their states differ by 2 (like +3 and +5 in nitrogen).
+
+Transition metals are different. Their **oxidation states** differ by just 1. Iron shows +2 *and* +3. Vanadium shows +2, +3, +4, and +5.
+
+This is **variable oxidation states** — possible because both d and s electrons can participate in bonding.
+
+@continue
+
+oxidation-states-grid.chem.svg
+
+@continue
+
+The maximum oxidation state rises with group number, up to a point. Ti (Group 4) reaches +4. V (Group 5) reaches +5. Cr (Group 6) reaches +6. Mn (Group 7) reaches +7, as in MnO₄⁻.
+
+Then an abrupt drop. After manganese, the maximum stable state falls sharply. Fe rarely exceeds +3. Co and Ni mostly stay at +2 and +3.
+
+@continue
+
+Why? Beyond mid-series, too many d electrons and too few empty d orbitals for bonding. The remaining electrons are held too tightly to lose.
+
+Manganese shows the widest range: +2 through +7. It sits at the sweet spot — enough electrons to lose many, enough empty orbitals to accommodate bonding.
+
+@continue
+
+At the extremes, things simplify. Scandium has only one d electron — it can only reach +3. Zinc has d¹⁰ — all d electrons locked. Stuck at +2.
+
+@continue
+
+In p-block, heavier elements prefer *lower* oxidation states — the inert pair effect. In d-block, the opposite happens.
+
+Mo(VI) and W(VI) are *more* stable than Cr(VI). That's why Cr₂O₇²⁻ is a powerful oxidising agent, while MoO₃ and WO₃ are not.
+
+@continue
+
+With certain special ligands, metals can even reach oxidation state zero. In Ni(CO)₄ and Fe(CO)₅, CO molecules bond so strongly that no electrons need to be lost.
+
+
+[DF_T_008] M²⁺/M Standard Electrode Potentials
+
+Drop most 3d metals into dilute acid and they dissolve — hydrogen gas bubbles off. But copper sits there unchanged. Why?
+
+The `standard electrode potential` E°(M²⁺/M) measures a metal's tendency to lose electrons and form M²⁺ in solution. More negative E° = stronger tendency to oxidise = more reactive metal.
+
+@continue
+
+electrode-potentials-m2.chem.svg
+
+@continue
+
+Across the 3d series, E° generally becomes *less negative* from left to right. Early metals — Ti (−1.63 V), V (−1.18 V) — are strongly reducing. Later metals like Ni (−0.25 V) are less so.
+
+This trend tracks the general increase in IE₁ + IE₂ across the series. Harder to ionise = less tendency to form M²⁺ = less negative E°.
+
+@continue
+
+Copper breaks the pattern entirely. Its E° is *positive* (+0.34 V). A positive E° means the metal *won't* spontaneously give up electrons to H⁺ ions.
+
+So copper can't liberate H₂ from dilute acids. Only oxidising acids — HNO₃ or hot concentrated H₂SO₄ — react with copper, with the acid itself being reduced.
+
+@continue
+
+Titanium and vanadium, despite very negative E° values, are passive in dilute non-oxidising acids at room temperature. A protective oxide layer on their surface slows the reaction.
+
+Three metals — Mn, Ni, and Zn — have E° values more negative than the general trend predicts. The explanation involves a closer look at the energetics of ion formation.
+
+
+[DF_T_009] Why E° Varies: The Thermochemical Cycle
+
+If E° depended only on ionisation enthalpy, it would become smoothly less negative across the series. It doesn't. Mn, Ni, and Zn all deviate. Why?
+
+Because E° depends on *three* energy steps, not one.
+
+@continue
+
+thermochemical-cycle.chem.svg
+
+@continue
+
+Converting solid metal to M²⁺(aq) involves three changes.
+
+First, atomise — break the solid into gaseous atoms. This costs the enthalpy of atomisation (ΔₐH°).
+
+Then ionise — remove two electrons from the gaseous atom. This costs IE₁ + IE₂.
+
+Finally, hydrate — surround M²⁺ with water molecules. Water's oxygen lone pairs grip the bare ion, releasing the `hydration enthalpy` (Δ_hydH°). Smaller ions pack more charge per unit size, so water grips them harder — more energy released.
+
+@continue
+
+E° reflects the net balance. If atomisation + ionisation is large and hydration doesn't compensate, E° is less negative. If hydration is strong or atomisation is cheap, E° shifts more negative.
+
+@continue
+
+Mn is more negative than expected. Its atomisation enthalpy is low (281 kJ/mol) — cheap to free from the solid. And Mn²⁺ has d⁵, extra stable. Both push E° more negative.
+
+Ni is more negative than expected because Ni²⁺ has the *highest* hydration enthalpy among 3d M²⁺ ions. The large energy released during hydration overcompensates for its ionisation cost.
+
+Zn is more negative than expected for two reasons: very low atomisation enthalpy (126 kJ/mol) and the d¹⁰ stability of Zn²⁺.
+
+@continue
+
+No single factor determines E°. It's always the combined effect of all three steps.
+
+
+[DF_T_010] M³⁺/M²⁺ Standard Electrode Potentials
+
+Cr²⁺ and Mn³⁺ both have four d electrons. Same configuration: d⁴. Yet they do opposite things.
+
+@continue
+
+Dissolve a Cr²⁺ salt in dilute acid and the sky-blue solution fizzes — it gives away an electron so eagerly that it rips H⁺ apart, releasing H₂ gas. A powerful **reducing agent**.
+
+2Cr²⁺(aq) + 2H⁺(aq) → 2Cr³⁺(aq) + H₂(g)
+
+@continue
+
+Mn³⁺ does the opposite. It snatches electrons from other species. E° for Mn³⁺/Mn²⁺ is +1.57 V — a powerful **oxidising agent**. Co³⁺ is even stronger at +1.97 V.
+
+Same d⁴ start. One gives electrons away. The other grabs them. Why?
+
+Because what matters is not where they start — it's where they end up.
+
+@continue
+
+d4-to-stable.chem.svg
+
+@continue
+
+Cr²⁺ (d⁴) loses one electron → Cr³⁺ (d³). Three electrons in separate d orbitals, all spinning the same way. Maximum exchange energy — extra stable. Cr²⁺ rushes toward d³ by donating an electron.
+
+Mn³⁺ (d⁴) gains one electron → Mn²⁺ (d⁵). All five d orbitals singly occupied, every spin parallel. Half-filled d subshell — maximum exchange stabilisation. Mn³⁺ grabs an electron to reach d⁵.
+
+@continue
+
+d⁴ is restless. One electron away from stability in *both* directions. Which way it goes depends on which stable target — d³ or d⁵ — belongs to that element.
+
+@continue
+
+Ti²⁺ and V²⁺ are also strong reducers, with E° of −0.37 V and −0.26 V for their M³⁺/M²⁺ couples.
+
+Fe³⁺/Fe²⁺ has E° = +0.77 V — positive but modest. Fe³⁺ is already d⁵, the stable half-filled configuration. No urgent need to grab electrons. A weaker oxidiser than Mn³⁺.
+
+
+[DF_T_011] Stability of Higher Oxidation States
+
+What holds a metal in a high oxidation state? The atoms bonded to it. Fluorine and oxygen are the best at this — but for different reasons.
+
+@continue
+
+Fluorine is the most electronegative element. Metal fluorides have high lattice energies (ionic) or high bond enthalpies (covalent). This energy payoff stabilises the metal in a high oxidation state.
+
+The highest halides in the 3d series are all fluorides: TiX₄ (all halides), VF₅, CrF₆. Beyond Mn, no trihalide exists except FeX₃ and CoF₃.
+
+@continue
+
+Oxygen can form multiple bonds to the metal — fluorine can't. So highest oxides exceed highest fluorides.
+
+Mn forms only MnF₄ as its highest fluoride, but reaches Mn₂O₇ as its highest oxide.
+
+@continue
+
+But stabilising a high OS isn't just about F and O. Sometimes the anion fights back. CuI₂ doesn't exist — Cu²⁺ oxidises I⁻ to I₂ instead:
+
+2Cu²⁺ + 4I⁻ → Cu₂I₂(s) + I₂
+
+@continue
+
+Cu⁺ is unstable in aqueous solution. Look at what happens:
+
+2Cu⁺ → Cu²⁺ + Cu
+
+One Cu⁺ loses an electron (→ Cu²⁺). The other gains one (→ Cu metal). The same starting species is simultaneously oxidised *and* reduced. This is `disproportionation`.
+
+@continue
+
+Cu²⁺ is smaller and more highly charged than Cu⁺. Water molecules bind it far more strongly — the hydration enthalpy released more than compensates for the second ionisation energy.
+
+So in water, Cu²⁺ is the stable form.
+
+
+[DF_T_012] Oxides of Transition Metals
+
+MnO dissolves easily in acid — it's a basic oxide. But Mn₂O₇ is a green oily liquid that reacts violently with water to form an acid. Same metal, wildly different oxides. The pattern tracks oxidation state.
+
+@continue
+
+Low oxidation state → ionic oxide → basic. FeO also dissolves in acids. Few electrons lost, so the metal-oxygen bond stays ionic.
+
+High oxidation state → covalent oxide → acidic. CrO₃ has a low melting point. High metal charge polarises the oxide ion, making the bond covalent.
+
+@continue
+
+oxide-spectrum.chem.svg
+
+@continue
+
+The highest oxide matches the group number up to Mn:
+
+Sc₂O₃ (+3), TiO₂ (+4), V₂O₅ (+5), CrO₃ (+6), Mn₂O₇ (+7)
+
+After that, no oxide above Fe₂O₃ is stable.
+
+@continue
+
+A bare V⁵⁺ ion would be tiny and intensely charged — too aggressive to survive in water. Instead, such metals bond tightly to oxygen, forming `oxocations` like VO₂⁺ (vanadium +5), VO²⁺ (+4), and TiO²⁺ (titanium +4). These metal-oxygen units stay intact in solution.
+
+@continue
+
+oxocations.chem.svg
+
+@continue
+
+Acidic oxides form oxoacids. Mn₂O₇ gives HMnO₄. CrO₃ gives H₂CrO₄ and H₂Cr₂O₇.
+
+Some oxides fall between the extremes. Cr₂O₃ is **amphoteric**. V₂O₅ is also amphoteric, though mainly acidic.
+
+@continue
+
+Vanadium shows a clean progression. V₂O₃ is basic. V₂O₄ is less basic — it gives VO²⁺ in acid.
+
+V₂O₅ is amphoteric: it gives VO₄³⁻ in base and VO₂⁺ in acid.
+
+As oxidation state rises, the oxide stops acting as a base. Eventually it starts accepting oxide ions from bases instead — turning acidic.
+
+
+[DF_T_013] Magnetic Properties
+
+Place a substance between the poles of a magnet.
+
+Some are weakly repelled. All their electrons are paired — no net magnetic field. These are `diamagnetic`.
+
+Some are attracted. They have unpaired electrons. Each unpaired electron acts as a tiny magnet. These are `paramagnetic`.
+
+A few — iron, cobalt, nickel — are attracted so strongly they become permanent magnets. Unpaired electrons on neighbouring atoms align cooperatively. This extreme case is `ferromagnetism`.
+
+@continue
+
+So the question becomes: how many unpaired electrons does an ion have?
+
+For 3d transition metal ions, orbital contributions to magnetism are negligible. Only spin matters. The `spin-only formula` captures this:
+
+μ = √(n(n+2)) BM
+
+where n = number of unpaired electrons and BM = `Bohr magneton` (the unit of magnetic moment).
+
+@continue
+
+Find the ion's dⁿ configuration. Count unpaired electrons. Plug into the formula.
+
+Example: Mn²⁺ has d⁵. Five unpaired electrons (one in each d orbital). μ = √(5 × 7) = √35 = 5.92 BM.
+
+Example: Cu²⁺ has d⁹. One unpaired electron. μ = √(1 × 3) = √3 = 1.73 BM.
+
+@continue
+
+The critical step: always form the *ion* configuration first. Remove ns electrons before (n−1)d. Then count unpaired electrons in the dⁿ configuration.
+
+d⁰ and d¹⁰ ions (like Sc³⁺ and Zn²⁺) have zero unpaired electrons — they're diamagnetic.
+
+@continue
+
+magnetic-d-orbital-boxes.chem.svg
+
+
+[DF_T_014] Colour of Transition Metal Ions
+
+Copper sulfate is blue. Potassium permanganate is purple. Iron(III) chloride is yellow. Why are transition metal compounds so colourful?
+
+In a compound, surrounding ions or molecules split the d orbitals into groups of different energy.
+
+When light hits the ion, an electron in a lower-energy d orbital absorbs a photon and jumps to a higher-energy one.
+
+The frequency absorbed typically falls in the visible region. This is a `d-d transition`.
+
+@continue
+
+d-d-transition.chem.svg
+
+@continue
+
+The colour you *see* is the `complementary colour` of the light absorbed — the colour on the opposite side of the spectrum.
+
+@continue
+
+complementary-colours.chem.svg
+
+@continue
+
+d⁰ ions (Sc³⁺, Ti⁴⁺) are colourless — no d electrons to excite. d¹⁰ ions (Zn²⁺, Cu⁺) are also colourless — no empty d orbital to receive the electron.
+
+@continue
+
+In water, each 3d ion has a characteristic colour:
+
+| Ion | Config | Colour |
+|---|---|---|
+| Ti³⁺ | d¹ | Purple |
+| V³⁺ | d² | Green |
+| Cr³⁺ | d³ | Violet |
+| Mn²⁺ | d⁵ | Pink |
+| Fe³⁺ | d⁵ | Yellow |
+| Fe²⁺ | d⁶ | Green |
+| Co²⁺ | d⁷ | Pink |
+| Ni²⁺ | d⁸ | Green |
+| Cu²⁺ | d⁹ | Blue |
+
+@continue
+
+The exact colour depends on what surrounds the metal ion. In aqueous solution, water molecules determine the splitting. Change the surroundings, and the colour changes.
+
+MnO₄⁻ is an exception — Mn is +7 (d⁰) and the ion is diamagnetic. Its deep purple colour arises from a different electronic transition, not d-d.
+
+
+[DF_T_015] Formation of Complex Compounds
+
+Dissolve CuSO₄ in water — you get a pale blue solution. Now add ammonia. The colour shifts to a striking deep blue. Something new formed.
+
+What happened? Each Cu²⁺ ion grabbed four NH₃ molecules around itself, creating [Cu(NH₃)₄]²⁺. This is a `complex compound` — a metal ion bonded to a cluster of molecules or ions arranged around it.
+
+@continue
+
+Transition metals do this far more than other elements. Three features make them ideal.
+
+Their ions are small. Cu²⁺, Fe³⁺, Co³⁺ — all pack high charge into a tiny volume. That concentrated positive charge pulls surrounding molecules in close.
+
+They carry high ionic charges. M²⁺ and M³⁺ states are routine for d-block elements. Higher charge means stronger grip on nearby molecules.
+
+@continue
+
+They have empty d orbitals. These vacant orbitals accept electron pairs from incoming groups like NH₃ or CN⁻, forming real bonds — not just electrostatic attraction.
+
+Now compare Na⁺. It's large, carries only +1 charge, and has no empty d orbitals. It simply can't hold molecules around itself the way Cu²⁺ does.
+
+@continue
+
+That's why **complex compounds** like [Fe(CN)₆]³⁻, [Fe(CN)₆]⁴⁻, and [PtCl₄]²⁻ are a hallmark of transition metal chemistry. Small size, high charge, empty d orbitals — all three working together.
+
+
+[DF_T_016] Catalytic Properties
+
+Mix iodide and persulfate in a beaker — they barely react. Add a trace of FeCl₃ and iodine suddenly appears. Iron didn't get consumed. It just made the reaction possible.
+
+Transition metals and their compounds are among the most widely used **catalysts**. Two features make them effective: variable oxidation states and the ability to form bonds with reactants.
+
+@continue
+
+Variable oxidation states let the metal shuttle electrons. It accepts electrons in one step, donates them in the next, and is regenerated at the end.
+
+Example: Fe³⁺ catalyses the reaction between iodide and persulfate:
+
+2I⁻ + S₂O₈²⁻ → I₂ + 2SO₄²⁻
+
+@continue
+
+Neither I⁻ nor S₂O₈²⁻ reacts fast directly. Fe³⁺ bridges them:
+
+2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂
+2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻
+
+Iron cycles between +3 and +2. Each individual step is faster than the direct reaction.
+
+@continue
+
+fe-catalytic-cycle.chem.svg
+
+@continue
+
+In surface catalysis, reactant molecules bond to the metal surface using the metal's 3d and 4s electrons. This concentrates reactants and weakens their bonds — lowering activation energy.
+
+Important industrial catalysts include V₂O₅ in the **Contact Process**, finely divided iron in **Haber's Process**, and nickel in catalytic hydrogenation.
+
+@continue
+
+PdCl₂ catalyses the oxidation of ethyne to ethanal — the `Wacker process`.
+
+TiCl₄ with Al(CH₃)₃ forms the `Ziegler catalyst` for making polyethylene. Nickel complexes catalyse polymerisation of alkynes.
+
+Ni(CO)₄ and Fe(CO)₅ show metals at oxidation state zero — CO ligands stabilise this unusually low state through strong bonding.
+
+
+[DF_T_017] Interstitial Compounds
+
+Titanium carbide melts at over 3000°C — far higher than pure titanium. Some borides approach diamond in hardness. These aren't ordinary compounds.
+
+Small atoms — H, C, N — wedge into gaps in the crystal lattice of transition metals, forming `interstitial compounds`. The small atoms add extra bonding without disrupting the metallic structure.
+
+@continue
+
+interstitial-lattice.webp
+
+@continue
+
+Their formulas are odd and often non-stoichiometric: TiC, Mn₄N, Fe₃H, VH₀.₅₆, TiH₁.₇. No normal oxidation state explains these ratios.
+
+The wedged-in atoms make the lattice more rigid — harder, higher melting point — while metallic conductivity is retained. The resulting compounds are also chemically inert.
+
+
+[DF_T_018] Alloys and Applications of Transition Metals
+
+Pure iron is soft and rusts easily. Mixing it with other metals fixes both problems — that's the power of alloys.
+
+An `alloy` is a homogeneous solid solution of metals. For atoms to mix smoothly, their metallic radii must be within about 15% of each other.
+
+Transition metals have similar radii — that's why they form alloys readily. The alloys are typically hard with high melting points.
+
+@continue
+
+The most important are ferrous alloys. Adding chromium, vanadium, tungsten, molybdenum, or manganese to iron produces various **steels**. **Stainless steel** contains chromium and resists corrosion.
+
+Non-ferrous alloys include **brass** (copper-zinc) and **bronze** (copper-tin).
+
+@continue
+
+Other applications:
+- TiO₂ in the pigment industry
+- MnO₂ in dry battery cells
+- Zn and Ni/Cd in batteries
+- Group 11 (Cu, Ag, Au) as coinage metals
+- AgBr in photography
+
+
+[DF_T_019] Potassium Dichromate: Preparation and Structure
+
+Add a drop of acid to a yellow chromate solution. It turns orange. Add base, and orange shifts back to yellow. Same chromium, same +6 state — just a rearrangement of ions driven by pH.
+
+The yellow form is the `chromate` ion (CrO₄²⁻). The orange form is the `dichromate` ion (Cr₂O₇²⁻). But where does the chromium come from?
+
+@continue
+
+It starts locked inside **chromite ore** (FeCr₂O₄) — a dark mineral where chromium sits as Cr(III). Getting from rock to pure reagent takes three steps, each solving a different chemical problem.
+
+First problem: Cr(III) in the ore can't oxidise anything. You need Cr(VI). Fuse the ore with Na₂CO₃ in air. Oxygen oxidises Cr(III) to Cr(VI), forming yellow sodium **chromate**:
+
+4FeCr₂O₄ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂
+
+@continue
+
+The yellow Na₂CrO₄ dissolves in water. Filter off the solid Fe₂O₃.
+
+Second problem: you want **dichromate**, not chromate. Acidify with H₂SO₄. H⁺ pushes two chromate units to join, releasing water. The solution turns orange:
+
+2Na₂CrO₄ + 2H⁺ → Na₂Cr₂O₇ + 2Na⁺ + H₂O
+
+@continue
+
+Third problem: you want the potassium salt, not sodium. Treat with KCl. K₂Cr₂O₇ is less soluble than Na₂Cr₂O₇, so potassium **dichromate** crystallises out as orange crystals:
+
+Na₂Cr₂O₇ + 2KCl → K₂Cr₂O₇ + 2NaCl
+
+@continue
+
+Now back to that colour trick. **Chromate** and **dichromate** interconvert depending on pH:
+
+2CrO₄²⁻ + 2H⁺ ⇌ Cr₂O₇²⁻ + H₂O
+
+Acid favours orange Cr₂O₇²⁻. Base favours yellow CrO₄²⁻. Chromium stays +6 in both — pH changes the shape of the ion, not the oxidation state.
+
+@continue
+
+CrO₄²⁻ is **tetrahedral** — one Cr at the centre, four oxygens. Cr₂O₇²⁻ is two such tetrahedra sharing one corner oxygen, with a Cr–O–Cr angle of 126°.
+
+dichromate-structure.chem.svg
+
+
+[DF_T_020] Potassium Dichromate as Oxidising Agent
+
+K₂Cr₂O₇ in acid produces a dramatic colour change — orange to green. That single visual tells the whole story.
+
+Cr(VI) in dichromate is intensely electron-hungry. Each chromium atom grabs three electrons, dropping to Cr(III). Two chromium atoms per ion means six electrons seized in total.
+
+Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O (E° = +1.33 V)
+
+@continue
+
+That +1.33 V is enormous — one of the strongest oxidising agents among 3d-series compounds. It rips electrons from almost anything in its path.
+
+Pour acidified dichromate over iron(II) salts and the pale green Fe²⁺ ions lose an electron each, becoming Fe³⁺. Six Fe²⁺ ions feed the six electrons one dichromate ion demands.
+
+Cr₂O₇²⁻ + 14H⁺ + 6Fe²⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O
+
+@continue
+
+Iron isn't the only victim. In acid, dichromate oxidises several substrates:
+
+Cr₂O₇²⁻ + 14H⁺ + 6I⁻ → 2Cr³⁺ + 3I₂ + 7H₂O
+
+Cr₂O₇²⁻ + 8H⁺ + 3H₂S → 2Cr³⁺ + 3S + 7H₂O
+
+Cr₂O₇²⁻ + 14H⁺ + 3Sn²⁺ → 2Cr³⁺ + 3Sn⁴⁺ + 7H₂O
+
+Every time: Cr(VI) → Cr(III), orange → green.
+
+@continue
+
+This power makes K₂Cr₂O₇ valuable in quantitative analysis. It is a `primary standard` — you can weigh it precisely, dissolve it, and know the exact concentration of your solution. No further standardisation needed.
+
+K₂Cr₂O₇ also finds use in the leather industry and in preparing azo compounds.
+
+
+[DF_T_021] Potassium Permanganate: Preparation and Structure
+
+The starting material is plain black MnO₂ — Mn in +4. The final product is deep purple KMnO₄ — Mn pushed all the way up to +7. Getting there takes two stages.
+
+@continue
+
+Stage 1: Fuse MnO₂ with KOH and an oxidising agent like KNO₃ in air:
+
+2MnO₂ + 4KOH + O₂ → 2K₂MnO₄ + 2H₂O
+
+The product is dark green K₂MnO₄ (**manganate**) — Mn is +6.
+
+@continue
+
+Stage 2: Convert manganate to **permanganate** by disproportionation in neutral or acidic solution:
+
+3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O
+
+Three Mn(VI) ions started identical. Two got oxidised to Mn(VII) — permanganate. One got reduced to Mn(IV) — MnO₂. Same species acts as both oxidant and reductant. This is disproportionation.
+
+@continue
+
+Commercially, electrolytic oxidation of manganate in alkaline solution is used instead.
+
+Lab method: peroxodisulfate (S₂O₈²⁻), a powerful oxidiser, pushes Mn²⁺ all the way up to MnO₄⁻:
+
+2Mn²⁺ + 5S₂O₈²⁻ + 8H₂O → 2MnO₄⁻ + 10SO₄²⁻ + 16H⁺
+
+@continue
+
+KMnO₄ forms dark purple crystals, isostructural with KClO₄. Solubility: 6.4 g per 100 g water at 293 K. Decomposes at 513 K:
+
+2KMnO₄ → K₂MnO₄ + MnO₂ + O₂
+
+Both MnO₄²⁻ and MnO₄⁻ are tetrahedral. Mn-O bonds involve π bonding (p orbitals of O with d orbitals of Mn).
+
+@continue
+
+K₂MnO₄ is paramagnetic — Mn⁶⁺ has one unpaired electron (d¹). KMnO₄ is diamagnetic — Mn⁷⁺ has d⁰.
+
+
+[DF_T_022] Potassium Permanganate as Oxidising Agent
+
+Add KMnO₄ to acid and the deep purple fades to colourless. Add it to alkali and the purple turns green. Same reagent, same oxidising power — but the product depends on pH.
+
+@continue
+
+In acidic solution (most common):
+
+MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O (E° = 1.52 V)
+
+Purple Mn(VII) drops to colourless Mn²⁺. Five electrons gained.
+
+@continue
+
+In neutral or faintly alkaline solution:
+
+MnO₄⁻ + 4H⁺ + 3e⁻ → MnO₂ + 2H₂O (E° = 1.69 V)
+
+Brown MnO₂ precipitate. Three electrons gained.
+
+In strongly alkaline solution:
+
+MnO₄⁻ + e⁻ → MnO₄²⁻ (E° = 0.56 V)
+
+Purple permanganate becomes green manganate. One electron gained.
+
+@continue
+
+kmno4-ph-products.chem.svg
+
+@continue
+
+Key acidic reactions (all use MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O as the reduction half):
+
+2MnO₄⁻ + 16H⁺ + 10Fe²⁺ → 2Mn²⁺ + 10Fe³⁺ + 8H₂O
+
+2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O (at 333 K)
+
+2MnO₄⁻ + 16H⁺ + 10I⁻ → 2Mn²⁺ + 5I₂ + 8H₂O
+
+@continue
+
+2MnO₄⁻ + 6H⁺ + 5H₂S → 2Mn²⁺ + 5S + 8H₂O
+
+2MnO₄⁻ + 6H⁺ + 5SO₃²⁻ → 2Mn²⁺ + 5SO₄²⁻ + 3H₂O
+
+2MnO₄⁻ + 6H⁺ + 5NO₂⁻ → 2Mn²⁺ + 5NO₃⁻ + 3H₂O
+
+In neutral medium: I⁻ → IO₃⁻.
+
+@continue
+
+KMnO₄ is unsatisfactory with HCl — it oxidises Cl⁻ too, complicating the titration.
+
+KMnO₄ is a `self-indicator`. The endpoint is when the first drop of permanganate gives a persistent pink colour — all reductant consumed.
+
+Uses: bleaching of wool, cotton, silk; decolourisation of oils; oxidant in organic synthesis.
+
+
+[DF_T_023] Lanthanoids: Electronic Configuration and Oxidation States
+
+Manganese shows seven oxidation states. The **lanthanoids** — 14 elements from cerium (Ce, Z=58) through lutetium (Lu, Z=71), plus lanthanum (La, Z=57) — almost all show just one: +3. Why so monotonous?
+
+@continue
+
+First, their configurations. All have 6s² in common. General symbol: Ln. The variable part is the 4f subshell, filling from 4f⁰ (La) to 4f¹⁴ (Lu).
+
+One exception: gadolinium (Gd) has 4f⁷5d¹6s² instead of 4f⁸6s². The half-filled 4f⁷ is extra stable — one electron sits in 5d instead.
+
+@continue
+
+Removing two 6s electrons and one 4f (or 5d) electron is energetically favourable — that gives +3. Going beyond +3 is very costly. 4f electrons are buried deep inside the atom, shielded by 5s and 5p. Pulling them out takes too much energy. All Ln³⁺ ions have 4fⁿ configurations.
+
+@continue
+
+A few ions break the +3 rule. Each exception is chasing f⁰, f⁷, or f¹⁴ — the same magic of empty, half-filled, or fully filled subshells:
+
+f-stability-pattern.chem.svg
+
+@continue
+
+**Ce⁴⁺** has 4f⁰ — a noble gas configuration. Strong oxidant (E° = +1.74 V for Ce⁴⁺/Ce³⁺). Good analytical reagent — can oxidise water, but the reaction is very slow.
+
+**Eu²⁺** has 4f⁷ — half-filled. Strong reductant, readily converting to +3.
+
+**Yb²⁺** has 4f¹⁴ — fully filled. Also a reductant.
+
+@continue
+
+**Tb⁴⁺** has 4f⁷ — half-filled. An oxidant.
+
+Pr, Nd, Tb, Dy show +4 only in oxides (MO₂), not in solution. Sm²⁺ behaves like Eu²⁺.
+
+
+[DF_T_024] Lanthanoid Contraction
+
+Walk from La (Z=57) to Lu (Z=71). Each step adds one proton and one 4f electron. You'd expect sizes to stay roughly constant — each new electron should shield the new proton.
+
+But 4f electrons are terrible shields. Their orbitals have diffuse, complex shapes. An electron in one 4f orbital barely screens nuclear charge from another.
+
+@continue
+
+So effective nuclear charge on outer electrons climbs steadily. The electron cloud is pulled inward, and the atom shrinks.
+
+Atomic and ionic radii decrease from La to Lu — a steady cumulative shrinkage called **lanthanoid contraction**.
+
+@continue
+
+ln-contraction-radii.chem.svg
+
+@continue
+
+The shrinkage is slight per element. But across 14 elements, the cumulative effect is substantial.
+
+2nd and 3rd d-series elements have nearly identical radii. Zr (160 pm) ≈ Hf (159 pm). They show similar properties and are hard to separate.
+
+@continue
+
+Basicity of Ln(OH)₃ decreases from La to Lu. Smaller Ln³⁺ ions have higher charge density — they grip OH⁻ more tightly, making the hydroxide less willing to release OH⁻.
+
+La(OH)₃ is the most basic, Lu(OH)₃ the least.
+
+
+[DF_T_025] Properties and Reactivity of Lanthanoids
+
+All lanthanoids are silvery white, soft metals that tarnish rapidly in air. They conduct heat and electricity well. Melting points range from 1000 to 1200 K, though samarium melts much higher at 1623 K.
+
+Hardness increases with atomic number — samarium is steel-hard. Lanthanoid contraction shrinks atoms from La to Lu, pulling them closer and strengthening metallic bonding. Density and other properties change smoothly except for Eu and Yb (and occasionally Sm and Tm).
+
+@continue
+
+Earlier members like La and Ce are quite reactive — similar to calcium. Later lanthanoids are calmer, behaving more like aluminium. Smaller atoms grip their electrons more tightly.
+
+E° values for Ln³⁺/Ln lie between −2.2 and −2.4 V — strongly negative, so all lanthanoids are powerful reducing agents. Eu is slightly less negative (−2.0 V).
+
+@continue
+
+They liberate H₂ from dilute acids. On gentle heating they combine with H₂ to form hydrides. They burn in halogens to give halides. Heated with carbon, they form carbides (Ln₃C, Ln₂C₃, LnC₂).
+
+Their oxides (M₂O₃) and hydroxides (M(OH)₃) are strongly basic, like alkaline earth compounds. The hydroxides are definite compounds, not just hydrated oxides.
+
+
+[DF_T_027] Colour, Magnetism, and Uses of Lanthanoids
+
+Many Ln³⁺ ions are coloured — both in solids and in solution — because partially filled 4f orbitals allow f–f transitions that absorb visible light.
+
+La³⁺ (f⁰) and Lu³⁺ (f¹⁴) are colourless — no f–f transition is possible. The absorption bands are narrow, because excitation stays within the shielded f level.
+
+@continue
+
+Unpaired 4f electrons make most Ln³⁺ ions **paramagnetic**. The exceptions: f⁰ ions (La³⁺, Ce⁴⁺) and f¹⁴ ions (Yb²⁺, Lu³⁺), which have no unpaired electrons.
+
+IE₁ is about 600 kJ mol⁻¹ and IE₂ about 1200 kJ mol⁻¹ — comparable to calcium.
+
+IE₃ drops abnormally for La, Gd, and Lu — removing the third electron produces the especially stable f⁰, f⁷, or f¹⁴ arrangements.
+
+@continue
+
+The best single use of lanthanoids is in alloy steels for plates and pipes.
+
+`Mischmetall` — about 95% lanthanoid metals, ~5% iron, with traces of S, C, Ca, and Al — is used in lighter flints and Mg-based alloys for bullets and shells.
+
+Mixed lanthanoid oxides serve as catalysts in petroleum cracking. Individual lanthanoid oxides work as phosphors in television screens and similar fluorescing surfaces.
+
+
+[DF_T_026] Actinoids and Comparison with Lanthanoids
+
+The **actinoids** — thorium (Th, Z=90) through lawrencium (Lr, Z=103) — mirror the lanthanoids one row below. Actinium (Ac, Z=89) is usually included.
+
+But they're not a copy. Lanthanoids are stuck at +3. Early actinoids show +3, +4, +5, +6, even +7. Why the difference?
+
+@continue
+
+4f orbitals in lanthanoids are buried deep — shielded, unavailable. 5f orbitals in actinoids extend further outward and participate more in bonding.
+
+5f, 6d, and 7s energy levels are comparable — electrons from all three participate. Early actinoids show the highest variation: U up to +6, Np up to +7.
+
+@continue
+
++3 is common for all actinoids. But early actinoids (Th through Am) also show +4, +5, +6, +7.
+
+`Actinoid contraction` occurs — similar to lanthanoid contraction but *greater*, because 5f electrons shield even more poorly than 4f.
+
+@continue
+
+All actinoids are radioactive. Later members have very short half-lives.
+
+Highly reactive when finely divided. Boiling water → oxide + hydride. HCl attacks all. Most resist HNO₃ (protective oxide layer). Alkalies have no action.
+
+@continue
+
+IE of early actinoids < early lanthanoids. 5f electrons are more effectively shielded from nuclear charge → easier to remove.
+
+Behaviour similar to lanthanoids appears only from the second half of the actinoid series. Early actinoids have richer, more varied chemistry.

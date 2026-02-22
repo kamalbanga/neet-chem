@@ -1,0 +1,1646 @@
+[ATOM_T_001] Big Picture of Atomic Structure
+
+For a long time, atoms were considered the smallest unit of matter — indivisible, with no internal parts. That turned out to be wrong.
+
+Atoms have structure inside. At the center sits a tiny, dense core called the **nucleus**. It carries all the positive charge and nearly all the mass.
+
+Around it, at enormous distances, sit **electrons** — tiny, negatively charged particles.
+
+How enormous? If the nucleus were a cricket ball, the atom's edge would be about 5 km away. Everything in between is empty space.
+
+@continue
+
+atom-scale.webp
+
+@continue
+
+The nucleus is made of two particles. **Protons** carry positive charge. **Neutrons** carry no charge. Together they account for the atom's mass.
+
+So the basic picture is simple: a heavy, positive center with light, negative electrons far away from it.
+
+@continue
+
+But here's the puzzle. We know *where* the nucleus is — fixed at the center. We don't know where the electrons are. They're too light, too fast, and too strange to pin down.
+
+Are they orbiting like planets? Hovering in fixed shells? Spread out like clouds? That question — *how do electrons exist around the nucleus?* — is what this entire chapter is about.
+
+Every model you'll encounter is an attempt to answer it. Some get close. Some break. The final answer will surprise you: we can never know exactly where an electron is. Only where it's *likely* to be.
+
+
+[ATOM_T_002] Sub-Atomic Particles
+
+Dalton called atoms indivisible. Experiments with electricity proved him wrong.
+
+When high voltage is applied across a gas at very low pressure inside a glass tube, a stream of particles flows from the cathode (negative electrode) to the anode. These are **cathode rays**.
+
+Cathode rays behave like negatively charged particles — they deflect toward positive plates in electric fields.
+
+The key finding: cathode ray properties don't depend on the gas or electrode material. The same particle shows up every time. This is the **electron**.
+
+@continue
+
+J.J. Thomson measured the electron's charge-to-mass ratio: e/mₑ = 1.76 × 10¹¹ C/kg.
+
+Millikan's oil drop experiment then pinned down the charge: −1.6 × 10⁻¹⁹ C. Dividing charge by the ratio gives mass: 9.1 × 10⁻³¹ kg.
+
+@continue
+
+Electrons are negative. But atoms are neutral. So something positive must exist inside.
+
+Modified cathode ray tubes revealed **canal rays** — streams of positive particles moving toward the cathode. Unlike electrons, canal ray properties *do* depend on the gas used. They're just gaseous atoms stripped of electrons.
+
+The lightest positive particle came from hydrogen. It was named the **proton** — charge +1.6 × 10⁻¹⁹ C, mass about 1836 times the electron's.
+
+@continue
+
+But protons alone couldn't explain atomic masses. Helium has 2 protons but a mass of 4 units. Something neutral had to make up the difference.
+
+In 1932, Chadwick bombarded beryllium with α-particles and discovered the **neutron** — no charge, mass slightly more than a proton's.
+
+Three particles, three roles: electrons carry negative charge, protons carry positive charge, neutrons add mass without charge.
+
+
+[ATOM_T_003] Thomson's Model
+
+Atoms have electrons (negative) and must have positive charge to stay neutral. But how are they arranged?
+
+J.J. Thomson proposed the first atomic model in 1898. He imagined the atom as a sphere of *uniform* positive charge, with electrons embedded in it — like seeds in a watermelon.
+
+This is the **Thomson model**, also called the plum pudding model.
+
+@continue
+
+The model explained one thing well: overall neutrality. Positive charge spread through the sphere balances the negative electrons.
+
+It also assumed mass is evenly distributed across the atom. No dense core, no empty space — just a uniform, solid ball.
+
+@continue
+
+This picture seemed reasonable. But it made a testable prediction: fire heavy particles at atoms, and they should pass through with only slight deflections.
+
+No part of this soft, spread-out atom could push back hard.
+
+
+[ATOM_T_004] Rutherford's Experiment
+
+Thomson's model pictures the atom as a soft, spread-out ball of positive charge. If true, firing heavy positive particles at atoms should be like shooting bullets through fog — everything passes straight through.
+
+@continue
+
+thomson-expected.webp
+
+@continue
+
+Rutherford tested exactly this. He fired α-particles (helium nuclei, charge +2, relatively heavy) at a thin gold foil and tracked where they landed.
+
+Most α-particles did pass straight through. No surprise there. But a small fraction deflected at small angles. And roughly 1 in 20,000 *bounced nearly straight back*.
+
+@continue
+
+rutherford-result.webp
+
+@continue
+
+That last result was the shock. A spread-out positive charge could never repel a heavy, fast α-particle so violently. Something small, dense, and intensely positive had to be hiding inside the atom.
+
+This is the **α-particle scattering** experiment, and it destroyed Thomson's model.
+
+@continue
+
+Rutherford's conclusions: most of the atom is empty space — that's why most particles sail through. All the positive charge and nearly all the mass sit in a tiny core: the **nucleus**.
+
+Electrons orbit this nucleus, held by electrostatic attraction.
+
+@continue
+
+How tiny is the nucleus? The atom's radius is about 10⁻¹⁰ m. The nucleus is about 10⁻¹⁵ m — a hundred thousand times smaller.
+
+If the nucleus were a cricket ball, the atom would stretch about 5 km around it.
+
+Almost all of the atom is just empty space with electrons somewhere in it.
+
+@continue
+
+rutherford-model.webp
+
+
+[ATOM_T_005] Atomic Number and Mass Number
+
+What decides whether an atom is gold or lead? Just one number — the proton count in its nucleus.
+
+Hydrogen has 1 proton. Sodium has 11. Carbon has 6. Change even one proton, and the atom becomes a different element entirely. This count is the **atomic number (Z)**.
+
+In a neutral atom, electrons equal Z. So Z fixes both nuclear identity and electron count.
+
+@continue
+
+The nucleus also holds neutrons. Protons and neutrons together are called **nucleons**. Their total is the **mass number (A)**.
+
+$$A = Z + \text{number of neutrons}$$
+
+So neutrons = A − Z.
+
+@continue
+
+Carbon-12 has Z = 6 and A = 12, giving 6 neutrons. Carbon-14 has Z = 6 but A = 14, so it has 8 neutrons. Same element, different mass.
+
+The notation puts both numbers on the left of the element symbol:
+
+$${}^{A}_{Z}\text{X}$$
+
+Mass number (A) as superscript, atomic number (Z) as subscript.
+
+Z is the atom's identity. A just tells you total nuclear particles.
+
+
+[ATOM_T_006] Isobars and Isotopes
+
+What makes carbon *carbon*? Six protons. Every carbon atom has exactly 6 protons — that's what Z = 6 means.
+
+The neutron count can vary. ¹²C has 6 neutrons. ¹³C has 7. ¹⁴C has 8. All three are carbon — same Z, different mass numbers.
+
+Atoms of the same element with different mass numbers are **isotopes**.
+
+@continue
+
+Hydrogen has three: **protium** (¹₁H, no neutrons), **deuterium** (²₁D, one neutron), **tritium** (³₁T, two neutrons). Chlorine has two: ³⁵Cl and ³⁷Cl.
+
+Do isotopes behave differently? No. ¹²C and ¹⁴C both form CO₂, both make C–H bonds. Chemistry runs on electrons. Electron count follows proton count. Neutrons barely affect bonding.
+
+All isotopes of an element show the same chemical behaviour.
+
+@continue
+
+Now flip it. ¹⁴C has 6 protons and 8 neutrons. ¹⁴N has 7 protons and 7 neutrons. Different elements — but both have A = 14.
+
+Atoms with the same mass number but different atomic numbers are **isobars**. Same total nucleons, completely different chemistry.
+
+@continue
+
+Another isobar set: ⁴⁰Ar (Z = 18), ⁴⁰K (Z = 19), ⁴⁰Ca (Z = 20). Three neighbouring elements, all with A = 40.
+
+Isotopes: same element, different masses (same Z, different A). Isobars: different elements, same mass (different Z, same A).
+
+
+[ATOM_T_007] Electromagnetic Radiation @SOLVED
+
+The Sun is 150 million km away. Between you and it — mostly empty space. No air, no material. Yet you feel its warmth on your skin.
+
+Sound can't cross a vacuum. So what carries that energy?
+
+@continue
+
+Oscillating electric and magnetic fields, traveling together as a wave. They need no medium. This is **electromagnetic radiation**, and it moves through vacuum at a fixed speed: c = 3.0 × 10⁸ m/s.
+
+Radio waves, visible light, X-rays — all travel at this exact speed. If they're all the same speed, what makes them different?
+
+@continue
+
+wave-comparison.chem.svg
+
+@continue
+
+Just how stretched out the wave is. The distance from one crest to the next is the **wavelength (λ)**.
+
+The number of crests passing a point each second is the **frequency (ν)**, measured in hertz (Hz). The diagram shows it: same speed, but the stretched wave sends fewer crests per second.
+
+@continue
+
+Speed ties them together:
+
+$$c = \nu\lambda$$
+
+Long wavelength → fewer crests per second → low frequency. Short wavelength → crests rush past → high frequency. The product always equals c.
+
+@continue
+
+The range of electromagnetic radiation is enormous. Longest wavelengths: radio waves — metres long. Shortest: gamma rays — smaller than atoms. In between: microwaves, infrared, visible light, ultraviolet, X-rays. Same type of wave, vastly different frequencies.
+
+This full range is the **electromagnetic spectrum**.
+
+@continue
+
+em-spectrum.chem.svg
+
+@continue
+
+Visible light is a tiny slice: roughly 4 × 10¹⁴ Hz (red) to 7.5 × 10¹⁴ Hz (violet). Our eyes detect nothing outside this narrow band.
+
+@continue
+
+One more quantity. **Wavenumber** (ν̄) counts how many wavelengths fit per unit length: ν̄ = 1/λ. Unit: cm⁻¹.
+
+
+[ATOM_T_008] Planck's Quantum Theory
+
+Heat a metal rod. It first glows red, then orange, then white as temperature rises. Hotter objects shift toward shorter wavelengths. Every hot object does this — emitting radiation across a range of wavelengths.
+
+Now imagine a perfect object that absorbs and emits all frequencies equally. Physicists call this a **black body**. Its **black body radiation** depends only on temperature.
+
+Simple setup — but explaining the exact pattern of intensity vs. wavelength turned into a crisis.
+
+@continue
+
+Classical physics treated energy like a ramp. A vibrating atom could emit *any* amount of energy — 1.0, 1.7, 2.33, any value at all.
+
+With this assumption, the calculation predicted that hot objects should pour out *infinite* energy at short wavelengths. Every warm teacup should blast out lethal ultraviolet. Obviously absurd — but the math insisted. The theory broke.
+
+@continue
+
+Max Planck found the fix in 1900. Atoms don't emit energy smoothly like a ramp. They emit it in fixed packets — like a staircase.
+
+You can stand on step 1 or step 2, never between. Energy works the same way: it jumps in whole steps, never slides.
+
+@continue
+
+ramp-vs-stairs.chem.svg
+
+@continue
+
+Each packet is called a **quantum**. This idea — energy restricted to fixed amounts — is called `quantization`.
+
+The energy of one quantum depends on frequency:
+
+$$E = h\nu$$
+
+Here h is **Planck's constant (h)** = 6.626 × 10⁻³⁴ J·s. Higher frequency means a bigger quantum — violet light comes in bigger packets than red light. Gamma rays carry huge quanta. Radio waves carry tiny ones.
+
+h is an incredibly small number. A single quantum of visible light carries about 10⁻¹⁹ J. A light bulb emits trillions of quanta every second — so many steps that the staircase looks like a ramp. That's why we never notice quantization in everyday life.
+
+@continue
+
+A vibrating atom can only have energies 0, hν, 2hν, 3hν... nhν. Nothing in between.
+
+@continue
+
+Why does this fix the crisis? E = hν means high-frequency radiation needs a huge quantum per emission. Most atoms don't have that much energy to spare. So high-frequency emissions become naturally rare.
+
+Classical physics had no such limit — any atom could toss any tiny amount into any frequency, piling up to infinity. Quantization blocks that. The ramp was wrong. Nature uses stairs.
+
+
+[ATOM_T_009] Photoelectric Effect
+
+Shine a bright red lamp at a piece of potassium metal. Red light has a frequency around 4.5 × 10¹⁴ Hz.
+
+If light is a wave, it should spread energy across the surface. Electrons absorb a little each moment. Given enough time, each one should collect enough to escape.
+
+You wait. Hours pass. Not one electron leaves.
+
+@continue
+
+Now switch to a dim yellow lamp — frequency about 5.2 × 10¹⁴ Hz. Much less total energy hitting the surface, because the lamp is dim.
+
+Electrons fly out instantly. No delay.
+
+@continue
+
+This is the **photoelectric effect**: light ejects electrons from a metal surface.
+
+But the result doesn't add up. The bright red lamp poured more energy onto the metal every second. It failed completely. The dim yellow lamp delivered less energy per second. It worked immediately.
+
+Brightness doesn't matter. Only frequency does.
+
+@continue
+
+Why should brightness fail? If light is a wave, it spreads energy evenly over the surface. Each electron absorbs a small share every moment — like filling a bucket drop by drop.
+
+Any color should eventually fill the bucket. Dimmer light would just take longer.
+
+But red light never ejects electrons from potassium — no matter how bright, no matter how long. The bucket never fills. The wave picture is wrong.
+
+@continue
+
+Planck showed that atoms emit energy in fixed packets of size hν. But he still thought of light as a continuous wave, spreading smoothly through space.
+
+Einstein went further. What if light *itself* travels as packets? Not a smooth wave, but a stream of tiny energy bullets. Each one carries exactly one quantum of energy: hν.
+
+He called each packet a **photon**.
+
+@continue
+
+A photon hits the metal surface and collides with one electron. It delivers all its energy — hν — in a single instant. No spreading, no sharing, no buildup.
+
+If that one photon carries enough energy, the electron escapes. If not, the energy scatters as heat. A second photon can't help — it hits a *different* electron and faces the same test alone.
+
+Each collision is independent. One photon, one electron, one verdict.
+
+@continue
+
+Back to potassium. Its surface electrons need a minimum energy to break free. That minimum corresponds to a cutoff frequency: 5.0 × 10¹⁴ Hz.
+
+Red light: ~4.5 × 10¹⁴ Hz. Below the cutoff. Each red photon falls short. Billions of red photons, billions of individual failures.
+
+Yellow light: ~5.2 × 10¹⁴ Hz. Above the cutoff. Each yellow photon clears the bar. Even one is enough — that's why ejection is instant, even from a dim lamp.
+
+This cutoff is the **threshold frequency (ν₀)**. Every metal has its own.
+
+@continue
+
+The threshold frequency has an energy version. Multiply ν₀ by h:
+
+$$W_0 = h\nu_0$$
+
+This is the **work function** — how tightly the metal grips its outermost electrons.
+
+Potassium: W₀ = 2.25 eV. Loosely held outer electrons. Visible light is enough. Copper: W₀ = 4.8 eV. Much tighter grip — only ultraviolet can eject its electrons.
+
+That's why potassium, rubidium, and caesium show the effect so easily. They all have low work functions.
+
+@continue
+
+When a photon clears the threshold, what happens to the extra energy?
+
+It doesn't vanish. The photon spends W₀ to rip the electron free. Whatever remains becomes the electron's kinetic energy — its speed as it flies away.
+
+$$h\nu = W_0 + \frac{1}{2}m_e v^2$$
+
+Higher frequency → bigger photon energy → more leftover → faster electron.
+
+@continue
+
+pe-graph-1.chem.svg
+
+@continue
+
+Below ν₀: no electrons, no kinetic energy — every frequency lands on zero. Above ν₀: electrons escape, and KE grows with frequency.
+
+@continue
+
+pe-graph-2.chem.svg
+
+@continue
+
+The points fall on a straight line. Its slope is the same for *every* metal — it equals h, Planck's constant. A universal number.
+
+@continue
+
+pe-graph-3.chem.svg
+
+@continue
+
+Different metals only shift the line sideways. Low work function (potassium) starts ejecting at a lower frequency. High work function (copper) needs a higher one. But the slope never changes.
+
+@continue
+
+What about brightness? A brighter lamp means more photons per second — not more energy per photon. More photons means more one-on-one collisions, so more electrons get ejected.
+
+But each electron's speed still depends only on the photon's frequency.
+
+Frequency decides *whether* electrons escape and *how fast*. Brightness decides *how many*.
+
+
+[ATOM_T_010] Dual Nature of Radiation
+
+Shine light through two narrow slits. On the screen behind, you see alternating bright and dark bands — an **interference** pattern.
+
+Waves from the two slits overlap: where crests align, light strengthens. Where crest meets trough, light cancels. Only waves do this.
+
+Pass light around a sharp edge. It bends into the shadow region — **diffraction**. Again, only waves do this.
+
+So light is a wave. Case closed?
+
+@continue
+
+Not quite. The photoelectric effect only makes sense if light arrives as photons — particles smacking into electrons one at a time. No wave picture explains why frequency matters but brightness doesn't.
+
+So light is a particle too.
+
+@continue
+
+This is **dual behaviour**. Light acts like a wave when it *propagates* — spreading, diffracting, interfering. It acts like a particle when it *interacts with matter* — transferring energy one photon at a time.
+
+In any single experiment, you see one behaviour clearly. Which one depends on what you're testing. This isn't a flaw in our understanding — it's how nature works.
+
+This duality isn't limited to light. Matter has it too.
+
+
+[ATOM_T_011] Atomic Spectra
+
+Pass white light through a prism. It fans out into a smooth rainbow — red blending into orange into yellow, all the way to violet. Every wavelength is present. This is a **continuous spectrum**.
+
+Now do something different. Take hydrogen gas, run an electric discharge through it, and pass the emitted light through a prism.
+
+No rainbow. Instead, a few sharp bright lines on a dark background. Specific wavelengths, nothing in between.
+
+This is a **line spectrum** — also called an atomic spectrum. Each line corresponds to one exact wavelength of light.
+
+@continue
+
+There are two ways to produce line spectra. Heat a gas or pass electricity through it — the excited atoms emit light at specific wavelengths. That's an **emission spectrum**: bright lines on a dark background.
+
+Alternatively, pass white light *through* a cool gas. The gas absorbs certain wavelengths, leaving dark gaps in the continuous rainbow. That's an **absorption spectrum**: dark lines on a bright background.
+
+@continue
+
+spectra-comparison.chem.svg
+
+@continue
+
+Each element produces its own unique set of lines — like a fingerprint. Helium was discovered in the Sun this way, before anyone found it on Earth.
+
+@continue
+
+Now think about what sharp lines mean. If atoms could release any amount of energy, we'd see any wavelength — a smooth rainbow, not sharp lines.
+
+But hydrogen gives only specific wavelengths. Specific wavelengths mean specific energy amounts. If only certain amounts are possible, the atom's energy itself must be restricted to fixed values.
+
+Line spectra are direct evidence that atomic energy is quantized.
+
+
+[ATOM_T_012] Hydrogen Spectrum
+
+Hydrogen's sharp lines aren't scattered randomly. They fall into groups, and each group follows a mathematical pattern.
+
+The visible group was spotted first. In 1885, Balmer found that the visible hydrogen lines — red, blue-green, blue-violet — all obey a single formula using the integers 3, 4, 5...
+
+This group is the **Balmer series**.
+
+@continue
+
+Rydberg then found something bigger. *Every* hydrogen line — visible and invisible — obeys one master formula:
+
+$$\bar{\nu} = 109{,}677 \left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right) \text{ cm}^{-1}$$
+
+n₁ and n₂ are whole numbers, with n₂ > n₁. The value 109,677 cm⁻¹ is the **Rydberg constant**.
+
+Plug in n₁ = 2 and n₂ = 3: you get the red Balmer line. n₂ = 4: blue-green. n₂ = 5: blue-violet.
+
+@continue
+
+Changing n₁ gives a different group of lines in a different part of the spectrum:
+
+| Series | n₁ | Region |
+|---|---|---|
+| **Lyman** | 1 | Ultraviolet |
+| **Balmer** | 2 | Visible |
+| **Paschen** | 3 | Infrared |
+| **Brackett** | 4 | Infrared |
+| **Pfund** | 5 | Infrared |
+
+Lyman lines (n₁ = 1) are the most energetic — ultraviolet. Balmer (n₁ = 2) are the only visible ones. Paschen and beyond fall in the infrared.
+
+@continue
+
+The formula is precise, elegant, and completely mysterious.
+
+Why should spectral lines follow a formula with integers? What do n₁ and n₂ physically mean? Why 109,677 and not some other number?
+
+In 1885, nobody had answers. The formula was a pattern pulled from data — it *described* what hydrogen does, without *explaining* why.
+
+
+[ATOM_T_013] Why Rutherford's Model Fails
+
+Picture an electron circling the nucleus, like a planet around the Sun. Sounds stable. But there's a catch.
+
+A circular orbit means the electron constantly changes direction. That's acceleration — even if speed stays the same.
+
+Maxwell's theory is clear: an accelerating charge *must* radiate electromagnetic energy. No exceptions.
+
+@continue
+
+So the orbiting electron should bleed energy as radiation. As it loses energy, the orbit shrinks. It loses more, spirals closer, loses more still.
+
+In about 10⁻⁸ seconds, the electron crashes into the nucleus. The atom destroys itself.
+
+@continue
+
+electron-spiral.webp
+
+@continue
+
+But atoms are stable. You exist. The table in front of you exists. Atoms clearly don't collapse.
+
+Could the electron just sit still instead? No — a stationary negative charge next to a positive nucleus gets pulled straight in by electrostatic attraction. That's even worse.
+
+@continue
+
+Moving or stationary, the electron has no safe option in Rutherford's model. The model predicts its own failure.
+
+The model also says nothing about *how* electrons are arranged or why atoms emit only specific wavelengths of light. It found the nucleus — but couldn't explain what electrons do around it.
+
+
+[ATOM_T_014] Bohr's Postulates
+
+Rutherford's electron spirals into the nucleus because it radiates energy as it orbits. Classical physics demands it. Atoms should collapse in nanoseconds. They don't.
+
+Bohr's fix was radical: what if certain *special* orbits exist where electrons simply don't radiate?
+
+@continue
+
+That's postulate one. Electrons orbit the nucleus in fixed circular paths with definite energy. In these orbits, they don't lose energy — ever.
+
+Bohr called them **stationary states**. Not because electrons stand still, but because their energy stays constant.
+
+This directly contradicts Maxwell's electromagnetic theory. Bohr didn't explain *why* these orbits are exempt — he simply declared them to be.
+
+@continue
+
+It solves collapse by decree. But it raises a new question: if energy doesn't change inside an orbit, how do atoms absorb or emit light?
+
+Postulate two answers this. An electron *jumps* between stationary states. It absorbs energy to jump up, emits energy to jump down.
+
+These jumps are discrete, not gradual. An electron is either in one orbit or another — never in between.
+
+@continue
+
+quantum-jump.webp
+
+@continue
+
+When an electron drops to a lower orbit, the energy difference leaves as a single photon. That photon carries energy hν. So:
+
+$$h\nu = E_2 - E_1$$
+
+Rearrange:
+
+$$\nu = \frac{E_2 - E_1}{h}$$
+
+This is **Bohr's frequency rule**. Same logic works in reverse — a photon of exactly this frequency can push the electron up. Bigger gap → higher frequency → shorter wavelength.
+
+@continue
+
+But which orbits are allowed? Why not every possible radius?
+
+Postulate three restricts this. The electron's angular momentum must equal a whole-number multiple of h/2π:
+
+$$m_e v r = n \cdot \frac{h}{2\pi}, \quad n = 1, 2, 3...$$
+
+This is `angular momentum quantization`. Only orbits satisfying this condition exist. The integer n picks out exactly which radii and energies are permitted.
+
+Three postulates, one purpose: save the atom from collapse by baking quantization directly into orbital mechanics.
+
+
+[ATOM_T_015] Bohr's Energies and Radii
+
+Closer to the nucleus means stronger pull. The n = 1 orbit — the innermost — binds the electron tightest.
+
+How close? Just 52.9 pm from the nucleus. This distance is the **Bohr radius (a₀)**. Tiny even by atomic standards.
+
+Higher orbits sit farther out. The radius grows as n²:
+
+$$r_n = n^2 \times a_0$$
+
+The n = 2 orbit is 4 times wider. n = 3, nine times. Orbits spread out fast.
+
+@continue
+
+From the three postulates plus Coulomb's law, Bohr calculated each orbit's energy. For the first orbit: E₁ = −2.18 × 10⁻¹⁸ J. That negative sign matters.
+
+It means the electron is *trapped* — bound to the nucleus. You'd need to supply 2.18 × 10⁻¹⁸ J to rip it free.
+
+A free electron far from any nucleus has E = 0. Every bound electron has energy below zero.
+
+Think of it as debt. The electron owes 2.18 × 10⁻¹⁸ J to break free. The more negative the energy, the deeper the debt — the harder to escape.
+
+@continue
+
+h-energy-1.chem.svg
+
+@continue
+
+The n = 1 state — lowest energy, most tightly bound — is the **ground state**. Any state with n > 1 is an **excited state**.
+
+$$E_n = -2.18 \times 10^{-18} \left(\frac{1}{n^2}\right) \text{ J}$$
+
+As n rises, energy becomes less negative — the electron is held more loosely.
+
+@continue
+
+h-energy-2.chem.svg
+
+@continue
+
+The gap between n = 1 and n = 2 is huge. Between n = 5 and n = 6 — tiny. Energy goes as 1/n², so the differences shrink fast. The levels crowd together near the top.
+
+At n = ∞, energy reaches zero. The electron is free. This is ionization.
+
+@continue
+
+Hydrogen has Z = 1. But He⁺, Li²⁺, and Be³⁺ also have just one electron. These are **hydrogen-like species**. A bigger nuclear charge pulls the electron closer and binds it tighter:
+
+$$r_n = 52.9 \frac{n^2}{Z} \text{ pm}$$
+
+$$E_n = -2.18 \times 10^{-18} \left(\frac{Z^2}{n^2}\right) \text{ J}$$
+
+Higher Z → smaller radius, more negative energy. He⁺ with Z = 2 binds its electron four times more strongly than hydrogen.
+
+
+[ATOM_T_016] How Bohr Explains Hydrogen's Spectrum @SOLVED
+
+Rydberg's formula predicts every hydrogen line using two integers — but nobody knew what those integers meant. Bohr's energy levels give each orbit a fixed energy. These two ideas are about to become one.
+
+Start with one line. Hydrogen's brightest visible line is red, at 656 nm. Can Bohr's energies produce this number?
+
+@continue
+
+An electron in orbit n = 3 has energy:
+
+$$E_3 = -2.18 \times 10^{-18} \times \frac{1}{9} = -0.242 \times 10^{-18} \text{ J}$$
+
+It drops to orbit n = 2:
+
+$$E_2 = -2.18 \times 10^{-18} \times \frac{1}{4} = -0.545 \times 10^{-18} \text{ J}$$
+
+E₃ − E₂ = 3.03 × 10⁻¹⁹ J. This energy leaves as a single photon.
+
+@continue
+
+$$\lambda = \frac{hc}{\Delta E} = \frac{6.626 \times 10^{-34} \times 3 \times 10^8}{3.03 \times 10^{-19}} = 656 \text{ nm}$$
+
+Red. Exactly the line Balmer measured. No fitting — the number falls out of Bohr's energy formula directly.
+
+@continue
+
+bohr-transition-1.chem.svg
+
+@continue
+
+One electron, one jump, one photon. That's all a spectral line is — an electron dropping between orbits and releasing the energy difference as light.
+
+@continue
+
+But an electron at n = 4 can also drop to n = 2. That's a bigger gap — a higher-energy photon. Blue-green, 486 nm. And n = 5 to n = 2 gives blue-violet, 434 nm.
+
+Every possible drop to n = 2 produces one visible line.
+
+@continue
+
+bohr-transition-2.chem.svg
+
+@continue
+
+In a hydrogen gas sample, electrons sit in many excited levels. Every possible downward jump produces one spectral line. A brighter line means more atoms making that jump.
+
+Transitions sharing the same landing level form a **series**. All drops to n = 2 make visible light — this is the **Balmer series**.
+
+@continue
+
+What about drops to n = 1? Those gaps are much bigger — the photons carry more energy. They land in the ultraviolet. This is the **Lyman series**.
+
+Drops to n = 3? Smaller gaps, lower-energy photons. Infrared. The **Paschen series**.
+
+**Brackett** (to n = 4) and **Pfund** (to n = 5) continue deeper into the infrared.
+
+@continue
+
+bohr-spectrum.chem.svg
+
+@continue
+
+Each series covers a different part of the spectrum because the landing level sets the minimum gap size. Lower landing level → bigger gaps → higher-energy photons.
+
+@continue
+
+Landing level picks the series. Starting level picks which line within it.
+
+For any transition from nᵢ to n_f, the wavenumber is:
+
+$$\bar{\nu} = 109{,}677\left(\frac{1}{n_f^2} - \frac{1}{n_i^2}\right) \text{ cm}^{-1}$$
+
+The value 109,677 cm⁻¹ is Rₕ/hc — derived from Bohr's energy formula, not measured from spectra. Rydberg's constant finally has a physical origin.
+
+@continue
+
+Absorption is the reverse. A photon of exactly 3.03 × 10⁻¹⁹ J pushes an electron from n = 2 up to n = 3.
+
+Same gaps, same wavelengths — absorption and emission lines match perfectly.
+
+Rydberg's integers were orbit numbers all along. The spectrum's pattern is quantized energy levels, made visible as light.
+
+
+[ATOM_T_017] Limitations of Bohr's Model
+
+Bohr's model explains hydrogen beautifully. But hydrogen has just one electron. Add a second electron — helium — and the model fails completely. It can't predict helium's spectrum.
+
+@continue
+
+Even for hydrogen, cracks appear with better instruments. Lines that look single at low resolution turn out to be *doublets* — two closely spaced lines. Bohr's model can't produce this fine splitting.
+
+Apply a magnetic field and hydrogen's spectral lines split further. This is the **Zeeman effect**. Apply an electric field — lines split again. This is the **Stark effect**. Bohr's model predicts neither.
+
+@continue
+
+The model also says nothing about chemical bonding. It can't explain why atoms combine to form molecules.
+
+These aren't minor gaps. The model correctly predicts hydrogen's spectrum — but fails on almost everything else. Something about treating electrons as tiny balls on fixed circular tracks is fundamentally wrong.
+
+What replaces orbits? That required rethinking what an electron actually is.
+
+
+[ATOM_T_018] de Broglie's Hypothesis @SOLVED
+
+Light was supposed to be a wave. Then Einstein showed it's also particles — photons. Radiation has dual nature.
+
+de Broglie asked the reverse question in 1924. If radiation can behave as both wave and particle, why not matter? Electrons were known as particles. Could they have a wave nature too?
+
+@continue
+
+He proposed that every moving particle has an associated wavelength. The **de Broglie equation** connects wavelength to momentum:
+
+$$\lambda = \frac{h}{mv} = \frac{h}{p}$$
+
+Heavier or faster objects get shorter wavelengths.
+
+@continue
+
+A cricket ball at 30 m/s has λ ≈ 10⁻³⁴ m — trillions of times smaller than an atom. No instrument can detect it. Ordinary objects never show wave behaviour.
+
+This is why we never notice `wave-particle duality of matter` in everyday life.
+
+But electrons are incredibly light (9.1 × 10⁻³¹ kg). Their de Broglie wavelength is comparable to atomic dimensions — large enough to measure.
+
+@continue
+
+The proof: electron beams fired at crystals produced diffraction patterns. Particles don't diffract. Waves do. Electrons were doing both.
+
+The electron microscope uses this wave nature, achieving magnification up to 15 million times.
+
+A wave doesn't have a single definite position — it's spread out. An electron isn't a dot orbiting a nucleus. It's something stranger.
+
+@continue
+
+de Broglie and Bohr connect directly. Combine λ = h/mv with Bohr's condition mvr = nh/2π:
+
+$$\lambda = \frac{2\pi r}{n}$$
+
+Rearrange: nλ = 2πr. The orbit's circumference fits exactly n whole wavelengths.
+
+@continue
+
+This is *why* Bohr's orbits are quantized. An electron wave going around the nucleus must close on itself — otherwise it cancels out.
+
+@continue
+
+standing-wave.chem.svg
+
+@continue
+
+Only orbits fitting a whole number of wavelengths survive as standing waves. Non-integer wavelengths destroy themselves. Bohr's angular momentum rule was a standing wave condition all along.
+
+
+[ATOM_T_019] Heisenberg's Uncertainty Principle
+
+To find an electron inside an atom, you shine light on it — that's the only way to "see" anything at atomic scale.
+
+But here's the catch. To pinpoint something as tiny as an electron, you need light with a very short wavelength. Short wavelength means high-energy photons.
+
+When that photon hits the electron, it kicks it — hard. You learned *where* the electron was, but now its velocity has changed unpredictably.
+
+@continue
+
+Use a gentler, long-wavelength photon instead? The kick is small, so velocity stays nearly intact. But long-wavelength light can't resolve a tiny electron. You know the speed but lost the position.
+
+You always pay for one measurement with the other. This isn't a limitation of our instruments. It's built into nature.
+
+@continue
+
+Werner Heisenberg (1927) captured this as the **Heisenberg uncertainty principle**: it is impossible to simultaneously determine the exact position and exact momentum of an electron.
+
+$$\Delta x \times \Delta p_x \geq \frac{h}{4\pi}$$
+
+Or equivalently: Δx × Δv ≥ h/(4πm).
+
+If Δx is small (position known), Δv must be large (velocity uncertain) — and vice versa.
+
+@continue
+
+For a milligram object: Δx × Δv ≈ 10⁻²⁸ m²/s — utterly negligible. But for an electron: Δx × Δv ≈ 10⁻⁴ m²/s. Pin position to 10⁻⁸ m and velocity becomes uncertain by ~10⁴ m/s.
+
+The consequence is profound. Electrons don't have definite paths. Bohr's precise circular orbits *cannot exist*. We must abandon trajectories and think in terms of *probability* — where an electron is likely to be found.
+
+
+# === REWRITING T_020–T_029: ~21 scaffolded micro-topics ===
+# Old 10 topics were too compressed for first-time learning. New plan:
+#
+# PHASE 1 — Conceptual Shift (orbit → probability):
+#   [x] From Orbits to Probability
+#   [x] Atomic Orbitals and Probability Density
+#
+# PHASE 2 — Quantum Numbers (one per topic):
+#   [x] Principal Quantum Number (n) — Shells
+#   [x] Azimuthal Quantum Number (l) — Subshells
+#   [x] Magnetic Quantum Number (mₗ) — Orientations
+#   [x] Electron Spin (mₛ) and Pauli Exclusion
+#   [x] CONSOLIDATION: Counting Orbitals and Electrons
+#
+# PHASE 3 — Nodes (the unifying concept):
+#   [x] Nodes — Where Electrons Can't Be
+#   [x] How Angular Nodes Create Shapes
+#
+# PHASE 4 — Orbital Shapes (derived from nodes):
+#   [x] s Orbitals — Spheres
+#   [x] p Orbitals — Dumbbells
+#   [x] d Orbitals — Cloverleaves
+#
+# PHASE 5 — Energy Ordering (penetration from radial nodes):
+#   [x] Degeneracy in Hydrogen
+#   [x] Why Radial Nodes Change Energy
+#   [x] Shielding and Effective Nuclear Charge
+#   [x] (n+l) Rule — Filling Order
+#
+# PHASE 6 — Filling Rules (one per topic):
+#   [x] Aufbau Principle
+#   [x] Hund's Rule
+#
+# PHASE 7 — Electronic Configurations (incremental):
+#   [x] Configurations: H through Ne
+#   [x] Configurations: Na through Ar + Noble Gas Shorthand
+#   [x] Configurations: K through Zn (d-block + periodic table blocks)
+#   [x] Cr/Cu Exceptions — Half-Filled Stability
+#   [x] CONSOLIDATION: Ion Configurations and Practice
+# =====================================================
+
+
+[ATOM_T_020] From Orbits to Probability
+
+Bohr gave electrons neat circular paths. Each orbit has a fixed radius and speed. At every instant, you know exactly where the electron is.
+
+That picture can't be right.
+
+@continue
+
+Electrons behave as waves — they spread out. And you cannot know both an electron's position and speed at the same time.
+
+That's not a limit of our instruments. It's how nature works.
+
+To draw a circular path, you need exact position AND exact speed at every point. Since that's impossible for an electron, the path itself cannot exist.
+
+So what replaces orbits?
+
+@continue
+
+A wave isn't at one point — it's spread across space. Detect it, and it appears at a single spot. But where? More likely where the wave is strongest.
+
+Now imagine taking a snapshot of the electron's position. You find it at some random spot near the nucleus. Another snapshot — different spot. A third — different again.
+
+Stack a million snapshots. A pattern emerges — dots packed dense near the nucleus, thinning outward. Not a circle. A cloud.
+
+@continue
+
+orbit-to-orbital.webp
+
+@continue
+
+The cloud doesn't show where the electron IS at any moment. It shows where the electron is *likely to be found*.
+
+Dense regions mean high probability. Sparse regions mean low probability. That's all we can know.
+
+We stop asking "where is the electron right now?" We ask instead: "where will we probably find it?"
+
+@continue
+
+In 1926, Erwin Schrödinger built the mathematics for this new picture. His equation treats the electron as a wave trapped near a nucleus.
+
+Its solutions describe how probability spreads around the atom — including the shapes those probability clouds take.
+
+
+[ATOM_T_021] Atomic Orbitals and Probability Density
+
+The **Schrödinger equation** is a mathematical equation. It accounts for the electron's wave nature, its energy, and its attraction to the nucleus.
+
+We won't solve it here. But its solutions tell us everything we need.
+
+@continue
+
+Each solution is a mathematical function called a **wave function**, written as **ψ** (psi). Feed ψ any point in space, and it returns a number.
+
+That number alone has no physical meaning. But square it — |ψ|² — and you get something real. This is the **probability density** at that point.
+
+High |ψ|² means the electron is likely there. Low |ψ|² means unlikely. Zero means the electron will never be found there.
+
+@continue
+
+Think of |ψ|² like a weather map for rain. The map doesn't say where each drop will fall. It shows which areas will probably get wet.
+
+Each allowed ψ describes one energy state. The equation gives many solutions — many allowed states. Each solution is an **atomic orbital**.
+
+An orbital isn't a path. It's a probability map — a 3D region where the electron is likely to exist.
+
+@continue
+
+How do you draw such a map? |ψ|² fades outward but never truly hits zero — the electron *could* be anywhere.
+
+So we draw a boundary: a surface enclosing about 90% of the total probability.
+
+Everything inside that surface is where you'll find the electron 9 times out of 10. This surface is a **boundary surface diagram**. Its shape IS the orbital's shape.
+
+@continue
+
+One last distinction. Bohr's "orbit" is a fixed circular path — a train track. An "orbital" is a probability cloud — a weather system. Same-sounding words, completely different ideas.
+
+Bohr had to *assume* quantized energy levels. In Schrödinger's equation, they emerge on their own. So do orbital shapes. Nothing is imposed by hand.
+
+
+[ATOM_T_022] Principal Quantum Number (n) — Shells
+
+Bohr's model had numbered energy levels — n = 1, 2, 3... That part actually survives. In the quantum model, n still exists. It's called the **principal quantum number**.
+
+n controls two things: the orbital's size and roughly its energy. Higher n means a bigger orbital — the electron sits farther from the nucleus and is held less tightly.
+
+@continue
+
+All orbitals sharing the same n belong to the same **shell**. n = 1 is the K shell, n = 2 is L, n = 3 is M, n = 4 is N.
+
+Think of n as picking the floor of a building. Higher floor = farther from the ground. In an atom, higher n = farther from the nucleus = higher energy.
+
+@continue
+
+But each floor has more than one type of room. The n = 1 floor has one type. n = 2 has two types. n = 3 has three. Each type has a different shape.
+
+What decides those shapes? The next quantum number.
+
+
+[ATOM_T_023] Azimuthal Quantum Number (l) — Subshells
+
+n tells you which shell — the size of the orbital. But within each shell, orbitals come in different shapes.
+
+The shape is set by the **azimuthal quantum number (l)**. For any given n, l starts at 0 and goes up to n − 1.
+
+n = 1 allows only l = 0. One shape. n = 2 allows l = 0 and 1. Two shapes. n = 3 allows l = 0, 1, and 2. Three shapes.
+
+The number of different shapes in each shell equals n.
+
+@continue
+
+Each l value has a letter name. l = 0 is **s**. l = 1 is **p**. l = 2 is **d**. l = 3 is **f**.
+
+These come from old spectroscopy terms (sharp, principal, diffuse, fundamental) — just remember the letters.
+
+All orbitals with the same n and l form a **subshell**. "2p" means n = 2, l = 1. "3d" means n = 3, l = 2.
+
+The letter tells you the shape. The number tells you the shell.
+
+@continue
+
+l also goes by another name: the **orbital angular momentum** quantum number. Here's why.
+
+In Bohr's model, angular momentum was mvr — an electron physically circling the nucleus. Orbits are gone, but the concept survives.
+
+When l = 0, the orbital looks the same from every direction. No preferred axis, no sense of "going around." Angular momentum: zero.
+
+Higher l means probability concentrates along specific directions. More directional structure → more angular momentum.
+
+$$L = \sqrt{l(l+1)} \cdot \frac{h}{2\pi}$$
+
+For s (l = 0): L = 0. For p (l = 1): L = √2 · ħ. For d (l = 2): L = √6 · ħ.
+
+@continue
+
+In the building analogy: n picks the floor, l picks the room type on that floor. First floor has only s-type rooms. Second floor has s and p. Third adds d. Fourth adds f.
+
+
+[ATOM_T_024] Magnetic Quantum Number (mₗ) — Orientations
+
+n picks the shell. l picks the subshell. But a p orbital is dumbbell-shaped — and that dumbbell can point along the x, y, or z axis. Three directions, three distinct orbitals.
+
+Which direction an orbital points is decided by the **magnetic quantum number (mₗ)**.
+
+For any given l, mₗ takes all integer values from −l to +l. That gives (2l + 1) values — and (2l + 1) orbitals in that subshell.
+
+@continue
+
+For l = 0 (s subshell): mₗ = 0 only. One orbital. A sphere looks the same from every direction, so orientation doesn't matter.
+
+For l = 1 (p subshell): mₗ = −1, 0, +1. Three orbitals — one pointing along each axis.
+
+@continue
+
+For l = 2 (d subshell): mₗ = −2, −1, 0, +1, +2. Five orbitals.
+
+For l = 3 (f subshell): mₗ runs from −3 to +3. Seven orbitals.
+
+@continue
+
+In the building analogy: n picks the floor, l picks the room type, mₗ picks which specific room — which direction it faces. Together, n, l, and mₗ uniquely identify every orbital in the atom.
+
+
+[ATOM_T_025] Electron Spin and the Pauli Exclusion Principle
+
+Three quantum numbers — n, l, mₗ — identify an orbital. But there's a fourth number, and this one belongs to the *electron itself*, not the orbital it sits in.
+
+An electron spins around its own axis. Only two options exist: spin-up (↑, mₛ = +½) or spin-down (↓, mₛ = −½). This is the **electron spin quantum number (mₛ)**.
+
+So each electron carries four quantum numbers: n, l, mₗ, and mₛ. The first three describe which orbital. The fourth describes the electron's own spin.
+
+@continue
+
+Now the crucial rule. No two electrons in an atom can share the same set of all four quantum numbers. This is the **Pauli exclusion principle**.
+
+What does this mean for a single orbital? Two electrons in the same orbital share n, l, and mₗ. Their only way to differ is spin.
+
+@continue
+
+One must be +½, the other −½. Spin-up and spin-down. That's it — a third electron would duplicate someone's full set. Pauli forbids it.
+
+So each orbital holds at most 2 electrons, always with opposite spins. This single rule sets a hard cap on how many electrons each shell can hold.
+
+@continue
+
+n = 1 has 1 orbital → max 2 electrons. n = 2 has 4 orbitals → max 8. n = 3 has 9 orbitals → max 18. The pattern: 2n² electrons per shell.
+
+
+[ATOM_T_026] Counting Orbitals and Electrons @SOLVED
+
+Four quantum numbers label every electron: n (shell), l (subshell), mₗ (orientation), mₛ (spin). Let's put them to work.
+
+@continue
+
+**How many orbitals in the n = 3 shell?**
+
+l can be 0, 1, or 2 — three subshells: 3s, 3p, 3d.
+3s: 2(0) + 1 = 1 orbital.
+3p: 2(1) + 1 = 3 orbitals.
+3d: 2(2) + 1 = 5 orbitals.
+Total: 1 + 3 + 5 = 9. Matches n² = 9. ✓
+
+Max electrons: 9 × 2 = 18. Matches 2n² = 18. ✓
+
+@continue
+
+**How many electrons can the 4f subshell hold?**
+
+4f means l = 3. Number of orbitals: 2(3) + 1 = 7. Max electrons: 7 × 2 = 14.
+
+@continue
+
+**Is the set n = 2, l = 2, mₗ = 0, mₛ = +½ valid?**
+
+No. For n = 2, l can only go up to n − 1 = 1. l = 2 is not allowed in the second shell. This electron cannot exist.
+
+@continue
+
+**An orbital has n = 3, l = 1, mₗ = −1. Write all four quantum numbers for both electrons it can hold.**
+
+Electron 1: (3, 1, −1, +½). Electron 2: (3, 1, −1, −½). Same orbital, opposite spins. That's all Pauli allows.
+
+@continue
+
+# One common trap: "n = 3, l = 1" identifies a single ORBITAL (one of the three 3p orbitals),
+# not the entire 3p subshell. This orbital holds 2 electrons, not 6.
+
+
+[ATOM_T_030] Nodes — Where Electrons Can't Be
+
+Pluck a guitar string. The basic vibration has no still points — the whole string moves. The second harmonic has one still point in the middle. The third has two.
+
+More still points means a higher pitch — higher energy.
+
+@continue
+
+Electron waves work the same way. A **node** is a region where |ψ|² = 0 — the electron will never be found there. More nodes means higher energy.
+
+Nodes come in two types. Each does a different job.
+
+@continue
+
+**Angular nodes** are flat planes (or cones) through the nucleus. They slice the probability cloud.
+
+The number of angular nodes equals l. s orbitals (l = 0) have none. p (l = 1) has one. d (l = 2) has two.
+
+Angular nodes control the orbital's *shape*.
+
+@continue
+
+**Radial nodes** are spherical shells at fixed distances from the nucleus. Probability exists inside and outside, but drops to zero on the shell itself.
+
+The number of radial nodes equals n − l − 1.
+
+Radial nodes control the orbital's *inner structure* — how much probability sneaks close to the nucleus. This affects the orbital's energy.
+
+@continue
+
+Counting:
+
+$$\text{Angular nodes} = l$$
+$$\text{Radial nodes} = n - l - 1$$
+$$\text{Total nodes} = n - 1$$
+
+Higher n, more nodes, higher energy — just like the guitar string.
+
+@continue
+
+**How many nodes in a 3p orbital?**
+
+Total = n − 1 = 2. Angular = l = 1. Radial = n − l − 1 = 1. One nodal plane plus one spherical shell.
+
+@continue
+
+**How many radial nodes in a 4s orbital?**
+
+Radial = n − l − 1 = 4 − 0 − 1 = 3. Angular = 0. Three concentric zero-probability shells.
+
+@continue
+
+**An orbital has 2 angular nodes and 2 total nodes. Identify it.**
+
+Angular = l = 2, so it's a d orbital. Total = n − 1 = 2, so n = 3. Answer: 3d. Zero radial nodes.
+
+
+[ATOM_T_041] How Angular Nodes Create Shapes
+
+Picture electron probability spread evenly around the nucleus — the same in every direction. A perfect sphere.
+
+Now ask: what if some directions are *forbidden*?
+
+@continue
+
+An angular node is a plane through the nucleus where the electron can never exist. |ψ|² = 0 on that plane — a wall of zero probability.
+
+If the electron is banned from a plane, its probability piles up on both sides.
+
+@continue
+
+sphere-to-shapes.chem.svg
+
+@continue
+
+l = 0 means zero angular nodes. No planes slice the cloud. Probability stays even in every direction. The shape is a sphere. That's an s orbital.
+
+@continue
+
+l = 1 means one nodal plane through the nucleus. Probability drops to zero on that plane and bunches into two lobes — one on each side.
+
+That's a p orbital. The dumbbell isn't arbitrary. It's what happens when you slice a sphere with one forbidden plane.
+
+@continue
+
+l = 2 means two nodal planes. Two slices carve the cloud into four lobes between the planes.
+
+That's a d orbital. The cloverleaf is probability squeezed between two forbidden walls.
+
+@continue
+
+More angular nodes → more slices → more complex shape. Shapes aren't things to memorize. They're consequences of wave constraints.
+
+
+[ATOM_T_027] s Orbitals — Spheres
+
+l = 0 means no angular nodes. No forbidden planes. Probability spreads equally in every direction — a sphere.
+
+All s orbitals are spherical. 1s, 2s, 3s — same shape, different sizes. Higher n means a bigger sphere.
+
+@continue
+
+s-orbitals.chem.svg
+
+@continue
+
+Where is a 1s electron most likely to be found? Not at the nucleus — even though |ψ|² is highest there.
+
+@continue
+
+radial-prob-1.chem.svg
+
+@continue
+
+Probability density is highest right at the center and falls off fast. If this were the whole story, the electron would most likely sit at the nucleus.
+
+But there's a second factor. Imagine a thin spherical shell at distance r. Near the nucleus, that shell has almost no volume — a tiny surface area. Far out, the shell is huge.
+
+@continue
+
+radial-prob-2.chem.svg
+
+@continue
+
+Two competing curves. Density favors the center. Volume favors the edges. The actual probability of finding the electron at distance r depends on *both* — density times volume.
+
+@continue
+
+radial-prob-3.chem.svg
+
+@continue
+
+The product peaks at 52.9 pm — the Bohr radius. Bohr got the distance right. The reason is different: it's where density and volume trade off, not where a circular orbit sits.
+
+@continue
+
+But 2s isn't just a bigger 1s. See the dashed ring in the 2s cross-section? That's a radial **node** — a spherical shell where probability drops to zero.
+
+Inside the node — probability. Outside — probability. On the shell itself — nothing.
+
+@continue
+
+The 3s orbital has two radial nodes. Pattern: an ns orbital has (n − 1) radial nodes.
+
+@continue
+
+Now look at the 2s diagram more carefully. Inside the radial node, there's a small peak of probability close to the nucleus.
+
+Most of the 2s electron's time is spent in the outer region. But occasionally it's found right near the center — close to the nucleus, where the pull is strongest.
+
+
+[ATOM_T_028] p Orbitals — Dumbbells
+
+l = 1 means one angular node — one plane through the nucleus where |ψ|² = 0. Probability piles into two lobes on opposite sides. A dumbbell.
+
+The plane between the lobes is a **nodal plane**.
+
+@continue
+
+The electron exists on both sides but is never found *on* the plane.
+
+How does it "get across"? It doesn't need to. Quantum mechanics doesn't describe paths. The electron has probability on both sides at once.
+
+@continue
+
+Each p subshell has three orbitals: pₓ (along x), pᵧ (along y), and p_z (along z). Three dumbbells, perpendicular to each other.
+
+@continue
+
+p-orbitals.chem.svg
+
+@continue
+
+Same shape. Same energy. Same size. Only the direction differs.
+
+Like s orbitals, p orbitals grow with n. 3p is larger than 2p. The dumbbell shape stays the same.
+
+@continue
+
+Direction matters for bonding. A p orbital pointing *toward* another atom overlaps differently than one pointing sideways. This directional overlap gives molecules their shapes.
+
+
+[ATOM_T_029] d Orbitals — Cloverleaves
+
+l = 2 means two angular nodes. Two planes slice the probability cloud into more complex shapes. Five orbitals per d subshell. First appear in n = 3.
+
+@continue
+
+Four of them — dₓᵧ, dᵧz, dₓz, and dₓ²₋ᵧ² — look like four-leaf clovers. Four lobes in a plane, nucleus at the center.
+
+The fifth, d_z², is the oddball: two lobes along z with a donut-shaped ring around the middle.
+
+@continue
+
+d-orbitals.chem.svg
+
+@continue
+
+All five 3d orbitals have the same energy in a free atom. But they don't all point the same way.
+
+Some d orbitals point *along* the axes, others point *between* them.
+
+@continue
+
+dₓ²₋ᵧ² points along x and y. d_z² points along z (plus the donut). These two aim at anything sitting on the axes.
+
+dₓᵧ, dᵧz, and dₓz point between the axes — rotated 45°.
+
+@continue
+
+This along-axes vs between-axes distinction is the most important structural detail about d orbitals.
+
+
+[ATOM_T_031] Degeneracy in Hydrogen
+
+Hydrogen has one electron and one proton. No other electrons get in the way. The electron feels the full nuclear pull no matter which orbital it sits in.
+
+Because of this, energy depends ONLY on n. 2s and 2p have the same energy. 3s, 3p, and 3d — all equal.
+
+@continue
+
+When orbitals have equal energy, they are called **degenerate**. In hydrogen, all subshells within a shell are degenerate.
+
+@continue
+
+degen-1.chem.svg
+
+@continue
+
+2s and 2p at the same level. 3s, 3p, 3d — all equal. Energy depends only on n. This is the hydrogen picture.
+
+Now add a second electron — helium, lithium, anything beyond hydrogen. Everything changes.
+
+@continue
+
+degen-2.chem.svg
+
+@continue
+
+Subshells split. 2s drops below 2p. 3s below 3p below 3d. The degeneracy is broken.
+
+Why? The answer lies in how different orbitals interact with inner electrons — and radial nodes are the key.
+
+
+[ATOM_T_042] Why Radial Nodes Change Energy
+
+In hydrogen, 2s and 2p have the same energy. One electron, no shielding. But in lithium (Z = 3), 2s drops below 2p. What breaks the equality?
+
+Follow the probability.
+
+@continue
+
+Start with 1s. Its electron cloud sits tight around the nucleus. In a multi-electron atom, these inner 1s electrons form a screen between the nucleus and any outer electron.
+
+@continue
+
+Now picture 2s. It has one radial node — and inside that node, a small probability peak right near the nucleus.
+
+That inner peak lets the 2s electron occasionally slip past the 1s screen. When it does, it feels the full nuclear charge, unshielded. A strong pull.
+
+@continue
+
+penetration-2s-2p.chem.svg
+
+@continue
+
+Now picture 2p. No radial nodes. All its probability lives in two fat lobes, well outside the 1s region.
+
+The 2p electron never slips past the screen. It always feels the weakened, shielded charge.
+
+@continue
+
+Result: 2s feels stronger nuclear pull on average. Stronger pull → held tighter → lower energy. 2s drops below 2p.
+
+This is `penetration`. The 2s electron penetrates the inner electron cloud better than 2p — thanks to its radial node creating an inner peak.
+
+@continue
+
+The pattern generalizes. Within any shell, s has the most radial nodes (n − 1). More radial nodes → more inner peaks → better penetration → lower energy.
+
+E(s) < E(p) < E(d) < E(f). Always.
+
+@continue
+
+Radial nodes aren't just a counting exercise. They're the mechanism that breaks hydrogen's degeneracy. Nodes create inner peaks. Inner peaks create penetration. Penetration creates the energy ordering.
+
+
+[ATOM_T_032] Shielding and Effective Nuclear Charge
+
+Sodium has 11 protons and 11 electrons. The outermost electron sits in 3s. Between it and the +11 nucleus: 10 inner electrons.
+
+Those inner electrons partially cancel the nuclear pull. The outer electron doesn't feel +11. It feels something weaker.
+
+@continue
+
+This is **shielding**. The reduced charge an outer electron feels is the **effective nuclear charge (Zeff)**. Always less than Z.
+
+@continue
+
+We already know that different orbitals penetrate differently. Now see it for the n = 3 shell.
+
+@continue
+
+orbital-penetration.chem.svg
+
+@continue
+
+The dark zone on the left is where inner electrons sit. Three curves, three orbital types.
+
+Cyan (3s): small peaks *inside* the inner zone. Its radial nodes create probability peaks that reach past the crowd, right up to the nucleus. Strongest pull.
+
+@continue
+
+Orange (3p): barely enters the inner zone. Less penetration. Green (3d): doesn't enter at all. Maximum shielding.
+
+@continue
+
+Same pattern as 2s vs 2p — now extended. Within any shell: s penetrates best, then p, then d, then f.
+
+More penetration → more nuclear pull → lower energy. E(s) < E(p) < E(d) < E(f). Hydrogen's degeneracy is broken.
+
+@continue
+
+This is why the filling order isn't simply "complete each shell before moving on." Penetration reshuffles the energy ladder.
+
+
+[ATOM_T_033] The (n+l) Rule @SOLVED
+
+Shielding splits energies within a shell. But it also scrambles the order *across* shells. Is 4s higher or lower than 3d?
+
+Think about what pushes energy up. Higher n means farther from the nucleus — higher energy. Higher l means worse penetration — also higher energy. Both work in the same direction.
+
+So add them. For each orbital, compute n + l. Lower sum = lower energy.
+
+@continue
+
+4s: n + l = 4 + 0 = 4.
+3d: n + l = 3 + 2 = 5.
+
+4s has the lower sum. So 4s is lower in energy and fills first — even though it's in a higher shell. This is the **(n+l) rule**.
+
+If two orbitals have the same sum, the one with lower n wins. 3p (3 + 1 = 4) vs 4s (4 + 0 = 4): same sum, but 3p has lower n, so 3p fills first.
+
+@continue
+
+The full filling order:
+
+1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p → 7s…
+
+@continue
+
+filling-order.chem.svg
+
+@continue
+
+Notice: 4s fills before 3d. 6s fills before 4f. Shell number alone doesn't decide — the orbital's shape matters too.
+
+@continue
+
+**Arrange 4d, 5p, 5f, and 6p in order of increasing energy.**
+
+4d: 4 + 2 = 6. 5p: 5 + 1 = 6. 5f: 5 + 3 = 8. 6p: 6 + 1 = 7.
+
+By sum: 4d and 5p (both 6) < 6p (7) < 5f (8). Tiebreaker for 4d vs 5p: lower n wins, so 4d < 5p. Answer: 4d < 5p < 6p < 5f.
+
+
+[ATOM_T_034] The Aufbau Principle
+
+We have the energy ordering and the Pauli limit (2 electrons per orbital). One more idea completes the picture.
+
+In the ground state, electrons fill orbitals from the bottom up. Start at the lowest energy, fill it, move to the next. Don't skip ahead.
+
+This is the **Aufbau principle** (German for "building up"). Electrons occupy the lowest available orbital first.
+
+@continue
+
+Think of filling seats in a theatre. Cheapest seats fill first. Nobody sits in the balcony while ground-floor seats are empty.
+
+Combined with Pauli (max 2 per orbital, opposite spins) and the (n+l) energy order, Aufbau gives a clear procedure: start at 1s, fill it, move to 2s, then 2p, and on up the energy ladder.
+
+@continue
+
+But there's one situation Aufbau alone can't handle. What happens when several orbitals have the *same* energy?
+
+
+[ATOM_T_035] Hund's Rule @SOLVED
+
+Carbon has 6 electrons: 1s², 2s², and two left for the 2p subshell. Three 2p orbitals are available, all with the same energy.
+
+Do both electrons squeeze into one orbital? Or spread into separate ones?
+
+@continue
+
+They spread out. Electrons are both negative — they repel. Cramming two into one orbital forces them close. That costs energy.
+
+Separate orbitals keep them farther apart. Less repulsion. Lower energy. More stable.
+
+They also adopt the same spin direction. Parallel spins give an extra energy benefit called **exchange energy** — electrons with matching spins avoid each other more effectively.
+
+So: fill each degenerate orbital singly with parallel spins before any pairing begins. This is **Hund's rule**.
+
+@continue
+
+**Draw the orbital filling for nitrogen (Z = 7).**
+
+1s: ↑↓   2s: ↑↓   2p: ↑ | ↑ | ↑
+
+One in each p orbital, all spin-up. Three unpaired electrons. No pairing.
+
+@continue
+
+**Now oxygen (Z = 8).**
+
+1s: ↑↓   2s: ↑↓   2p: ↑↓ | ↑ | ↑
+
+Three fill singly first (Hund). The fourth pairs up. Two unpaired electrons.
+
+
+[ATOM_T_036] Electronic Configurations: H through Ne @SOLVED
+
+The arrangement of all electrons across orbitals is the **electronic configuration**. Let's build them one element at a time.
+
+@continue
+
+Hydrogen (Z = 1): one electron, lowest orbital. **1s¹**.
+
+Helium (Z = 2): second electron joins 1s with opposite spin. **1s²**. Shell 1 is full.
+
+Lithium (Z = 3): 1s full — Pauli blocks a third. Next lowest is 2s. **1s² 2s¹**.
+
+Beryllium (Z = 4): **1s² 2s²**. Boron (Z = 5): 2p begins. **1s² 2s² 2p¹**.
+
+Carbon (Z = 6): **1s² 2s² 2p²**. By Hund's rule, the two 2p electrons occupy separate orbitals with parallel spins.
+
+@continue
+
+Nitrogen (Z = 7): **1s² 2s² 2p³**. All three p orbitals singly occupied, same spin.
+
+Oxygen (Z = 8): **1s² 2s² 2p⁴**. Pairing begins — one p orbital now holds two electrons.
+
+Fluorine (Z = 9): **1s² 2s² 2p⁵**. Neon (Z = 10): **1s² 2s² 2p⁶**. Second shell completely full.
+
+@continue
+
+**How many unpaired electrons does nitrogen have?**
+
+2p³ means one electron in each of three p orbitals, all same spin. Three unpaired electrons.
+
+
+[ATOM_T_037] Electronic Configurations: Na through Ar @SOLVED
+
+Sodium (Z = 11) has 10 electrons identical to neon, plus one more. Writing the full configuration — 1s² 2s² 2p⁶ 3s¹ — gets tedious.
+
+Shorthand: put the previous noble gas in brackets for the filled inner shells. These are the **core electrons**. Sodium becomes **[Ne] 3s¹**.
+
+The 3s¹ electron is the **valence electron** — the one in the outermost shell. Valence electrons drive chemical behaviour.
+
+@continue
+
+From here, the third shell fills just like the second.
+
+Magnesium: [Ne] 3s². Aluminium: [Ne] 3s² 3p¹. Silicon through argon fill 3p one by one.
+
+Phosphorus (Z = 15): [Ne] 3s² 3p³ — three unpaired electrons, just like nitrogen.
+
+Argon (Z = 18): [Ne] 3s² 3p⁶. The s and p subshells of shell 3 are full. But 3d is still empty.
+
+@continue
+
+**Write the configuration of chlorine (Z = 17). Identify core and valence electrons.**
+
+[Ne] 3s² 3p⁵. The 10 electrons inside [Ne] are core. The 7 electrons in shell 3 (3s² 3p⁵) are valence.
+
+
+[ATOM_T_038] Electronic Configurations: K through Zn @SOLVED
+
+After argon, you'd expect electrons to enter 3d — same shell. But the (n+l) rule says otherwise. 4s (4 + 0 = 4) is lower in energy than 3d (3 + 2 = 5).
+
+So potassium (Z = 19) puts its 19th electron in 4s: **[Ar] 4s¹**. Calcium (Z = 20): **[Ar] 4s²**.
+
+@continue
+
+Only then does 3d begin filling. Scandium (Z = 21): [Ar] 3d¹ 4s². Titanium: [Ar] 3d² 4s². This continues through zinc (Z = 30): [Ar] 3d¹⁰ 4s².
+
+These ten elements — scandium through zinc — are the first **d-block** elements, filling five 3d orbitals.
+
+@continue
+
+After zinc, 4p fills. Gallium (Z = 31) through krypton (Z = 36): [Ar] 3d¹⁰ 4s² 4p¹ → 4p⁶. The pattern repeats: 5s, 4d, 5p for the next period.
+
+The filling order creates the periodic table's shape. Groups 1–2 fill s orbitals (**s-block**). Groups 13–18 fill p (**p-block**). Groups 3–12 fill d (**d-block**). Lanthanides and actinides fill f (**f-block**).
+
+Electronic configuration isn't bookkeeping. It's the reason the periodic table looks the way it does.
+
+@continue
+
+**Write the configuration of iron (Z = 26). Which block?**
+
+[Ar] 3d⁶ 4s². Iron is filling 3d, so it's d-block.
+
+
+[ATOM_T_039] Chromium and Copper — Half-Filled Stability @SOLVED
+
+Chromium (Z = 24) should be [Ar] 3d⁴ 4s². Aufbau predicts it. But the actual configuration is **[Ar] 3d⁵ 4s¹**. One electron jumped from 4s to 3d.
+
+Copper (Z = 29) should be [Ar] 3d⁹ 4s². Actually it's **[Ar] 3d¹⁰ 4s¹**. Same story.
+
+@continue
+
+What's special about d⁵ and d¹⁰? d⁵ is exactly half-filled — one electron in each d orbital. d¹⁰ is completely filled — two in each. Both distribute electrons as evenly as possible.
+
+These arrangements are extra stable. Two reasons.
+
+First, symmetry. Even distribution means even shielding from all directions. This lowers the total energy.
+
+Second, **exchange energy**. Electrons with the same spin in the same subshell can swap positions. Each swap releases a small amount of energy. More same-spin electrons = more swaps = more stabilization.
+
+Five parallel-spin electrons (d⁵) can make 10 swaps. Four (d⁴) can make only 6. Those four extra swaps are enough to pull the electron from 4s.
+
+@continue
+
+This applies broadly. p³, p⁶, d⁵, d¹⁰, f⁷, f¹⁴ are all relatively stable.
+
+The effect is most visible in d subshells because 4s and 3d are so close in energy that a small stabilization flips the order.
+
+@continue
+
+**Predict Cr: [Ar] 3d⁴ 4s² or [Ar] 3d⁵ 4s¹?**
+
+[Ar] 3d⁵ 4s¹. Half-filled d⁵ provides extra exchange energy, beating Aufbau's default.
+
+
+[ATOM_T_040] Ion Configurations and Practice @SOLVED
+
+When atoms form ions, they lose or gain electrons. But which electrons leave first?
+
+4s fills before 3d — we know why (lower n + l). But when both are occupied, something shifts.
+
+The 3d electrons add shielding. They sit between 4s and the nucleus, partially blocking the nuclear pull on 4s. So the 4s electron is now held less tightly than 3d.
+
+For transition metals, 4s electrons are removed *first* — even though 4s filled first.
+
+@continue
+
+**Configuration of Fe²⁺?**
+
+Iron: [Ar] 3d⁶ 4s². Remove 2 from 4s first. Fe²⁺ = [Ar] 3d⁶. Four unpaired electrons.
+
+@continue
+
+**Configuration of Fe³⁺?**
+
+Remove one more from 3d. Fe³⁺ = [Ar] 3d⁵. Five unpaired electrons — *more* than Fe²⁺. And d⁵ is half-filled, making Fe³⁺ extra stable. That's why Fe³⁺ is common in nature.
+
+@continue
+
+**Configuration of Cu²⁺?**
+
+Copper: [Ar] 3d¹⁰ 4s¹. Remove 4s first → Cu⁺ = [Ar] 3d¹⁰. Remove one from 3d → Cu²⁺ = [Ar] 3d⁹. One unpaired electron.
+
+@continue
+
+**An element has configuration [Ar] 3d¹⁰ 4s² 4p³. Identify it. Count unpaired electrons.**
+
+Total electrons: 18 + 10 + 2 + 3 = 33. That's arsenic (As). By Hund's rule, 4p³ has one electron in each p orbital, same spin. Three unpaired electrons.

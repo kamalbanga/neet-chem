@@ -13,3 +13,5 @@
 !chapters/*/ncert.md
 !chapters/*/flashcards.md
 !chapters/*/theory.txt
+!chapters/*/lesson_images/
+!chapters/*/lesson_images/*.prompt

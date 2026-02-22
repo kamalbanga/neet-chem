@@ -1,0 +1,51 @@
+16:9
+
+Three hydrate isomers of CrCl₃·6H₂O — same formula, different structures.
+
+LAYOUT: Three octahedral complex diagrams side by side, left → center → right. Clear separation between panels.
+
+Each panel shows a central Cr atom with six positions around it (octahedral). A subtle boundary (thin white circle or bracket) marks the coordination sphere — what's INSIDE vs OUTSIDE.
+
+LEFT PANEL — [Cr(H₂O)₆]Cl₃:
+- Central Cr (small bright sphere)
+- All 6 octahedral positions: H₂O (small BLUE circles with "O" label)
+- Lines from each H₂O to Cr (coordinate bonds)
+- OUTSIDE the boundary: 3 Cl⁻ (GREEN spheres), floating freely, no bonds
+- Below: "[Cr(H₂O)₆]Cl₃"
+- Small colour tag: "Violet"
+
+CENTER PANEL — [Cr(H₂O)₅Cl]Cl₂·H₂O:
+- Central Cr
+- 5 positions: H₂O (blue), 1 position: Cl⁻ (GREEN, INSIDE octahedron, bonded)
+- OUTSIDE the boundary: 2 Cl⁻ (green, floating) + 1 H₂O (blue, floating)
+- Below: "[Cr(H₂O)₅Cl]Cl₂·H₂O"
+- Small colour tag: "Grey-green"
+
+RIGHT PANEL — [Cr(H₂O)₄Cl₂]Cl·2H₂O:
+- Central Cr
+- 4 positions: H₂O (blue), 2 positions: Cl⁻ (GREEN, INSIDE, bonded)
+- OUTSIDE the boundary: 1 Cl⁻ (green, floating) + 2 H₂O (blue, floating)
+- Below: "[Cr(H₂O)₄Cl₂]Cl·2H₂O"
+- Small colour tag: "Green"
+
+KEY VISUAL INSIGHT:
+- Left to right: Cl⁻ ions migrate from OUTSIDE → INSIDE the coordination sphere
+- Left to right: H₂O molecules migrate from INSIDE → OUTSIDE
+- The boundary between inside and outside is the crucial distinction
+- Species INSIDE are bonded (lines to Cr). Species OUTSIDE are free (no lines, floating)
+
+CRITICAL: The inside/outside boundary must be visually clear — the student should immediately see which species are bonded vs free. Use a subtle dotted circle or faint glow around the octahedral core.
+
+COLOUR CODING:
+- Blue = H₂O (consistent in all panels)
+- Green = Cl⁻ (consistent in all panels)
+- Coordinate bonds: thin white lines from ligand to Cr
+- Items outside sphere: slightly dimmer, no connecting lines
+
+ONLY THESE LABELS:
+- "Cr" at center of each octahedron
+- Formulas below each panel
+- Colour names below formulas
+- Small legend: blue circle "H₂O" / green circle "Cl⁻"
+
+Dark background (#151311). Clean diagrammatic style, not realistic 3D.

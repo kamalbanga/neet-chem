@@ -1,0 +1,679 @@
+[THERMO_T_001] What is Thermodynamics?
+
+Burn methane in oxygen. You get CO₂, water, and a lot of heat — enough to cook food or power a turbine. Where did that heat come from?
+
+It was stored in chemical bonds. Methane's C–H bonds hold energy. When those bonds break and new bonds form (C=O in CO₂, O–H in water), the new bonds are *stronger*. Stronger bonds release energy. That released energy is what you feel as heat.
+
+Every reaction involves this trade: break old bonds (costs energy), form new bonds (releases energy). The difference is what flows out or in as heat.
+
+But here's what's strange. Mix hydrogen and oxygen at room temperature — nothing happens. Yet the reaction *would* release enormous energy. The energy is there, waiting. Why doesn't it just go?
+
+Because energy isn't the whole story. Two rules govern what actually happens:
+
+**Rule 1: Energy is conserved.** You can't create or destroy it. Whatever energy leaves the system enters the surroundings. The books always balance. This is the *first law*.
+
+**Rule 2: Energy spreads out.** Systems naturally move toward more dispersed, more probable arrangements. A hot pan cools down — heat spreads into the room. Gases expand to fill containers — molecules spread out. This tendency is measured by *entropy*, and it always increases for the universe. This is the *second law*.
+
+Reactions happen spontaneously when both rules are satisfied — or when spreading out compensates for energy costs. The rest of this chapter builds the tools to predict when that happens.
+
+
+[THERMO_T_002] System, Surroundings, and Types of Systems
+
+To track energy, you need to draw a line. What's inside the line is your `system` — the thing you're studying. Everything outside is the `surroundings`. The line itself is the `boundary`.
+
+A beaker of reacting chemicals? That's your system. The air around it, the bench, your hands — surroundings. Together, system plus surroundings make the `universe` (in thermodynamic terms).
+
+Why bother with this? Because energy crossing the boundary is what we measure. Heat flowing out of the beaker warms the surroundings. Work done by expanding gas pushes against the atmosphere. The boundary is where the action happens.
+
+But boundaries differ in what they let through.
+
+An `open system` lets both energy and matter cross. Boiling water in an open pot — steam escapes (matter), heat escapes (energy). Most real-world situations are open systems.
+
+A `closed system` lets energy cross but not matter. A sealed flask of gas can heat up or cool down, but nothing gets in or out. The amount of stuff stays fixed.
+
+An `isolated system` lets neither cross. A perfect thermos — no heat leaks, no matter escapes. Real isolated systems don't exist, but we can approximate them. An isolated system's total energy never changes.
+
+These distinctions matter because the rules change. In an isolated system, ΔU = 0 always. In a closed system at constant volume, all heat goes into internal energy. Knowing your system type simplifies the math.
+
+
+[THERMO_T_003] State Functions vs Path Functions
+
+Climb from sea level to a mountain summit. Your altitude gain is fixed — say, 3000 meters — regardless of which trail you took. The winding path and the steep direct route give the same altitude change.
+
+But the *distance walked* depends entirely on the path. The winding trail might be 20 km; the direct route, 8 km.
+
+Altitude is like a `state function`. It depends only on where you are, not how you got there. Distance walked is like a `path function`. The route matters.
+
+In thermodynamics:
+
+**State functions** depend only on the current state of the system. Temperature, pressure, volume, internal energy (U), enthalpy (H), entropy (S) — all state functions. If the system is at 300 K and 1 bar, it doesn't matter how it got there. The values are fixed.
+
+**Path functions** depend on the route taken. Heat (q) and work (w) are path functions. You can transfer 100 J of energy to a gas by heating it, or by compressing it, or by some combination. The final state might be the same, but q and w differ depending on how you did it.
+
+This distinction is powerful. For state functions, only endpoints matter. You can calculate ΔU or ΔH without knowing every step of the process. For path functions, you need to know the specific process.
+
+
+[THERMO_T_004] Internal Energy and the First Law
+
+A gas in a cylinder has energy. Molecules are zooming around (kinetic energy). Bonds hold atoms together (potential energy). Electrons sit in orbitals (electronic energy). Add it all up — that total is the `internal energy`, U.
+
+We can't measure U directly. We don't have a meter that reads "this gas contains 5000 joules." But we can measure *changes* in U. Heat the gas, and ΔU is positive. Let it do work, and ΔU is negative.
+
+Only two things change internal energy:
+
+1. **Heat (q)** — energy transferred because of temperature difference
+2. **Work (w)** — energy transferred by mechanical means (like pushing a piston)
+
+That's it. No other way for energy to enter or leave a closed system.
+
+The `first law of thermodynamics` is simple bookkeeping:
+
+**ΔU = q + w**
+
+Energy in (as heat or work) increases U. Energy out decreases U. The total is always conserved — energy doesn't appear from nothing or vanish into nothing.
+
+For an isolated system, q = 0 and w = 0, so ΔU = 0. Energy is locked inside.
+
+The first law doesn't tell you which processes actually happen — a hot cup of coffee *could* spontaneously get hotter by cooling the room, and energy would still be conserved. But it doesn't happen. That mystery needs the second law, which comes later.
+
+For now: energy is conserved, and we track it with ΔU = q + w.
+
+
+[THERMO_T_005] Heat, Work, and Sign Conventions
+
+Energy crosses the boundary as heat or work. Let's be precise about each.
+
+`Heat` (q) is energy transfer driven by temperature difference. Put a cold spoon in hot soup — heat flows from soup to spoon until temperatures equalize. No temperature difference, no heat flow.
+
+`Work` (w) in thermodynamics usually means pressure-volume work. A gas expanding against a piston does work on the piston. A piston compressing a gas does work on the gas. Force applied through a distance.
+
+Now the sign conventions. These trip people up, so pay attention.
+
+**IUPAC convention (what we use):**
+- q is **positive** when heat flows INTO the system
+- w is **positive** when work is done ON the system
+
+Both positive signs mean the system gains energy. Both negative signs mean the system loses energy. This makes ΔU = q + w intuitive — add up what comes in.
+
+When gas expands, it pushes outward — does work on surroundings. System loses energy, so w < 0.
+
+When gas is compressed, surroundings push inward — do work on system. System gains energy, so w > 0.
+
+One special case: an `adiabatic process` has no heat transfer. The system is perfectly insulated — wrapped in an `adiabatic wall`. Here q = 0, so ΔU = w. All energy change comes from work alone.
+
+
+[THERMO_T_006] Types of Thermodynamic Processes
+
+Different processes hold different variables constant. Knowing the constraint simplifies everything.
+
+**Isothermal** — constant temperature. The system stays in contact with a large heat reservoir. For an ideal gas at constant T, internal energy doesn't change (ΔU = 0), so q = −w. Whatever heat enters equals the work done by the gas.
+
+**Adiabatic** — no heat exchange (q = 0). The system is insulated. Here ΔU = w. Compress a gas adiabatically and it heats up — all that work becomes internal energy. Expand it adiabatically and it cools.
+
+**Isochoric** (or isometric) — constant volume. No expansion or compression means no pressure-volume work (w = 0). So ΔU = q. All heat absorbed goes directly into internal energy. Bomb calorimeters use this.
+
+**Isobaric** — constant pressure. Most lab chemistry happens this way — open flasks at atmospheric pressure. Here the heat absorbed equals the enthalpy change: q_p = ΔH. This is why enthalpy is so useful for chemists.
+
+Each constraint removes a variable, making calculations cleaner. See "constant pressure"? Think enthalpy. See "constant volume"? Think internal energy. See "adiabatic"? Set q = 0.
+
+
+[THERMO_T_007] Work: Irreversible and Free Expansion
+
+When gas expands against a constant external pressure, work is straightforward:
+
+**w = −P_ext(V_f − V_i) = −P_ext ΔV**
+
+Why negative? When gas expands, V_f > V_i, so ΔV is positive. But expansion means the gas *loses* energy (it's pushing outward), so w must be negative. The negative sign handles this.
+
+P_ext is the *external* pressure — what the gas pushes against. Not the gas's own pressure. If you suddenly drop external pressure to 1 atm and let the gas expand, you use P_ext = 1 atm in the formula, regardless of what the gas pressure was.
+
+`Free expansion` is the extreme case. The gas expands into a vacuum — nothing to push against. P_ext = 0.
+
+w = −(0)(ΔV) = 0
+
+No work done. The gas expands, but it doesn't push on anything, so no energy transfers as work.
+
+If free expansion is also adiabatic (q = 0), then ΔU = 0. For an ideal gas, this means temperature doesn't change either. The gas just spreads out into the empty space, same energy, same temperature.
+
+Unit conversions you'll need: **1 L·atm = 101.3 J** and **1 L·bar = 100 J**.
+
+
+[THERMO_T_008] Work: Reversible Isothermal
+
+The formula w = −P_ext ΔV works when external pressure is constant. But what if pressure changes continuously during expansion?
+
+Imagine a piston with a pile of sand on top. Remove one grain — the gas expands slightly, pressure drops slightly. Remove another grain — expands more. At each instant, external pressure nearly equals gas pressure.
+
+This is a `reversible process`. It's infinitely slow, always in equilibrium. At every moment, you could reverse direction with an infinitesimal push.
+
+An `irreversible process` is everything else — real processes with finite pressure differences, happening at finite speed.
+
+For reversible isothermal expansion, we can't use constant P_ext. Instead, P changes with V according to the ideal gas law: P = nRT/V. We integrate:
+
+**w = −nRT ln(V_f/V_i)**
+
+For expansion (V_f > V_i), the ln term is positive, so w is negative — gas does work on surroundings.
+
+For compression (V_f < V_i), ln is negative, so w is positive — surroundings do work on gas.
+
+Since PV = constant at constant T, we can rewrite using pressures:
+
+**w = −nRT ln(P_i/P_f)**
+
+The ratio flips because pressure and volume move opposite directions.
+
+Why does reversible work matter? It's the *maximum* work you can extract from an expansion (or minimum work needed for compression). Real irreversible processes always waste some energy — you get less work out, or need more work in.
+
+
+[THERMO_T_009] Why Enthalpy?
+
+At constant volume, tracking energy is simple. No expansion, no PV work, so all heat goes into internal energy: q_V = ΔU.
+
+But chemistry rarely happens at constant volume. Reactions run in open flasks, beakers, living cells — all at constant atmospheric pressure. Volume *can* change.
+
+When gases form or are consumed, the system expands or contracts against the atmosphere. Some energy goes into this PV work. So at constant pressure:
+
+q_p ≠ ΔU
+
+The heat we measure includes both the internal energy change *and* the work done against the atmosphere. Tracking them separately is tedious.
+
+We want a single quantity where heat at constant pressure equals the change in that quantity — just like q_V = ΔU at constant volume. That quantity is enthalpy.
+
+
+[THERMO_T_010] Enthalpy: Definition and ΔH
+
+Define `enthalpy` as:
+
+**H = U + PV**
+
+This looks arbitrary, but watch what happens at constant pressure.
+
+When a reaction runs at constant P, some heat changes U, and some does PV work (if volume changes). The enthalpy H bundles both together. Its change is:
+
+ΔH = ΔU + PΔV (at constant P)
+
+And here's the payoff:
+
+**q_p = ΔH**
+
+Heat absorbed at constant pressure equals the enthalpy change. One number captures everything. This is why chemists love enthalpy — most experiments happen at atmospheric pressure, and ΔH is exactly what we measure.
+
+H is a state function (U, P, V all are), so ΔH depends only on initial and final states. Path doesn't matter.
+
+The sign tells you heat flow direction:
+- **ΔH < 0**: system releases heat → `exothermic`
+- **ΔH > 0**: system absorbs heat → `endothermic`
+
+Burning fuel? Exothermic — heat pours out, ΔH negative.
+Melting ice? Endothermic — heat absorbed from surroundings, ΔH positive.
+
+
+[THERMO_T_011] ΔH vs ΔU for Gas Reactions
+
+For reactions involving only solids and liquids, volume barely changes. PΔV ≈ 0, so ΔH ≈ ΔU. The two are practically equal.
+
+But gases have large volumes. When a reaction produces gas, the system expands and does work on the atmosphere. When it consumes gas, the atmosphere compresses the system. The PΔV term matters.
+
+The relationship:
+
+**ΔH = ΔU + Δn_g RT**
+
+`Δn_g` = (moles of gaseous products) − (moles of gaseous reactants)
+
+If Δn_g > 0 (more gas formed): ΔH > ΔU. Extra energy goes into expansion work.
+
+If Δn_g < 0 (gas consumed): ΔH < ΔU. Atmosphere does work on the system.
+
+If Δn_g = 0 (same moles of gas): ΔH = ΔU. No net expansion.
+
+Example: N₂(g) + 3H₂(g) → 2NH₃(g)
+
+Reactant gases: 1 + 3 = 4 moles
+Product gases: 2 moles
+Δn_g = 2 − 4 = −2
+
+Two moles of gas disappear. The system contracts. ΔH is *less negative* than ΔU (or more positive) by 2RT.
+
+Only count gases. Solids and liquids don't contribute to Δn_g — their volumes are negligible.
+
+
+[THERMO_T_012] ΔH ↔ ΔU Calculations
+
+Converting between ΔH and ΔU:
+
+**ΔH = ΔU + Δn_g RT**
+
+**Step 1:** Write the balanced equation with states (g, l, s).
+
+**Step 2:** Count gaseous moles only.
+- Δn_g = Σ(gaseous products) − Σ(gaseous reactants)
+
+**Step 3:** Calculate Δn_g RT.
+- R = 8.314 J mol⁻¹ K⁻¹
+- At 298 K: RT ≈ 2.5 kJ/mol
+
+**Step 4:** Apply the formula.
+
+**Watch the units.** ΔH is usually in kJ. RT in J. Convert before combining. At 298 K, RT = 2478 J ≈ 2.5 kJ per mole of gas difference.
+
+**Example:** For C(s) + O₂(g) → CO₂(g), Δn_g = 1 − 1 = 0. So ΔH = ΔU.
+
+**Example:** For 2C(s) + O₂(g) → 2CO(g), Δn_g = 2 − 1 = +1. So ΔH = ΔU + RT.
+
+When Δn_g = 0, skip the calculation. ΔH and ΔU are equal.
+
+
+[THERMO_T_013] Heat Capacity
+
+Add the same amount of heat to water and to iron. The iron gets much hotter. Why?
+
+Different substances resist temperature change differently. `Heat capacity` (C) measures this resistance:
+
+**C = q/ΔT**
+
+It's the heat needed to raise temperature by 1 K. High heat capacity means lots of heat for small temperature change. Water has a famously high heat capacity — it absorbs heat without warming much.
+
+Heat capacity depends on how much stuff you have. Double the water, double the heat capacity. So we define standardized versions:
+
+`Molar heat capacity` (C_m): heat to raise 1 mole by 1 K.
+
+`Specific heat` (c): heat to raise 1 gram by 1 K.
+
+q = nC_m ΔT = mc ΔT
+
+Heat capacity also depends on *conditions*. At constant volume, we use `C_V`. At constant pressure, we use `C_p`.
+
+For ideal gases:
+
+**C_p − C_V = R**
+
+Why is C_p larger? At constant pressure, the gas expands when heated. Some energy goes into PV work instead of raising temperature. You need *more* heat to get the same temperature rise. At constant volume, no expansion work — all heat raises temperature.
+
+
+[THERMO_T_014] Enthalpy Changes: Types and Standard State
+
+Enthalpy changes depend on conditions — temperature, pressure, physical states. To compare values from different sources, we need a reference point.
+
+The `standard state` of a substance is its pure form at 1 bar pressure. For water at 298 K, standard state is pure liquid water at 1 bar. For iron at 500 K, it's pure solid iron at 1 bar.
+
+Standard enthalpy changes get a ° symbol: ΔH°.
+
+Phase changes have their own names:
+
+**`Enthalpy of fusion`** (Δ_fus H°): heat to melt 1 mole of solid at its melting point. Always positive — melting absorbs heat.
+
+**`Enthalpy of vaporization`** (Δ_vap H°): heat to vaporize 1 mole of liquid at its boiling point. Always positive — vaporizing absorbs heat.
+
+**`Enthalpy of sublimation`** (Δ_sub H°): heat to convert 1 mole of solid directly to gas. Also positive.
+
+These values reflect intermolecular forces. Water has high Δ_vap H° (40.7 kJ/mol) because hydrogen bonds are strong. Acetone has lower Δ_vap H° (29.1 kJ/mol) — weaker dipole forces.
+
+A `thermochemical equation` is a balanced equation with the enthalpy change included:
+
+H₂(g) + ½O₂(g) → H₂O(l); ΔH° = −285.8 kJ/mol
+
+Physical states matter. H₂O(l) vs H₂O(g) gives different ΔH values — the difference is Δ_vap H°.
+
+
+[THERMO_T_015] Standard Enthalpy of Formation
+
+How do we assign enthalpy values to individual compounds? We can't measure absolute H, only changes. But we can pick a reference point.
+
+The `standard enthalpy of formation` (Δ_f H°) is the enthalpy change when 1 mole of a compound forms from its elements in their `reference states`.
+
+Reference state = most stable form of the element at 1 bar.
+
+- Oxygen: O₂ gas (not O₃)
+- Carbon: graphite (not diamond)
+- Sulfur: rhombic sulfur
+- Hydrogen: H₂ gas
+- Metals: solid form
+
+By convention: **Δ_f H° of any element in its reference state = 0**
+
+This is the baseline. All formation enthalpies are measured relative to elements.
+
+Examples:
+
+C(graphite) + O₂(g) → CO₂(g); Δ_f H° = −393.5 kJ/mol
+
+½N₂(g) + ½O₂(g) → NO(g); Δ_f H° = +90.3 kJ/mol
+
+Notice the coefficients — formation enthalpy is always for *1 mole* of product formed. That's why you see ½N₂, not N₂.
+
+Negative Δ_f H° means the compound is more stable than its elements (energy released forming it). Positive Δ_f H° means less stable (energy needed to form it).
+
+
+[THERMO_T_016] Enthalpy from Formation Data
+
+Here's the most common way to calculate reaction enthalpy:
+
+**Δ_r H° = Σ Δ_f H°(products) − Σ Δ_f H°(reactants)**
+
+The logic: imagine decomposing all reactants to elements (costs Σ Δ_f H° of reactants), then forming all products from elements (releases Σ Δ_f H° of products). The net is the difference.
+
+**Example:** Find Δ_r H° for CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
+
+Given: Δ_f H°[CH₄(g)] = −74.8 kJ/mol, Δ_f H°[CO₂(g)] = −393.5 kJ/mol, Δ_f H°[H₂O(l)] = −285.8 kJ/mol, Δ_f H°[O₂(g)] = 0 (element in reference state)
+
+Δ_r H° = [1(−393.5) + 2(−285.8)] − [1(−74.8) + 2(0)]
+Δ_r H° = [−393.5 − 571.6] − [−74.8]
+Δ_r H° = −965.1 + 74.8 = −890.3 kJ/mol
+
+**Key traps:**
+- Stoichiometric coefficients multiply the Δ_f H° values
+- Elements in reference state have Δ_f H° = 0
+- Watch signs carefully when subtracting negative numbers
+
+
+[THERMO_T_017] Bond Enthalpy
+
+Breaking bonds costs energy. Forming bonds releases energy. This is fundamental to understanding reaction energetics.
+
+`Bond enthalpy` is the energy needed to break one mole of a particular bond in gaseous molecules, producing gaseous fragments.
+
+H₂(g) → 2H(g); ΔH = +436 kJ/mol (H–H bond enthalpy)
+
+Cl₂(g) → 2Cl(g); ΔH = +242 kJ/mol (Cl–Cl bond enthalpy)
+
+For diatomic molecules, this is straightforward — there's only one bond to break.
+
+For polyatomic molecules, it's trickier. Breaking the first C–H bond in methane takes 435 kJ/mol. The second takes 444 kJ/mol. The third, 444 kJ/mol. The fourth, 339 kJ/mol. They're different because each removal changes what's left.
+
+So we use `mean bond enthalpy` — the average value across all similar bonds in a molecule, or averaged across different molecules. The mean C–H bond enthalpy (≈414 kJ/mol) is a useful approximation, even if individual C–H bonds vary.
+
+`Enthalpy of atomization` (Δ_a H°) is the energy to break a molecule completely into gaseous atoms:
+
+CH₄(g) → C(g) + 4H(g); Δ_a H° = +1665 kJ/mol
+
+This equals the sum of all bond enthalpies in the molecule.
+
+
+[THERMO_T_018] Enthalpy from Bond Enthalpies
+
+For gas-phase reactions, we can estimate Δ_r H using bond enthalpies:
+
+**Δ_r H = Σ(bonds broken) − Σ(bonds formed)**
+
+Breaking bonds requires energy (positive). Forming bonds releases energy (negative). The net is the difference.
+
+**Example:** H₂(g) + Cl₂(g) → 2HCl(g)
+
+Bonds broken: 1 H–H (436 kJ) + 1 Cl–Cl (242 kJ) = 678 kJ
+Bonds formed: 2 H–Cl (2 × 431 = 862 kJ)
+
+Δ_r H = 678 − 862 = −184 kJ/mol
+
+The reaction is exothermic because H–Cl bonds are stronger than the average of H–H and Cl–Cl bonds.
+
+**Important limitations:**
+- Works only for gas-phase reactions — bond enthalpies are defined for gaseous species
+- Uses mean bond enthalpies, so results are approximate
+- If the reaction involves liquids or solids, you need to add vaporization/sublimation enthalpies
+
+**Common trap:** The sign. Bonds broken = energy IN (positive). Bonds formed = energy OUT (subtract). It's "broken minus formed," not the other way.
+
+
+[THERMO_T_019] Hess's Law
+
+Some reactions can't be measured directly. Burn carbon to make CO, and you always get some CO₂ mixed in. So how do you find ΔH for C + ½O₂ → CO?
+
+The key: enthalpy is a state function. Total ΔH depends only on start and end points, not the path. You can calculate ΔH for a "difficult" reaction by combining "easy" reactions that add up to it.
+
+This is `Hess's Law`: if a reaction can be written as a sum of steps, its ΔH equals the sum of the ΔH values for those steps.
+
+Two manipulation rules:
+- Reverse a reaction → flip the sign of ΔH
+- Multiply coefficients by n → multiply ΔH by n
+
+**Example:** Find ΔH for C(graphite) + ½O₂(g) → CO(g)
+
+Given:
+- C + O₂ → CO₂; ΔH = −393.5 kJ ... (1)
+- CO + ½O₂ → CO₂; ΔH = −283.0 kJ ... (2)
+
+We need CO as a product, but equation (2) has it as a reactant. Reverse (2):
+
+CO₂ → CO + ½O₂; ΔH = +283.0 kJ ... (2')
+
+Add (1) and (2'). CO₂ appears on both sides and cancels:
+
+C + O₂ + CO₂ → CO₂ + CO + ½O₂
+
+Simplifies to: C + ½O₂ → CO
+
+ΔH = −393.5 + 283.0 = −110.5 kJ/mol
+
+Hess's Law turns thermochemistry into algebra — manipulate equations until you get the target reaction, and the ΔH values follow.
+
+
+[THERMO_T_020] What Drives Spontaneous Change?
+
+A `spontaneous process` is one that happens on its own, without continuous outside help. Drop a ball — it falls. That's spontaneous. It won't rise back up on its own.
+
+But "spontaneous" doesn't mean "fast." Hydrogen and oxygen can sit together for years at room temperature. Yet the reaction *is* spontaneous — spark it once, and it explodes. The reaction has the *potential* to proceed; it just needs activation.
+
+So what determines spontaneity?
+
+First guess: energy. Things fall downhill. Reactions that release energy should be spontaneous. Exothermic reactions should go; endothermic ones shouldn't.
+
+This works sometimes. Combustion reactions are exothermic and spontaneous. Neutralization reactions release heat and proceed readily.
+
+But it fails badly in other cases.
+
+Ice melts at room temperature. That's endothermic — heat flows *into* the ice. Yet it happens spontaneously.
+
+Ammonium chloride dissolves in water and the solution gets cold. Endothermic, yet spontaneous.
+
+Some reactions are exothermic but don't happen without help. Hydrogen and oxygen release enormous energy when they react, but they sit there doing nothing until you add a spark.
+
+Energy release helps drive reactions, but it's not the whole story. Something else matters — a tendency for things to spread out, become more dispersed, more probable. That something is entropy.
+
+
+[THERMO_T_021] Entropy: The Tendency to Spread Out
+
+Shuffle a new deck of cards. They start in perfect order — aces together, suits organized. Keep shuffling. What happens?
+
+They become disordered. Not because disorder is "preferred" in some mystical sense, but because there are vastly more disordered arrangements than ordered ones. Random shuffling finds disordered states simply because there are more of them to find.
+
+This is the heart of `entropy` (S) — a measure of how many microscopic arrangements correspond to the same macroscopic state. More arrangements = higher entropy.
+
+A gas compressed in one corner of a box has low entropy. There's only one way to have all molecules in that corner. Let it expand to fill the box — now there are astronomical numbers of ways to arrange the molecules throughout the space. Higher entropy.
+
+Ice has low entropy. Water molecules are locked in a crystal lattice, fixed positions. Melt it — molecules move freely, countless arrangements possible. Higher entropy.
+
+In general:
+- Gases > liquids > solids (more freedom of motion)
+- More molecules > fewer molecules (more ways to arrange)
+- Higher temperature > lower temperature (more energy states accessible)
+
+For a process at constant temperature, entropy change relates to heat:
+
+**ΔS = q_rev / T**
+
+Heat added increases molecular motion, creating more possible arrangements. Dividing by T accounts for the fact that adding heat to something already hot (high chaos) matters less than adding it to something cold (low chaos).
+
+
+[THERMO_T_022] Entropy Calculations
+
+**Predicting the sign of ΔS:**
+
+More gas molecules produced → positive ΔS (gases have high entropy)
+Fewer gas molecules → negative ΔS
+Solid → liquid → gas: positive ΔS at each step
+Dissolution usually increases ΔS (more dispersed)
+Reactions that increase total moles generally have positive ΔS
+
+**Example:** 2H₂(g) + O₂(g) → 2H₂O(l)
+
+3 moles of gas become 0 moles of gas (liquid water). Huge decrease in entropy. ΔS is negative.
+
+**Example:** CaCO₃(s) → CaO(s) + CO₂(g)
+
+Solid → solid + gas. Gas produced means more entropy. ΔS is positive.
+
+**Phase change calculations:**
+
+At the transition temperature (melting point, boiling point), the process is reversible. Heat absorbed equals ΔH of the transition:
+
+**ΔS = Δ_trans H / T**
+
+For water melting at 273 K: ΔS = (6.01 kJ/mol) / (273 K) = 22.0 J/(mol·K)
+
+For water boiling at 373 K: ΔS = (40.79 kJ/mol) / (373 K) = 109.3 J/(mol·K)
+
+Vaporization gives a bigger entropy increase than melting — going from liquid to gas creates far more possible arrangements than solid to liquid.
+
+**Isothermal expansion of ideal gas:**
+
+ΔS = nR ln(V_f/V_i) = nR ln(P_i/P_f)
+
+Expanding into more volume = more arrangements = positive ΔS.
+
+**Unit trap:** If ΔH is in kJ, convert to J before dividing by T to get ΔS in J/(mol·K).
+
+
+[THERMO_T_023] Second and Third Laws of Thermodynamics
+
+The `second law of thermodynamics` states: for any spontaneous process, the total entropy of the universe increases.
+
+**ΔS_total = ΔS_system + ΔS_surroundings > 0**
+
+The system's entropy can decrease — ice can form from water in a freezer. But when it does, the surroundings' entropy increases by more. The heat released to the freezer increases the entropy of the surroundings enough to compensate.
+
+At equilibrium, entropy is maximized. No further spontaneous change occurs:
+
+**ΔS_total = 0** (at equilibrium)
+
+This is profound. The universe moves toward maximum entropy — not because entropy is "good," but because high-entropy states are overwhelmingly more probable.
+
+The `third law of thermodynamics` states: the entropy of a perfect crystalline substance approaches zero as temperature approaches absolute zero.
+
+**S → 0 as T → 0 K** (for perfect crystals)
+
+At absolute zero, molecules have minimum energy and sit in a perfectly ordered arrangement. Only one arrangement is possible. One arrangement means zero entropy (S = k ln 1 = 0).
+
+This gives us an absolute reference point. Unlike internal energy, we *can* define absolute entropy values. Tables list S° values for substances at 298 K — these are measured by adding up (q_rev/T) from 0 K to 298 K.
+
+`Absolute entropy` values allow us to calculate ΔS° for reactions just like we calculate ΔH° from formation data:
+
+ΔS° = Σ S°(products) − Σ S°(reactants)
+
+
+[THERMO_T_024] Gibbs Energy and Spontaneity
+
+We now have two factors that drive spontaneous change:
+- Tendency to minimize energy (ΔH < 0 favors spontaneity)
+- Tendency to maximize entropy (ΔS > 0 favors spontaneity)
+
+Sometimes they agree — exothermic reaction with entropy increase. Clearly spontaneous.
+
+Sometimes they conflict — endothermic reaction with entropy increase, or exothermic with entropy decrease. Which wins?
+
+`Gibbs energy` (G) combines both into a single criterion:
+
+**G = H − TS**
+
+The change in Gibbs energy is:
+
+**ΔG = ΔH − TΔS**
+
+This is called the Gibbs equation. It balances enthalpy and entropy, with temperature determining how much entropy matters.
+
+The spontaneity criterion:
+- **ΔG < 0**: spontaneous (process will proceed)
+- **ΔG > 0**: non-spontaneous (process won't proceed on its own)
+- **ΔG = 0**: equilibrium (no net change)
+
+Why does this work? Buried in the derivation: ΔG < 0 is equivalent to ΔS_total > 0. Gibbs energy lets us determine spontaneity by looking at the system alone, without calculating what happens in the surroundings.
+
+**The four cases:**
+
+| ΔH | ΔS | ΔG | Spontaneity |
+|---|---|---|---|
+| − | + | always − | Spontaneous at all temperatures |
+| − | − | − at low T, + at high T | Spontaneous at low T only |
+| + | + | + at low T, − at high T | Spontaneous at high T only |
+| + | − | always + | Never spontaneous |
+
+When ΔH and ΔS have opposite signs, the reaction is spontaneous everywhere or nowhere. When they have the same sign, temperature decides.
+
+
+[THERMO_T_025] Gibbs Energy Calculations
+
+**Calculating ΔG from ΔH and ΔS:**
+
+ΔG° = ΔH° − TΔS°
+
+**Example:** For a reaction with ΔH° = −92 kJ/mol and ΔS° = −195 J/(mol·K) at 298 K:
+
+First, match units. ΔS° = −195 J/(mol·K) = −0.195 kJ/(mol·K)
+
+ΔG° = −92 − (298)(−0.195) = −92 + 58.1 = −33.9 kJ/mol
+
+ΔG° < 0, so the reaction is spontaneous at 298 K.
+
+**Finding the crossover temperature:**
+
+When ΔH and ΔS have the same sign, there's a temperature where ΔG = 0 — the boundary between spontaneous and non-spontaneous.
+
+Set ΔG = 0: 0 = ΔH − TΔS
+
+**T = ΔH / ΔS**
+
+**Example:** If ΔH° = +178 kJ/mol and ΔS° = +161 J/(mol·K):
+
+T = (178 × 10³ J/mol) / (161 J/(mol·K)) = 1106 K
+
+Below 1106 K: ΔG > 0 (non-spontaneous)
+Above 1106 K: ΔG < 0 (spontaneous)
+
+This is why some reactions need heating — the TΔS term must overcome an unfavorable ΔH.
+
+**Common traps:**
+- Unit mismatch: ΔH in kJ, ΔS in J/K. Convert before calculating.
+- Using °C instead of K. Temperature must be in Kelvin.
+- Forgetting that T = ΔH/ΔS gives the equilibrium temperature, not the temperature where the reaction starts.
+
+
+[THERMO_T_026] Gibbs Energy and Equilibrium
+
+At equilibrium, forward and reverse reactions proceed at equal rates. No net change occurs. What does Gibbs energy say about this?
+
+**At equilibrium: Δ_r G = 0**
+
+Note: this is Δ_r G, not Δ_r G°. The actual Gibbs energy change under current conditions is zero.
+
+But Δ_r G° (standard Gibbs energy change) tells us where equilibrium lies:
+
+**Δ_r G° = −RT ln K**
+
+K is the equilibrium constant. This equation connects thermodynamics to equilibrium.
+
+Rearranged: **K = e^(−Δ_r G°/RT)**
+
+What does this tell us?
+
+**If Δ_r G° is large and negative:**
+- The exponent is large and positive
+- K is very large (K >> 1)
+- Products strongly favored at equilibrium
+
+**If Δ_r G° is large and positive:**
+- The exponent is large and negative
+- K is very small (K << 1)
+- Reactants strongly favored at equilibrium
+
+**If Δ_r G° ≈ 0:**
+- K ≈ 1
+- Comparable amounts of reactants and products at equilibrium
+
+The temperature dependence of K comes through this equation too. Since Δ_r G° = Δ_r H° − TΔ_r S°:
+
+−RT ln K = Δ_r H° − TΔ_r S°
+
+For exothermic reactions (ΔH° < 0): K decreases as T increases. Heating shifts equilibrium toward reactants.
+
+For endothermic reactions (ΔH° > 0): K increases as T increases. Heating shifts equilibrium toward products.
+
+This matches Le Chatelier's principle — but now you see *why* it works. The entropy term TΔS° grows with temperature, changing where ΔG° = 0 lies.
